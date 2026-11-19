@@ -25,7 +25,7 @@ crumb: Free Bill Audit
           <label class="field"><span>Current carrier</span><select id="auCarrier"><option>AT&amp;T</option><option>Verizon</option><option>T-Mobile</option><option>Cricket</option><option>Metro by T-Mobile</option><option>Boost Mobile</option><option>Mint Mobile</option><option>Visible</option><option>Google Fi</option><option>Xfinity / Spectrum Mobile</option><option>Other</option></select></label>
           <label class="field"><span>Monthly bill for all lines ($)</span><input id="auBill" type="number" min="0" value="140" inputmode="decimal"></label>
           <label class="field"><span>Number of lines</span><select id="auLines"><option>1</option><option selected>2</option><option>3</option><option>4</option><option>5</option><option>6</option></select></label>
-          <label class="field"><span>Includes phone payments?</span><select id="auDevice"><option value="no">No, service only</option><option value="yes">Yes, includes device payments</option></select></label>
+          <label class="field"><span>Phone payments inside that bill ($/mo, 0 if none)</span><input id="auDevice" type="number" min="0" value="0" inputmode="decimal"></label>
         </div>
         <div class="step-actions"><button class="btn btn-primary btn-lg" type="button" data-next>Continue →</button></div>
       </div>
