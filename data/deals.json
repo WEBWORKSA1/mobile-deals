@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T02:42:48Z",
- "runs": 2,
+ "updated": "2026-11-19T03:33:53Z",
+ "runs": 3,
  "sources_ok": [
   "9to5Google Deals",
   "9to5Toys",
@@ -14,6 +14,17 @@
   "mydealz"
  ],
  "items": [
+  {
+   "id": "982f4ed8d553",
+   "title": "3-Port TALIX 12800mAh Portable Power Bank w/ 240W USB-C Cable $20 + Free S&H",
+   "link": "https://slickdeals.net/f/20333676-3-port-talix-12800mah-125w-tsa-approved-portable-laptop-charger-power-bank-w-240w-usb-c-cable-19-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "source": "Slickdeals",
+   "region": "US",
+   "cat": "accessories",
+   "date": "2026-11-19T03:23:39Z",
+   "price": "$20",
+   "heat": 0
+  },
   {
    "id": "1be2f6d19b3d",
    "title": "iD Mobile Sim Only deal:: 5GB Unltd Mins/Texts, EU Roaming - Monthly rolling plan, cel anytime // 25GB -£6//40GB-£7//80GB -£8//120GB-£9",
@@ -45,7 +56,7 @@
    "cat": "phones",
    "date": "2026-11-19T02:37:44Z",
    "price": "",
-   "heat": 106
+   "heat": 108
   },
   {
    "id": "680c484c6684",
@@ -111,7 +122,7 @@
    "cat": "wearables",
    "date": "2026-11-19T02:00:12Z",
    "price": "",
-   "heat": 103
+   "heat": 118
   },
   {
    "id": "99365fa38841",
@@ -122,7 +133,7 @@
    "cat": "phones",
    "date": "2026-11-19T01:51:24Z",
    "price": "£300",
-   "heat": 110
+   "heat": 117
   },
   {
    "id": "afc497066dfd",
@@ -155,7 +166,7 @@
    "cat": "wearables",
    "date": "2026-11-19T00:32:41Z",
    "price": "",
-   "heat": 132
+   "heat": 134
   },
   {
    "id": "seed-metro-17e",
@@ -210,7 +221,7 @@
    "cat": "phones",
    "date": "2026-11-18T23:55:28Z",
    "price": "",
-   "heat": 111
+   "heat": 116
   },
   {
    "id": "398e63a757c0",
@@ -1104,6 +1115,17 @@
    "heat": 0
   },
   {
+   "id": "380fc220797b",
+   "title": "Upgrade your phone with these 10 early Black Friday deals — save up to AU$1,100 off iPhones, Samsung Galaxy, Google Pixel and more",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzVFNydHE2LWRFZHQ4dzFNU3h6VW5mT3VCbnhhbnM2RFA2WXdoNDZ0c1RzamlSWmsyeF9iSEZnZWNIMWszcnlNZXhaUDg5YTR3Yk5PaTNUR2FhM2NNNWJiMUFfd1QzVXh2TmM5THZZQ3hnWGpVVUdj?oc=5",
+   "source": "TechRadar",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-16T23:02:28Z",
+   "price": "$1,100",
+   "heat": 0
+  },
+  {
    "id": "209a0446bbb6",
    "title": "These Pixel 11 Deals Can Save You Hundreds on Google’s Latest Phones",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14dk9rYXpWVTU0SExFaFhZazBBcDhIQ3V6c0FTWXo1QTMxM0hJS3RRanVZT2NLWktLSnRveExpSDFlNWMzUWktejJGNUdud0lWMGl3STU3dDFpQ3M?oc=5",
@@ -1445,6 +1467,17 @@
    "heat": 0
   },
   {
+   "id": "0dc99c59bb8f",
+   "title": "Mint Mobile 5G Home MINTernet & Unlimited Premium Wireless 12-Month Bundle for $45/mo + free expedited shipping",
+   "link": "https://www.dealnews.com/Mint-Mobile-5-G-Home-MINTernet-Unlimited-Premium-Wireless-12-Month-Bundle-for-45-mo-free-expedited-shipping/22375766.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "plans",
+   "date": "2026-11-10T13:46:09Z",
+   "price": "$45",
+   "heat": 0
+  },
+  {
    "id": "8b69ff818836",
    "title": "11% off Sitewide (e.g. Motorola Edge 70 8GB RAM/256GB Storage $531.33) @ Mobileciti",
    "link": "https://www.ozbargain.com.au/node/982431",
@@ -1508,6 +1541,17 @@
    "cat": "plans",
    "date": "2026-11-06T02:13:15Z",
    "price": "$649",
+   "heat": 0
+  },
+  {
+   "id": "d5c7d3f66064",
+   "title": "Ultra Mobile by T-Mobile 4GB Plan for $6.50 per month + free shipping",
+   "link": "https://www.dealnews.com/Ultra-Mobile-by-T-Mobile-4-GB-Plan-for-6-50-per-month-free-shipping/22350724.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "plans",
+   "date": "2026-11-05T10:24:02Z",
+   "price": "$6.50",
    "heat": 0
   },
   {
