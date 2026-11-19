@@ -92,7 +92,7 @@ def parse_feed(raw):
 
 def categorize(t):
     tl = t.lower()
-    if re.search(r"\b(airpods|earbuds|buds|magsafe|charger|charging|power ?bank|cable|cases?|screen protector|stand|mount|adapter|headphones)\b", tl) \
+    if re.search(r"\b(airpods|earbuds|buds|magsafe|charger|charging|gan\d?|power ?bank|cable|cases?|screen protector|stand|mount|adapter|headphones)\b", tl) \
             and not re.search(r"\b(sim|e-?sim|prepaid|plan)\b", tl):
         return "accessories"
     if re.search(r"\b(sim|e-?sims?|prepaid|plans?|unlimited|postpaid|mvno|tarifs?|forfaits?|vertrag|\d+\s?gb\s?(/|per|a)\s?(mo|month)|/mo\b|/month|per month|lines?)\b", tl):
