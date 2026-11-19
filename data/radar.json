@@ -1,23 +1,47 @@
 {
- "updated": "2026-11-19T03:34:05.593706+00:00",
+ "updated": "2026-11-19T15:53:18.416668+00:00",
  "models": [
   {
    "model": "Pixel 11",
-   "count": 10,
-   "link": "https://www.usmobile.com/",
-   "date": "2026-11-19T00:10:00Z"
+   "count": 11,
+   "link": "https://9to5toys.com/2026/11/19/official-google-black-friday-deals-now-live-pixel-11-watch-5/",
+   "date": "2026-11-19T08:02:54Z"
   },
   {
    "model": "Galaxy S26 Ultra",
-   "count": 7,
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ESkFZT2xXbDhiaDMxUWs4TG1td0V1em9halB2eEZVcVVzbENLVDBrXzVhaG1oNVVpY0VqVHhUcEV6VEFfX1l3ajZ6Z0pzeFlfTEFoSUtvUEhpRktxRHF3d1RVVjk4T2ZMTV9SLVF5WQ?oc=5",
-   "date": "2026-11-18T13:36:52Z"
+   "count": 8,
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRjVrdnduNGczNUFxS01fQ250NjdUUGlPSWdsUk5MT3c0MzMzRWttbnNlcW9lSW9CX19XbkJjNEJobkRTU3ZvZU93VldINUJJZERKbnZtdzVxQ01zVWRrTnN0cmpwRk5vM3kzZnBnRDFVdFhSc1JkVkROMWdwSFdZM3RhcVNOOVl5bFJHSFZiQkQxc3R3b0J0WTZMV2dmMTRhV3N4eUNWeWlDR203bEhYNFRxUHd1c2o2NllfUlhBMVY2eHptVm1FckkwdlVYT1gyNHFFcnVRMDNBWWRscmcwUzRn?oc=5",
+   "date": "2026-11-19T08:15:00Z"
   },
   {
    "model": "iPhone 18 Pro",
-   "count": 6,
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ21iTkN3Sm5xQy15aEZubnVUOWgtM0pDckpKZ2VEQ29Kbk41UkpVMDlLc3JCNUlrUVpWRk1QZjlTMnEwS2MzZG1oN1I2cWJUM1pYRlhTZGFEdmx3N2p2T2lBUDNzZ3BROHd3dklzYURhLWw2WHRBc1JKME5IY3ljMnE5MTE4UQ?oc=5",
-   "date": "2026-11-18T16:26:08Z"
+   "count": 8,
+   "link": "https://www.mydealz.de/deals/lokal-am-26-2811-apple-iphone-18-pro-256gb-black-im-marktkauf-ibbenburen-2876170",
+   "date": "2026-11-19T15:48:21Z"
+  },
+  {
+   "model": "Galaxy S26 FE",
+   "count": 5,
+   "link": "https://www.dealnews.com/Samsung-Galaxy-S26-FE-128-GB-Unlocked-Smartphone-for-500-free-shipping/22411196.html?iref=rss-c142",
+   "date": "2026-11-19T10:28:58Z"
+  },
+  {
+   "model": "Pixel 10",
+   "count": 5,
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR2JrbU1nNjNnVVExdzZWQXRTVDMtSTluaEhFUnBIZW1LRy02VnN2cXY2QnV0SEFsOUs5UVY5SzRzV0hwcG1Zb2lhb3lMY21DQzFES3JEYlN4TTdYX1lUaFhoZDIzdXBPZ0NtMWNpRTM0QWhhNHBuYVlFSWhmdkd0Wg?oc=5",
+   "date": "2026-11-19T12:59:00Z"
+  },
+  {
+   "model": "Pixel 10a",
+   "count": 5,
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdjdQLXVRdUdKTGp5SGRMSUc4dE94am1WM3ZKS0Z3b0d2YVlJY2lwQVVMUW5NQXF2SVZISjlKWVNnbUZTUnBvVFVpTGtTdXgtNmFlaWxDLTltY1ptUDhMd05ETnotbkxkS05zRk9jOGwySkxXd2xmS1FEeE9lM0pPWg?oc=5",
+   "date": "2026-11-19T10:16:19Z"
+  },
+  {
+   "model": "iPhone 17",
+   "count": 5,
+   "link": "https://www.hotukdeals.com/deals/essager-100w-gan3-pd-32-avs-for-iphone-1718-series-sfc3-uk-plug-black-wcode-sold-by-essager-direct-sales-store-5037980",
+   "date": "2026-11-19T02:37:44Z"
   },
   {
    "model": "iPhone Air",
@@ -32,34 +56,22 @@
    "date": "2026-11-18T07:00:00Z"
   },
   {
-   "model": "iPhone 17",
-   "count": 4,
-   "link": "https://www.hotukdeals.com/deals/essager-100w-gan3-pd-32-avs-for-iphone-1718-series-sfc3-uk-plug-black-wcode-sold-by-essager-direct-sales-store-5037980",
-   "date": "2026-11-19T02:37:44Z"
-  },
-  {
-   "model": "Galaxy S26 FE",
-   "count": 3,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbWlCMl9WUTk2M0tMdWtlN0RrTllPMnJnUWJVU1piX05URFdtVWJDNDRPR0hLLURpRFlHRXdZbklCWTVoMldkc0YtMHNTenJBcTNFLVVIUS15c2ZNMS03SUFzZGFGMWNmVG5vclpNZHBkN3VteWpxUTY0aUZBTmhjc1p1Q0lPMC1wV2FtbEVGcGpoWWlLdDJZSnBJZzFpaXhYTUVXQXJvTDdPelhFbXlDQWlSTjcySEdzM2txMmV3OVRvNTlJUmc?oc=5",
-   "date": "2026-11-17T12:40:11Z"
-  },
-  {
-   "model": "Pixel 10",
-   "count": 3,
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xaElDM2h3R245d1luTTYxbTNNU000MC1qeFVOUXFCeUhyM1JVRy1CdDlqdDhEdTlEYzU4VjAzeTdjc1dtN3d5d1QzOTREREF2MTF1a3pXMWdYaFFFcFhLRnFXcUdQZDdiQmc?oc=5",
-   "date": "2026-11-18T18:58:03Z"
-  },
-  {
-   "model": "Pixel 10a",
-   "count": 3,
-   "link": "https://www.dealabs.com/groupe/smartphones",
-   "date": "2026-11-18T11:00:00Z"
-  },
-  {
    "model": "Pixel 11 Pro",
    "count": 3,
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xaElDM2h3R245d1luTTYxbTNNU000MC1qeFVOUXFCeUhyM1JVRy1CdDlqdDhEdTlEYzU4VjAzeTdjc1dtN3d5d1QzOTREREF2MTF1a3pXMWdYaFFFcFhLRnFXcUdQZDdiQmc?oc=5",
    "date": "2026-11-18T18:58:03Z"
+  },
+  {
+   "model": "Pixel 11 Pro XL",
+   "count": 3,
+   "link": "https://www.hotukdeals.com/deals/google-pixel-11-pro-xl-256gb-buds-2a-unlimited-everything-ps2999-ps39-upfront-with-watch-5-pixel-tag-ps93056-with-code-24m-5039063",
+   "date": "2026-11-19T14:56:09Z"
+  },
+  {
+   "model": "iPhone 17 Pro Max",
+   "count": 3,
+   "link": "https://www.dealnews.com/Unlocked-Apple-iPhone-17-Pro-Max-256-GB-Smartphone-for-1-100-free-shipping/22411421.html?iref=rss-c142",
+   "date": "2026-11-19T12:42:15Z"
   },
   {
    "model": "Motorola Edge 70",
@@ -74,10 +86,10 @@
    "date": "2026-11-19T02:09:04Z"
   },
   {
-   "model": "iPhone 17 Pro Max",
+   "model": "iPhone 18",
    "count": 2,
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95U2k2V3NqVW9IRGRzWFhfWUFpSGJwTXdRX2c5MWZ1ZDdJaEtUYm9naXBrcmJnYlJ6bE1fWDFydzFGN2pyU1ZEa2tYWVk0YzJfNWFhUWFHOWs2UW8wTl9pTDFDUWMwdFhidExOR2ZXN2d0NXh0Q2c?oc=5",
-   "date": "2026-11-18T19:40:00Z"
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3a0xudHVYdHJ4aXlzUWJDdHBxRUNlRVd3amRMN0NQLVg4d3U1WlF5MWxhV1RyR1QxbXVfZTlwRkw3ZWpnZF9CMVlROUttRWVVczJKNUdQV1laSF9YWjBhb3NhTQ?oc=5",
+   "date": "2026-11-18T08:51:00Z"
   },
   {
    "model": "Galaxy A57",
@@ -98,28 +110,22 @@
    "date": "2026-11-02T01:35:17Z"
   },
   {
-   "model": "Pixel 11 Pro XL",
-   "count": 1,
-   "link": "https://www.mydealz.de/deals/vodafone-netz-google-pixel-11-pro-xl-256gb-200eur-bonus-allnetsms-flat-20gb-3498eurmonat-219eur-zuzahlung-freenet-2874904",
-   "date": "2026-11-18T23:35:43Z"
-  },
-  {
    "model": "Pixel 9 Pro Fold",
    "count": 1,
    "link": "https://www.ozbargain.com.au/node/981275",
    "date": "2026-11-02T01:35:17Z"
   },
   {
+   "model": "iPhone 17 Pro",
+   "count": 1,
+   "link": "https://www.dealnews.com/Unlocked-Apple-iPhone-17-Pro-256-GB-Smartphone-for-1-000-free-shipping/22411419.html?iref=rss-c142",
+   "date": "2026-11-19T12:39:56Z"
+  },
+  {
    "model": "iPhone 17e",
    "count": 1,
    "link": "https://www.metrobyt-mobile.com/deals",
    "date": "2026-11-19T00:30:00Z"
-  },
-  {
-   "model": "iPhone 18",
-   "count": 1,
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3a0xudHVYdHJ4aXlzUWJDdHBxRUNlRVd3amRMN0NQLVg4d3U1WlF5MWxhV1RyR1QxbXVfZTlwRkw3ZWpnZF9CMVlROUttRWVVczJKNUdQV1laSF9YWjBhb3NhTQ?oc=5",
-   "date": "2026-11-18T08:51:00Z"
   },
   {
    "model": "iPhone 18 Pro Max",
