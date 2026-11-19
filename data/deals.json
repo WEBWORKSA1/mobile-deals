@@ -1,0 +1,19 @@
+{
+  "updated": "2026-11-19T01:00:00Z",
+  "runs": 0,
+  "sources_ok": [],
+  "items": [
+    {"id": "seed-oz-983577", "title": "iPhone Air 256GB $58.25/month + 130GB $39/month plan for 12 months @ Vodafone", "link": "https://www.ozbargain.com.au/node/983577", "source": "OzBargain", "region": "AU", "cat": "plans", "date": "2026-11-18T09:00:00Z", "price": "$58.25", "heat": 0},
+    {"id": "seed-oz-983268", "title": "$100 cashback on Optus 350GB Flex Plus 365-day prepaid SIM (now $225)", "link": "https://www.ozbargain.com.au/node/983268", "source": "OzBargain", "region": "AU", "cat": "plans", "date": "2026-11-18T08:00:00Z", "price": "$225", "heat": 0},
+    {"id": "seed-9to5-aw12", "title": "Apple Watch Series 12 hits best price ever at $70 off in early Black Friday sale", "link": "https://9to5toys.com/2026/11/17/apple-watch-series-12-best-price-black-friday/", "source": "9to5Toys", "region": "US", "cat": "wearables", "date": "2026-11-17T15:00:00Z", "price": "$70 off", "heat": 0},
+    {"id": "seed-dealabs-pixel11pro", "title": "Google Pixel 11 Pro for €899 (was €1,199)", "link": "https://www.dealabs.com/groupe/smartphones", "source": "Dealabs", "region": "EU", "cat": "phones", "date": "2026-11-18T12:00:00Z", "price": "€899", "heat": 0},
+    {"id": "seed-dealabs-pixel10a", "title": "Google Pixel 10a at €249 final price after bonus", "link": "https://www.dealabs.com/groupe/smartphones", "source": "Dealabs", "region": "EU", "cat": "phones", "date": "2026-11-18T11:00:00Z", "price": "€249", "heat": 0},
+    {"id": "seed-mydealz-iphoneair", "title": "iPhone Air 256GB back at €799 at MediaMarkt", "link": "https://www.mydealz.de/gruppe/smartphones", "source": "mydealz", "region": "EU", "cat": "phones", "date": "2026-11-17T10:00:00Z", "price": "€799", "heat": 0},
+    {"id": "seed-oz-fold8", "title": "Samsung Galaxy Z Fold8 256GB $1649, 512GB $1849 delivered", "link": "https://www.ozbargain.com.au/cat/mobile", "source": "OzBargain", "region": "AU", "cat": "phones", "date": "2026-11-18T07:00:00Z", "price": "$1649", "heat": 0},
+    {"id": "seed-oz-onepass", "title": "OnePass Mobile 365-day 5G prepaid SIMs: 350GB $159, 550GB $189 delivered", "link": "https://www.ozbargain.com.au/cat/mobile", "source": "OzBargain", "region": "AU", "cat": "plans", "date": "2026-11-18T06:00:00Z", "price": "$159", "heat": 0},
+    {"id": "seed-metro-17e", "title": "Metro by T-Mobile: iPhone 17e for $349.99 when you switch", "link": "https://www.metrobyt-mobile.com/deals", "source": "Metro by T-Mobile", "region": "US", "cat": "phones", "date": "2026-11-19T00:30:00Z", "price": "$349.99", "heat": 0},
+    {"id": "seed-metro-4lines", "title": "Metro by T-Mobile: 4 unlimited 5G lines for $100/month", "link": "https://www.metrobyt-mobile.com/deals", "source": "Metro by T-Mobile", "region": "US", "cat": "plans", "date": "2026-11-19T00:20:00Z", "price": "$100", "heat": 0},
+    {"id": "seed-usm-pixel11", "title": "US Mobile: Pixel 11 for $279 with typical trade-in (list $899)", "link": "https://www.usmobile.com/", "source": "US Mobile", "region": "US", "cat": "phones", "date": "2026-11-19T00:10:00Z", "price": "$279", "heat": 0},
+    {"id": "seed-tmo-iphone17", "title": "T-Mobile: iPhone 17 On Us via monthly bill credits with eligible plan", "link": "https://www.t-mobile.com/offers/deals-hub", "source": "T-Mobile", "region": "US", "cat": "phones", "date": "2026-11-19T00:05:00Z", "price": "", "heat": 0}
+  ]
+}

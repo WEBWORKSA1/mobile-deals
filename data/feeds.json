@@ -1,0 +1,17 @@
+[
+  {"name": "9to5Toys", "url": "https://9to5toys.com/feed/", "region": "US"},
+  {"name": "9to5Google Deals", "url": "https://9to5google.com/guides/deals/feed/", "region": "US"},
+  {"name": "Slickdeals", "url": "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1", "region": "US"},
+  {"name": "dealnews", "url": "https://www.dealnews.com/c142/Electronics/Cell-Phones/?rss=1", "region": "US"},
+  {"name": "RedFlagDeals", "url": "https://forums.redflagdeals.com/feed/forum/9", "region": "CA"},
+  {"name": "HotUKDeals", "url": "https://www.hotukdeals.com/rss/hot", "region": "UK"},
+  {"name": "HotUKDeals", "url": "https://www.hotukdeals.com/rss/new", "region": "UK"},
+  {"name": "mydealz", "url": "https://www.mydealz.de/rss/hot", "region": "EU"},
+  {"name": "Dealabs", "url": "https://www.dealabs.com/rss/hot", "region": "EU"},
+  {"name": "OzBargain", "url": "https://www.ozbargain.com.au/cat/mobile/feed", "region": "AU"},
+  {"name": "Google News", "url": "https://news.google.com/rss/search?q=(phone+OR+iPhone+OR+Galaxy+OR+Pixel+OR+prepaid+OR+%22SIM+only%22)+deal+when:3d&hl=en-US&gl=US&ceid=US:en", "region": "US"},
+  {"name": "Google News", "url": "https://news.google.com/rss/search?q=(phone+OR+iPhone+OR+Galaxy+OR+Pixel+OR+%22SIM+only%22)+deal+when:3d&hl=en-GB&gl=GB&ceid=GB:en", "region": "UK"},
+  {"name": "Google News", "url": "https://news.google.com/rss/search?q=(phone+OR+iPhone+OR+Galaxy+OR+Pixel+OR+prepaid)+deal+when:3d&hl=en-CA&gl=CA&ceid=CA:en", "region": "CA"},
+  {"name": "Google News", "url": "https://news.google.com/rss/search?q=(smartphone+OR+iPhone+OR+Galaxy+OR+prepaid+plan)+(offer+OR+%22price+cut%22+OR+deal)+when:3d&hl=en-IN&gl=IN&ceid=IN:en", "region": "IN"},
+  {"name": "Google News", "url": "https://news.google.com/rss/search?q=(phone+OR+iPhone+OR+Galaxy+OR+Pixel+OR+prepaid)+deal+when:3d&hl=en-AU&gl=AU&ceid=AU:en", "region": "AU"}
+]
