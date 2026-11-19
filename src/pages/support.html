@@ -1,0 +1,60 @@
+<!--
+title: Support Mobile.Deals — Keep the Savings Tools Free
+description: Help keep Mobile.Deals independent and free. Your support funds operations, promotions and marketing, new talent, and monthly contest prizes.
+path: support/
+nav: support
+crumb: Support Us
+-->
+<section class="page-head">
+  <div class="container">
+    <p class="kicker">Reader-supported</p>
+    <h1>Keep Mobile.Deals free and independent</h1>
+    <p class="lead">Every tool on this site is free. Your support pays for the things that keep it growing: operations, getting the word out, hiring great people and funding prizes for our community.</p>
+  </div>
+</section>
+
+<section class="section pt0">
+  <div class="container">
+    <div class="grid grid-4 tiers">
+      <div class="card tier"><p class="tier-name">Coffee</p><p class="tier-price">$5</p><p class="muted">Covers a day of data refreshes.</p><a class="btn btn-ghost btn-block" href="#pledge" data-donate="5">Give $5</a></div>
+      <div class="card tier"><p class="tier-name">Supporter</p><p class="tier-price">$15<small>/mo</small></p><p class="muted">Funds a new guide every month.</p><a class="btn btn-ghost btn-block" href="#pledge" data-donate="15">Give $15 monthly</a></div>
+      <div class="card tier tier-hot"><p class="tier-name">Champion</p><p class="tier-price">$50</p><p class="muted">Pays for a month of promotion and outreach.</p><a class="btn btn-primary btn-block" href="#pledge" data-donate="50">Give $50</a></div>
+      <div class="card tier"><p class="tier-name">Prize sponsor</p><p class="tier-price">$100+</p><p class="muted">Funds a monthly contest prize, credited on the contest page.</p><a class="btn btn-ghost btn-block" href="#pledge" data-donate="100">Sponsor a prize</a></div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container split">
+    <div>
+      <h2>Where your support goes</h2>
+      <p class="muted">Our planned allocation of reader support:</p>
+      <div class="alloc">
+        <div><span>Operations: data, tools, hosting</span><b style="--w:35%">35%</b></div>
+        <div><span>Promotions & marketing</span><b style="--w:25%">25%</b></div>
+        <div><span>Hiring writers, creators, moderators</span><b style="--w:25%">25%</b></div>
+        <div><span>Contests & prizes</span><b style="--w:15%">15%</b></div>
+      </div>
+      <h3 class="mt">Other ways to help</h3>
+      <ul class="list-check"><li>Share a tool with a friend who overpays</li><li>Submit deals on the <a href="{{ROOT}}deals/">deals page</a></li><li>Join the <a href="{{ROOT}}careers/">team</a></li></ul>
+    </div>
+    <form class="form card" id="pledge" data-form="donation-pledge" data-subject="Support pledge — Mobile.Deals" data-success="Thank you! We'll email you a secure payment link for your pledge.">
+      <h2 class="h4">Make a pledge</h2>
+      <div class="pay-buttons" id="payButtons"></div>
+      <p class="muted">Prefer a payment link? Leave your pledge and we'll email you a secure link.</p>
+      <div class="form-grid">
+        <label class="field"><span>Amount ($)</span><input type="number" name="amount" id="pledgeAmount" min="1" value="15" required></label>
+        <label class="field"><span>Frequency</span><select name="frequency"><option>One-time</option><option>Monthly</option><option>Yearly</option></select></label>
+        <label class="field"><span>Name</span><input name="name" autocomplete="name"></label>
+        <label class="field"><span>Email</span><input type="email" name="email" required autocomplete="email"></label>
+        <label class="field full"><span>Direct it to (optional)</span><select name="purpose"><option>Wherever it's needed most</option><option>Operations</option><option>Promotions & marketing</option><option>Hiring talent</option><option>Contests & prizes</option></select></label>
+      </div>
+      {{HONEYPOT}}{{CONSENT}}
+      <button class="btn btn-primary btn-block" type="submit">Send my pledge</button>
+      <p class="form-status" role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</section>
+<section class="section">
+  <div class="container narrow"><p class="micro">Support payments are voluntary contributions to an independent website and are not tax-deductible charitable donations. Support does not influence our rankings or editorial content.</p></div>
+</section>

@@ -1,0 +1,33 @@
+<!--
+title: Contact Mobile.Deals
+description: Contact the Mobile.Deals team with questions, corrections, deal tips, partnership or press inquiries.
+path: contact/
+nav: contact
+crumb: Contact
+-->
+<section class="page-head">
+  <div class="container">
+    <h1>Contact us</h1>
+    <p class="lead">Questions, corrections, deal tips or partnership ideas: send us a message and we'll reply within 2 business days.</p>
+  </div>
+</section>
+<section class="section pt0">
+  <div class="container split">
+    <form class="form card" data-form="contact" data-subject="New contact message — Mobile.Deals" data-success="Thanks! Your message has been sent. We'll reply within 2 business days.">
+      <div class="form-grid">
+        <label class="field"><span>Name</span><input name="name" required autocomplete="name"></label>
+        <label class="field"><span>Email</span><input type="email" name="email" required autocomplete="email"></label>
+        <label class="field full"><span>Topic</span><select name="topic"><option>General question</option><option>Correction</option><option>Deal tip</option><option>Advertising / sponsorship</option><option>Partnership</option><option>Press</option><option>Privacy request</option></select></label>
+        <label class="field full"><span>Message</span><textarea name="message" rows="6" required></textarea></label>
+      </div>
+      {{HONEYPOT}}{{CONSENT}}
+      <button class="btn btn-primary btn-block" type="submit">Send message</button>
+      <p class="form-status" role="status" aria-live="polite"></p>
+    </form>
+    <div class="stack">
+      <div class="card"><h2 class="h4">Want to save on your bill?</h2><p class="muted">The fastest route is the <a href="{{ROOT}}save/">free Bill Audit</a>.</p></div>
+      <div class="card"><h2 class="h4">Advertising & partnerships</h2><p class="muted">See placements and packages on <a href="{{ROOT}}advertise/">Advertise & Partner</a>.</p></div>
+      <div class="card"><h2 class="h4">Interested in this website or domain?</h2><p class="muted"><a href="https://web.works/contact" target="_blank" rel="noopener">Contact the owner about acquisition, sponsorship or partnership</a>.</p></div>
+    </div>
+  </div>
+</section>

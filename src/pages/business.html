@@ -1,0 +1,54 @@
+<!--
+title: Business Mobile Plans Quote — Cut Team Phone Costs (5+ Lines)
+description: Get a free, no-obligation business mobile quote for 5 or more lines. Pooled data, BYOD stipends, device management and multi-carrier options.
+path: business/
+nav: business
+crumb: Business Quote
+-->
+<section class="page-head">
+  <div class="container">
+    <p class="kicker">For teams of 5 to 500+</p>
+    <h1>Business mobile, without the overspend</h1>
+    <p class="lead">Most growing teams pay 20–40% more than they need to for phones. Tell us about your lines once and we'll come back with options across carriers and models: company-paid, BYOD stipends or hybrid.</p>
+  </div>
+</section>
+
+<section class="section pt0">
+  <div class="container split">
+    <div>
+      <div class="grid grid-2">
+        <div class="card"><h3 class="h4">Right-size every line</h3><p class="muted">Match plans to real usage and remove unused lines.</p></div>
+        <div class="card"><h3 class="h4">Pooled data</h3><p class="muted">One shared bucket instead of unlimited for everyone.</p></div>
+        <div class="card"><h3 class="h4">BYOD or company devices</h3><p class="muted">Stipend models, refurbished fleets and upgrade cycles.</p></div>
+        <div class="card"><h3 class="h4">Security built in</h3><p class="muted">Device management and work profiles for lost-device protection.</p></div>
+      </div>
+      <p class="muted mt">Read the guide: <a href="{{ROOT}}guides/business-mobile-plans/">How small teams cut phone costs by 30%+</a></p>
+    </div>
+    <form class="form card" data-form="business-quote" data-subject="Business lines quote request — Mobile.Deals" data-success="Thanks! We'll prepare your options and reply within 1 business day.">
+      <h2 class="h4">Request your business quote</h2>
+      <div class="form-grid">
+        <label class="field"><span>Your name</span><input name="name" required autocomplete="name"></label>
+        <label class="field"><span>Work email</span><input type="email" name="email" required autocomplete="email"></label>
+        <label class="field"><span>Company</span><input name="company" required autocomplete="organization"></label>
+        <label class="field"><span>Country</span><select name="country"><option>United States</option><option>Canada</option><option>United Kingdom</option><option>Australia</option><option>India</option><option>Other</option></select></label>
+        <label class="field"><span>Number of lines</span><select name="lines"><option>5–10</option><option>11–25</option><option>26–100</option><option>101–500</option><option>500+</option></select></label>
+        <label class="field"><span>Current monthly spend ($)</span><input type="number" name="monthly_spend" min="0"></label>
+        <label class="field"><span>Preferred model</span><select name="model"><option>Not sure</option><option>Company-paid lines</option><option>BYOD stipend</option><option>Hybrid</option></select></label>
+        <label class="field"><span>Need new devices?</span><select name="devices"><option>No</option><option>Some</option><option>All lines</option></select></label>
+        <label class="field full"><span>Anything else? (optional)</span><textarea name="message" rows="3" placeholder="Coverage areas, international travel, contract end date…"></textarea></label>
+      </div>
+      {{HONEYPOT}}{{CONSENT}}
+      <button class="btn btn-primary btn-block btn-lg" type="submit">Get my business quote</button>
+      <p class="form-status" role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container narrow">
+    <h2>FAQ</h2>
+    <details class="faq"><summary>Is there a fee for the quote?</summary><div><p>No. The quote is free and there is no obligation to switch.</p></div></details>
+    <details class="faq"><summary>Can you handle multiple countries?</summary><div><p>Yes. Tell us where your team works and travels and we'll include international options.</p></div></details>
+    <details class="faq"><summary>How fast will I hear back?</summary><div><p>Usually within one business day.</p></div></details>
+  </div>
+</section>

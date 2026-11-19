@@ -1,0 +1,91 @@
+<!--
+title: Free Mobile Bill Audit — See How Much You Could Save in 60 Seconds
+description: Enter your current phone bill, lines and data use. See your yearly savings instantly and get a free personalised plan report. No obligation, no spam.
+path: save/
+nav: save
+crumb: Free Bill Audit
+-->
+<section class="page-head audit-head">
+  <div class="container">
+    <p class="kicker">Free · 60 seconds · No obligation</p>
+    <h1>Free Bill Audit: are you overpaying?</h1>
+    <p class="lead">Answer a few quick questions. You'll see your savings estimate before we ask for anything, then you can get a personalised report with the exact plans that fit.</p>
+  </div>
+</section>
+
+<section class="section pt0">
+  <div class="container audit-layout">
+    <div class="card audit" id="audit">
+      <div class="progress" aria-hidden="true"><span id="auProgress"></span></div>
+      <p class="step-label" id="auStepLabel">Step 1 of 3</p>
+
+      <div class="audit-step is-on" data-step="1">
+        <h2 class="h3">Your current bill</h2>
+        <div class="form-grid">
+          <label class="field"><span>Current carrier</span><select id="auCarrier"><option>AT&amp;T</option><option>Verizon</option><option>T-Mobile</option><option>Cricket</option><option>Metro by T-Mobile</option><option>Boost Mobile</option><option>Mint Mobile</option><option>Visible</option><option>Google Fi</option><option>Xfinity / Spectrum Mobile</option><option>Other</option></select></label>
+          <label class="field"><span>Monthly bill for all lines ($)</span><input id="auBill" type="number" min="0" value="140" inputmode="decimal"></label>
+          <label class="field"><span>Number of lines</span><select id="auLines"><option>1</option><option selected>2</option><option>3</option><option>4</option><option>5</option><option>6</option></select></label>
+          <label class="field"><span>Includes phone payments?</span><select id="auDevice"><option value="no">No, service only</option><option value="yes">Yes, includes device payments</option></select></label>
+        </div>
+        <div class="step-actions"><button class="btn btn-primary btn-lg" type="button" data-next>Continue →</button></div>
+      </div>
+
+      <div class="audit-step" data-step="2">
+        <h2 class="h3">How you use your phone</h2>
+        <div class="form-grid">
+          <label class="field"><span>Data per line each month</span><select id="auData"><option value="5">Under 5GB (mostly Wi-Fi)</option><option value="15" selected>5–15GB</option><option value="20">15–20GB</option><option value="999">More than 20GB / not sure</option></select></label>
+          <label class="field"><span>Network preference</span><select id="auNetwork"><option value="any">Any network that works</option><option>T-Mobile</option><option>Verizon</option><option>AT&amp;T</option></select></label>
+        </div>
+        <label class="check"><input type="checkbox" id="auHotspot"><span>I use hotspot regularly</span></label>
+        <label class="check"><input type="checkbox" id="auIntl"><span>I call or travel internationally</span></label>
+        <div class="step-actions"><button class="btn btn-ghost" type="button" data-prev>← Back</button><button class="btn btn-primary btn-lg" type="button" data-next>Show my savings →</button></div>
+      </div>
+
+      <div class="audit-step" data-step="3">
+        <div id="auResult" aria-live="polite"></div>
+        <form class="form audit-form" data-form="bill-audit" data-subject="New Bill Audit lead — Mobile.Deals" data-success="Your audit request is in. Your personalised report will arrive by email within 1 business day.">
+          <h3 class="h4">Get your full personalised report</h3>
+          <p class="muted">We'll send the matching plans, switching steps and any current promotions for your situation.</p>
+          <div class="form-grid">
+            <label class="field"><span>First name</span><input name="name" required autocomplete="given-name"></label>
+            <label class="field"><span>Email</span><input type="email" name="email" required autocomplete="email"></label>
+            <label class="field"><span>ZIP / postal code (optional)</span><input name="zip" autocomplete="postal-code"></label>
+            <label class="field"><span>Phone (optional)</span><input type="tel" name="phone" autocomplete="tel"></label>
+          </div>
+          <input type="hidden" name="audit_summary" id="auSummary">
+          {{HONEYPOT}}{{CONSENT}}
+          <button class="btn btn-primary btn-lg btn-block" type="submit">Send my free report</button>
+          <p class="form-status" role="status" aria-live="polite"></p>
+        </form>
+        <div class="step-actions"><button class="btn btn-ghost" type="button" data-prev>← Adjust answers</button></div>
+      </div>
+    </div>
+
+    <aside class="audit-side">
+      <div class="card">
+        <h2 class="h4">What you get</h2>
+        <ul class="list-check"><li>Your exact yearly savings</li><li>The 3 best-fit plans on your preferred network</li><li>Switching steps that keep your number</li><li>Current promotions worth taking</li></ul>
+      </div>
+      <div class="card">
+        <h2 class="h4">Our promise</h2>
+        <ul class="list-check"><li>Independent: not owned by any carrier</li><li>No spam, never sold to third parties</li><li>Unsubscribe any time</li></ul>
+      </div>
+      <div class="card">
+        <h2 class="h4">Running a team?</h2>
+        <p class="muted">Five or more lines? Get a tailored business quote.</p>
+        <a class="btn btn-ghost btn-block" href="{{ROOT}}business/">Business lines quote</a>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container narrow">
+    <h2>How the audit works</h2>
+    <ol class="steps"><li><strong>Your bill.</strong> We compare your total monthly cost with every plan in our <a href="{{ROOT}}plans/">Plan Finder</a> that meets your data, network and hotspot needs.</li><li><strong>Your savings.</strong> We calculate the gap per month and per year using published multi-line pricing where available.</li><li><strong>Your report.</strong> If you ask for it, we email the best options and the steps to switch without losing your number.</li></ol>
+    <h2 class="mt">FAQ</h2>
+    <details class="faq"><summary>Do I need to upload my bill?</summary><div><p>No. Your total monthly amount and number of lines are enough for an accurate estimate.</p></div></details>
+    <details class="faq"><summary>What if my bill includes phone payments?</summary><div><p>Tell us in step 1. The report separates device payments from service so you can see the real service savings and when switching makes sense.</p></div></details>
+    <details class="faq"><summary>Is my information shared?</summary><div><p>We use it only to send your report. We never sell personal information. See our <a href="{{ROOT}}privacy/">Privacy Policy</a>.</p></div></details>
+  </div>
+</section>

@@ -1,0 +1,58 @@
+<!--
+title: Phone Trade-In Value Estimator — What Is My Old Phone Worth?
+description: Estimate your phone's trade-in value from brand, launch price, age, storage and condition. Then compare carrier, buyback and private-sale routes and get real offers.
+path: trade-in/
+nav: trade-in
+crumb: Trade-in
+-->
+<section class="page-head">
+  <div class="container">
+    <p class="kicker">Free estimator</p>
+    <h1>What is your old phone worth?</h1>
+    <p class="lead">Know your fair range before you accept any offer. The same phone can fetch very different amounts depending on where you sell it.</p>
+  </div>
+</section>
+
+<section class="section pt0">
+  <div class="container tool-layout">
+    <div class="card" id="tradeIn">
+      <div class="form-grid">
+        <label class="field"><span>Brand</span><select id="tiBrand"><option value="1.08">Apple</option><option value="0.92">Samsung</option><option value="0.85">Google</option><option value="0.78">OnePlus</option><option value="0.72">Motorola</option><option value="0.7">Other</option></select></label>
+        <label class="field"><span>Launch price ($)</span><input id="tiLaunch" type="number" min="50" value="999"></label>
+        <label class="field"><span>Months since launch</span><input id="tiAge" type="number" min="0" max="84" value="14"></label>
+        <label class="field"><span>Storage</span><select id="tiStorage"><option value="1">Base storage</option><option value="1.04">One step up</option><option value="1.08">Two steps up</option><option value="1.12">Max storage</option></select></label>
+        <label class="field full"><span>Condition</span><select id="tiCond"><option value="1">Like new: no visible marks</option><option value="0.88" selected>Good: light scratches</option><option value="0.72">Fair: visible wear, works perfectly</option><option value="0.35">Cracked or faulty</option></select></label>
+      </div>
+      <div class="result-box" id="tiResult" aria-live="polite"></div>
+      <p class="micro">Estimate based on typical resale depreciation by age, brand and condition. Real offers vary by buyer, carrier status and market timing.</p>
+    </div>
+    <form class="form card" data-form="trade-in" data-subject="Trade-in offers request — Mobile.Deals" data-success="Got it! We'll shop your phone with buyers and email the best offers.">
+      <h2 class="h4">Get real offers for your phone</h2>
+      <p class="muted">We'll check several buyback companies and trade-in promotions and email you the best options.</p>
+      <div class="form-grid">
+        <label class="field full"><span>Exact model & storage</span><input name="model" required placeholder="e.g. iPhone 16 Pro 256GB"></label>
+        <label class="field"><span>Carrier lock</span><select name="lock"><option>Unlocked</option><option>Locked to carrier</option><option>Not sure</option></select></label>
+        <label class="field"><span>Email</span><input type="email" name="email" required autocomplete="email"></label>
+      </div>
+      <input type="hidden" name="estimate" id="tiSummary">
+      {{HONEYPOT}}{{CONSENT}}
+      <button class="btn btn-primary btn-block" type="submit">Find my best offers</button>
+      <p class="form-status" role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <h2>Three ways to sell, compared</h2>
+    <div class="table-wrap"><table>
+      <thead><tr><th>Route</th><th>Typical value</th><th>Speed</th><th>Watch out for</th></tr></thead>
+      <tbody>
+        <tr><td>Carrier or retailer trade-in</td><td>High during promos, low otherwise</td><td>Instant credit</td><td>Credits spread over 24–36 months and tied to a plan</td></tr>
+        <tr><td>Buyback companies</td><td>Medium; compare several</td><td>3–10 days</td><td>Revised offers after inspection if over-graded</td></tr>
+        <tr><td>Private sale</td><td>Highest</td><td>Varies</td><td>Fraud risk, shipping, time</td></tr>
+      </tbody>
+    </table></div>
+    <p class="muted mt">Full playbook: <a href="{{ROOT}}guides/phone-trade-in-guide/">How to get the most for your old phone</a></p>
+  </div>
+</section>

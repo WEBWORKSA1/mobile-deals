@@ -1,0 +1,60 @@
+<!--
+title: Deal Hunter of the Month — Mobile.Deals Contest
+description: Find the best mobile deal of the month and win a prize. Free to enter, judged on savings, usefulness and verification. Official rules inside.
+path: contests/
+nav: contests
+crumb: Contests
+-->
+<section class="page-head contest-head">
+  <div class="container">
+    <p class="kicker">Free to enter · Skill-based</p>
+    <h1>Deal Hunter of the Month</h1>
+    <p class="lead">Spot the best mobile deal of the month (a phone, plan, SIM, eSIM or accessory) and tell us why it's great. The most valuable, verified find wins.</p>
+    <div class="countdown card" data-countdown="month-end" aria-live="polite"><span>This round closes in</span><strong>—</strong></div>
+  </div>
+</section>
+
+<section class="section pt0">
+  <div class="container split">
+    <div>
+      <div class="card prize-card"><p class="kicker">This month's prize</p><p class="prize" data-prize>$100 gift card</p><p class="muted">Plus a featured "Deal Hunter" badge on our deals page.</p></div>
+      <h2 class="mt">How to enter</h2>
+      <ol class="steps"><li>Find a live deal on a phone, plan, SIM, eSIM or mobile accessory.</li><li>Submit the link and a short note on why it's a great deal.</li><li>Our editors verify the price and judge entries after the round closes.</li></ol>
+      <h2 class="mt">Judging criteria</h2>
+      <ul class="list-check"><li>Savings versus typical price (40%)</li><li>Usefulness to most readers (30%)</li><li>Verification and clarity of the note (30%)</li></ul>
+      <p class="muted mt">Want to fund a prize? <a href="{{ROOT}}support/">Become a prize sponsor</a> or <a href="{{ROOT}}advertise/">sponsor as a brand</a>.</p>
+    </div>
+    <form class="form card" data-form="contest-entry" data-subject="Contest entry: Deal Hunter of the Month — Mobile.Deals" data-success="Your entry is in. Good luck! Winners are announced here after each round.">
+      <h2 class="h4">Submit your entry</h2>
+      <div class="form-grid">
+        <label class="field"><span>Name</span><input name="name" required autocomplete="name"></label>
+        <label class="field"><span>Email</span><input type="email" name="email" required autocomplete="email"></label>
+        <label class="field full"><span>Deal link</span><input type="url" name="deal_url" required placeholder="https://"></label>
+        <label class="field"><span>Country</span><input name="country" required autocomplete="country-name"></label>
+        <label class="field"><span>Deal price</span><input name="deal_price" placeholder="$"></label>
+        <label class="field full"><span>Why is it a great deal? (max 300 characters)</span><textarea name="why" rows="3" maxlength="300" required></textarea></label>
+      </div>
+      <label class="check"><input type="checkbox" name="rules" value="accepted" required><span>I am of the age of majority where I live and accept the official rules below.</span></label>
+      {{HONEYPOT}}{{CONSENT}}
+      <button class="btn btn-primary btn-block" type="submit">Enter the contest</button>
+      <p class="form-status" role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container narrow">
+    <h2>Winners</h2>
+    <p class="muted">The first round is running now. Winners will be listed here after judging.</p>
+    <h2 class="mt">Official rules</h2>
+    <details class="faq" open><summary>Summary of official rules</summary><div>
+      <p><strong>No purchase necessary.</strong> Purchasing does not improve your chances. This is a skill-based contest; winners are chosen by judging, not by chance.</p>
+      <p><strong>Eligibility:</strong> open to individuals who have reached the age of majority in their place of residence. Void where prohibited or restricted by law. Employees and contractors of Mobile.Deals and their households are not eligible.</p>
+      <p><strong>Entry period:</strong> each round runs from the first day to the last day of the calendar month (11:59 p.m. Eastern Time). Limit one entry per person per round.</p>
+      <p><strong>Judging:</strong> entries are scored on the published criteria. Ties are broken by the earliest valid entry. Decisions are final.</p>
+      <p><strong>Prize:</strong> one prize per round as shown on this page, with no cash alternative except at our discretion. Winners are notified by email and must respond within 14 days or an alternate winner may be selected. Winners are responsible for any taxes.</p>
+      <p><strong>Publicity and content:</strong> by entering, you allow us to publish your first name, country and deal note. You confirm the submission is your own and does not infringe anyone's rights.</p>
+      <p><strong>General:</strong> we may cancel or modify a round if fraud, technical failure or other factors impair its integrity. Personal data is handled under our <a href="{{ROOT}}privacy/">Privacy Policy</a>. Questions: use the <a href="{{ROOT}}contact/">contact form</a>.</p>
+    </div></details>
+  </div>
+</section>

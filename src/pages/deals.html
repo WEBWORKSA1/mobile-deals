@@ -1,0 +1,83 @@
+<!--
+title: Live Mobile Deals — Phones, SIM & eSIM Plans, Accessories (Updated Every 6 Hours)
+description: Live phone, plan, SIM and accessory deals from the US, Canada, UK, Europe, Australia and India. Filter by region and category, save favourites and get alerts.
+path: deals/
+nav: deals
+crumb: Deals
+-->
+<section class="page-head">
+  <div class="container">
+    <p class="kicker"><span class="pulse"></span> {{STATS_DEALS}} live deals · {{STATS_SOURCES}} sources · updated {{UPDATED}}</p>
+    <h1>Live mobile deals</h1>
+    <p class="lead">Phones, SIM and eSIM plans, accessories, tablets and wearables, gathered every 6 hours from public deal communities and publishers. Every headline links to its original source.</p>
+  </div>
+</section>
+
+<section class="section pt0">
+  <div class="container" id="dealsApp">
+    <div class="filter-bar card">
+      <label class="search-field"><span class="sr-only">Search deals</span><input id="dealSearch" type="search" placeholder="Search iPhone, Pixel, eSIM, 5G…" autocomplete="off"></label>
+      <div class="chips" role="group" aria-label="Region">
+        <button class="chip is-on" data-region="all">All regions</button>
+        <button class="chip" data-region="US">US</button><button class="chip" data-region="CA">Canada</button><button class="chip" data-region="UK">UK</button><button class="chip" data-region="EU">Europe</button><button class="chip" data-region="AU">Australia</button><button class="chip" data-region="IN">India</button>
+      </div>
+      <div class="chips" role="group" aria-label="Category">
+        <button class="chip is-on" data-cat="all">Everything</button>
+        <button class="chip" data-cat="phones">Phones</button><button class="chip" data-cat="plans">Plans & SIMs</button><button class="chip" data-cat="accessories">Accessories</button><button class="chip" data-cat="wearables">Tablets & wearables</button>
+      </div>
+      <div class="filter-row">
+        <label class="inline"><span>Sort</span><select id="dealSort"><option value="new">Newest</option><option value="hot">Hottest</option><option value="az">A–Z</option></select></label>
+        <label class="check"><input type="checkbox" id="dealSavedOnly"><span>Saved only</span></label>
+        <span class="muted" id="dealCount"></span>
+      </div>
+    </div>
+
+    <div class="deal-grid" id="dealGrid">{{ALL_DEALS}}</div>
+    <div class="center mt"><button class="btn btn-ghost" id="dealMore">Show more deals</button></div>
+  </div>
+</section>
+
+<div class="container"><div class="ad-slot" data-slot="dealsMid"></div></div>
+
+<section class="section section-alt" id="alerts">
+  <div class="container split">
+    <div>
+      <p class="kicker">Deal alerts</p>
+      <h2>Get the best mobile deals in your inbox</h2>
+      <p class="muted">Pick your region and what you are hunting for. We send only deals worth your time, and you can unsubscribe in one click.</p>
+      <ul class="list-check"><li>Price drops on the phones you name</li><li>Plan and SIM promotions in your country</li><li>Black Friday, Boxing Day and launch-week highlights</li></ul>
+    </div>
+    <form class="form card" data-form="deal-alerts" data-subject="New deal-alert subscriber — Mobile.Deals" data-success="You're on the list. Watch your inbox for the next round of deals.">
+      <div class="form-grid">
+        <label class="field"><span>Email</span><input type="email" name="email" required autocomplete="email" placeholder="you@example.com"></label>
+        <label class="field"><span>Region</span><select name="region"><option>United States</option><option>Canada</option><option>United Kingdom</option><option>Europe</option><option>Australia</option><option>India</option><option>Other</option></select></label>
+        <label class="field full"><span>What are you looking for? (optional)</span><input name="watching" placeholder="e.g. iPhone 17 under $600, unlimited plan under $30"></label>
+      </div>
+      {{HONEYPOT}}{{CONSENT}}
+      <button class="btn btn-primary btn-block" type="submit">Create my alert</button>
+      <p class="form-status" role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container split">
+    <div>
+      <h2>Found a great deal?</h2>
+      <p class="muted">Share it with the community. The best submissions are featured and count toward the monthly <a href="{{ROOT}}contests/">Deal Hunter contest</a>.</p>
+      <h3 class="mt">How this feed works</h3>
+      <p class="muted">A scheduled job reads public RSS feeds, keeps items that mention phones, plans, SIMs, eSIMs or mobile accessories, removes duplicates and keeps the last 21 days. We show the headline and link to the original publisher; we do not copy their articles. Prices and availability change quickly, so always confirm on the seller's page.</p>
+    </div>
+    <form class="form card" data-form="submit-deal" data-subject="Deal submission — Mobile.Deals" data-success="Thanks! Our team will review your deal shortly.">
+      <div class="form-grid">
+        <label class="field full"><span>Deal link</span><input type="url" name="deal_url" required placeholder="https://"></label>
+        <label class="field full"><span>Headline</span><input name="deal_title" required placeholder="Pixel 11 $599 at …"></label>
+        <label class="field"><span>Region</span><select name="region"><option>US</option><option>Canada</option><option>UK</option><option>Europe</option><option>Australia</option><option>India</option></select></label>
+        <label class="field"><span>Your email</span><input type="email" name="email" required autocomplete="email"></label>
+      </div>
+      {{HONEYPOT}}{{CONSENT}}
+      <button class="btn btn-primary btn-block" type="submit">Submit deal</button>
+      <p class="form-status" role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</section>

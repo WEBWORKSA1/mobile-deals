@@ -1,0 +1,118 @@
+<!--
+title: Mobile.Deals — Live Phone & Plan Deals, Free Bill Audit and Savings Tools
+description: Live mobile deals refreshed every 6 hours, a plan finder with real prices, a free bill audit, trade-in estimator and travel eSIM calculator. Independent and free.
+path:
+nav: home
+-->
+<section class="hero">
+  <div class="container hero-grid">
+    <div class="hero-copy" data-reveal>
+      <p class="kicker"><span class="pulse"></span> Updated {{UPDATED}} · {{STATS_DEALS}} live deals</p>
+      <h1>Stop overpaying for your <span class="hl">phone and plan</span>.</h1>
+      <p class="lead">Mobile.Deals tracks phone, SIM and eSIM deals across 6 regions, compares {{PLANS_COUNT}} plans on real 24-month cost, and runs a free bill audit that shows exactly what you could save.</p>
+      <div class="cta-row">
+        <a class="btn btn-primary btn-lg" href="{{ROOT}}save/">Run my free Bill Audit</a>
+        <a class="btn btn-ghost btn-lg" href="{{ROOT}}deals/">Browse live deals</a>
+      </div>
+      <ul class="trust-row">
+        <li>Independent</li><li>Prices checked {{PLANS_CHECKED}}</li><li>Refreshed every 6 hours</li><li>No sign-up to browse</li>
+      </ul>
+    </div>
+    <div class="hero-card card" id="quickSave" data-reveal>
+      <p class="card-kicker">60-second savings check</p>
+      <label class="field"><span>Your total monthly phone bill</span>
+        <span class="input-prefix"><b>$</b><input id="qsBill" type="number" min="0" step="1" value="85" inputmode="decimal"></span></label>
+      <label class="field"><span>Number of lines</span>
+        <select id="qsLines"><option>1</option><option selected>2</option><option>3</option><option>4</option><option>5</option><option>6</option></select></label>
+      <div class="qs-out"><span>Potential savings with an unlimited plan</span><strong id="qsOut">$0/yr</strong><small id="qsPlan"></small></div>
+      <a class="btn btn-primary btn-block" id="qsGo" href="{{ROOT}}save/">Get my full audit →</a>
+      <p class="micro">Estimate uses published US prices. The full audit matches your data use and network.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head"><div><p class="kicker">Deal of the day</p><h2>Today's standout</h2></div></div>
+    {{DEAL_OF_DAY}}
+    <div class="section-head mt"><div><p class="kicker">Fresh from 6 regions</p><h2>Latest mobile deals</h2></div><a class="link-arrow" href="{{ROOT}}deals/">All {{STATS_DEALS}} deals →</a></div>
+    <div class="deal-grid">{{LATEST_DEALS:8}}</div>
+  </div>
+</section>
+
+<div class="container"><div class="ad-slot" data-slot="homeMid"></div></div>
+
+<section class="section section-alt">
+  <div class="container">
+    <div class="section-head"><div><p class="kicker">Free tools</p><h2>Do the math in seconds</h2></div></div>
+    <div class="grid grid-3">
+      <a class="card tool-card" href="{{ROOT}}save/" data-reveal><span class="ico ico-audit"></span><h3>Free Bill Audit</h3><p>See your yearly savings instantly, then get a personalised report.</p><span class="link-arrow">Start audit →</span></a>
+      <a class="card tool-card" href="{{ROOT}}plans/" data-reveal><span class="ico ico-plan"></span><h3>Plan Finder</h3><p>Filter {{PLANS_COUNT}} plans by budget, data, lines, network and hotspot.</p><span class="link-arrow">Find a plan →</span></a>
+      <a class="card tool-card" href="{{ROOT}}phones/#true-cost" data-reveal><span class="ico ico-calc"></span><h3>True Cost Calculator</h3><p>Is that "free phone" really free? Compare bill credits vs buying unlocked.</p><span class="link-arrow">Calculate →</span></a>
+      <a class="card tool-card" href="{{ROOT}}phones/#deal-check" data-reveal><span class="ico ico-check"></span><h3>Good-Deal Checker</h3><p>Enter a price and phone age to get a buy-or-wait verdict.</p><span class="link-arrow">Check a price →</span></a>
+      <a class="card tool-card" href="{{ROOT}}trade-in/" data-reveal><span class="ico ico-swap"></span><h3>Trade-in Estimator</h3><p>Know your old phone's fair value before anyone makes you an offer.</p><span class="link-arrow">Estimate value →</span></a>
+      <a class="card tool-card" href="{{ROOT}}esim/" data-reveal><span class="ico ico-globe"></span><h3>eSIM vs Roaming</h3><p>Compare carrier roaming passes with travel eSIM costs for your trip.</p><span class="link-arrow">Compare →</span></a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container split">
+    <div>
+      <p class="kicker">Deal Radar</p>
+      <h2>The phones everyone is hunting right now</h2>
+      <p class="muted">Counted automatically from every deal in our feed over the last 21 days. Updated every 6 hours.</p>
+      <a class="btn btn-ghost" href="{{ROOT}}phones/">Open Deal Radar</a>
+    </div>
+    <div>{{RADAR:8}}</div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="cta-band" data-reveal>
+      <div>
+        <p class="kicker">Free · 60 seconds · No obligation</p>
+        <h2>Find out if you're overpaying.</h2>
+        <ol class="steps-inline"><li>Tell us your bill and lines</li><li>See your savings instantly</li><li>Get your personalised plan report</li></ol>
+      </div>
+      <a class="btn btn-primary btn-lg" href="{{ROOT}}save/">Start my Bill Audit</a>
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <div class="section-head"><div><p class="kicker">Guides</p><h2>Save smarter</h2></div><a class="link-arrow" href="{{ROOT}}guides/">All guides →</a></div>
+    <div class="grid grid-3">{{GUIDES_GRID:6}}</div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head"><div><p class="kicker">Watch</p><h2>Latest phone reviews</h2></div><a class="link-arrow" href="{{ROOT}}videos/">All videos →</a></div>
+    <div class="grid grid-3">{{VIDEOS_GRID:3}}</div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <div class="section-head"><div><p class="kicker">Get involved</p><h2>Build Mobile.Deals with us</h2></div></div>
+    <div class="grid grid-4">
+      <a class="card mini-card" href="{{ROOT}}support/"><h3>Support us</h3><p>Fund operations, promotions, new talent and contest prizes.</p></a>
+      <a class="card mini-card" href="{{ROOT}}contests/"><h3>Monthly contest</h3><p>Find the best deal of the month and win a prize.</p></a>
+      <a class="card mini-card" href="{{ROOT}}advertise/"><h3>Advertise & partner</h3><p>Sponsorships, featured deals and partnerships.</p></a>
+      <a class="card mini-card" href="{{ROOT}}careers/"><h3>Join the team</h3><p>Deal hunters, writers, video creators and more.</p></a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container narrow">
+    <h2>Frequently asked questions</h2>
+    <details class="faq"><summary>How does Mobile.Deals find deals?</summary><div><p>An automated job scans public deal communities and publishers in the US, Canada, the UK, Europe, Australia and India every 6 hours, keeps only mobile-related offers and links you to the original source.</p></div></details>
+    <details class="faq"><summary>Is the Bill Audit really free?</summary><div><p>Yes. You see your savings estimate instantly without giving any details. If you want the full personalised report, you share an email address and we send it. No spam, and we never sell your data.</p></div></details>
+    <details class="faq"><summary>How do you make money?</summary><div><p>Through advertising, some affiliate links (we may earn a commission when you sign up through them, at no extra cost to you), sponsorships and reader support. Rankings in our tools are based on price and features. See our <a href="{{ROOT}}disclosure/">disclosures</a>.</p></div></details>
+    <details class="faq"><summary>Which countries do you cover?</summary><div><p>The live deals feed covers the US, Canada, the UK, Europe, Australia and India. The Plan Finder currently covers US plans, with more regions on the roadmap.</p></div></details>
+  </div>
+</section>

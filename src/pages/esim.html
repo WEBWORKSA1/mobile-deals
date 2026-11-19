@@ -1,0 +1,49 @@
+<!--
+title: Travel eSIM vs Roaming Calculator — Stop Paying Roaming Fees
+description: Compare your carrier's roaming pass with travel eSIM and local SIM costs for your trip length and data needs. Plus a setup checklist for using eSIMs abroad.
+path: esim/
+nav: esim
+crumb: Travel eSIM
+-->
+<section class="page-head">
+  <div class="container">
+    <p class="kicker">Travel smarter</p>
+    <h1>Travel eSIM vs roaming: what will your trip cost?</h1>
+    <p class="lead">Daily roaming passes are convenient but add up fast. Plug in your trip and the prices you have been quoted to see which option is cheapest.</p>
+  </div>
+</section>
+
+<section class="section pt0">
+  <div class="container tool-layout">
+    <div class="card" id="esimCalc">
+      <div class="form-grid">
+        <label class="field"><span>Trip length (days)</span><input id="esDays" type="number" min="1" max="180" value="10"></label>
+        <label class="field"><span>Data per day (GB)</span><input id="esGb" type="number" min="0" step="0.1" value="0.7"></label>
+        <label class="field"><span>Your carrier's daily roaming pass ($)</span><input id="esPass" type="number" min="0" step="0.5" value="12"></label>
+        <label class="field"><span>Travel eSIM price per GB ($)</span><input id="esPerGb" type="number" min="0" step="0.1" value="4"></label>
+        <label class="field"><span>Local SIM total for the trip ($)</span><input id="esLocal" type="number" min="0" value="25"></label>
+      </div>
+      <div class="result-box" id="esResult" aria-live="polite"></div>
+      <p class="micro">Defaults are placeholders; edit them with the prices you've been quoted. Travel eSIMs are usually data-only.</p>
+    </div>
+    <div>
+      <h2>Your three options</h2>
+      <div class="stack">
+        <div class="card"><h3 class="h4">Carrier roaming pass</h3><p class="muted">Easiest: your number works as normal. Most expensive on longer trips.</p></div>
+        <div class="card"><h3 class="h4">Travel eSIM</h3><p class="muted">Buy before you fly, land connected. Keep your home line on for calls and texts.</p></div>
+        <div class="card"><h3 class="h4">Local SIM</h3><p class="muted">Often cheapest per GB for long stays, but needs a shop visit and sometimes ID.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container narrow">
+    <h2>Before you fly: eSIM setup checklist</h2>
+    <ol class="steps"><li>Confirm your phone supports eSIM and is unlocked.</li><li>Install the travel eSIM at home on Wi-Fi; leave its data off until you land.</li><li>Label your lines "Home" and "Travel" and set Travel as the data line on arrival.</li><li>Keep Home active for calls and texts but turn its data roaming off.</li><li>Download offline maps as a backup.</li></ol>
+    <p class="muted">Full guide: <a href="{{ROOT}}guides/travel-esim-guide/">Travel eSIM guide</a> · Live <a href="{{ROOT}}deals/">SIM & eSIM deals</a></p>
+    <h2 class="mt">FAQ</h2>
+    <details class="faq"><summary>Will I keep my phone number abroad?</summary><div><p>Yes, if you keep your home line active alongside the travel eSIM. Watch for charges on incoming calls and texts.</p></div></details>
+    <details class="faq"><summary>How much data do I need per day?</summary><div><p>Maps, messaging and light browsing typically use 0.3–0.7GB a day. Streaming and video calls use much more.</p></div></details>
+  </div>
+</section>

@@ -1,0 +1,83 @@
+<!--
+title: Phone Deal Radar, True Cost Calculator and Good-Deal Checker
+description: See which phones are trending in deals right now, calculate the real cost of free-phone bill-credit offers, and check whether a phone price is actually a good deal.
+path: phones/
+nav: phones
+crumb: Phones
+-->
+<section class="page-head">
+  <div class="container">
+    <p class="kicker">Updated {{UPDATED}}</p>
+    <h1>Phones: radar, true cost and deal checks</h1>
+    <p class="lead">Three tools to buy the right phone at the right price: see what is being discounted, expose the real cost of carrier offers, and get a verdict on any price you find.</p>
+  </div>
+</section>
+
+<section class="section pt0" id="radar">
+  <div class="container split">
+    <div>
+      <h2>Deal Radar</h2>
+      <p class="muted">Models mentioned most often across our live deals feed in the last 21 days. Tap a model to see its newest deal.</p>
+      <a class="btn btn-ghost" href="{{ROOT}}deals/">See all live deals</a>
+    </div>
+    <div>{{RADAR:12}}</div>
+  </div>
+</section>
+
+<section class="section section-alt" id="true-cost">
+  <div class="container tool-layout">
+    <div>
+      <p class="kicker">True Cost Calculator</p>
+      <h2>Is that "free phone" really free?</h2>
+      <p class="muted">Carrier offers often cover the phone with monthly bill credits, but only while you stay on a qualifying plan. Compare that path with buying the phone and using a cheaper plan.</p>
+      <p class="muted">Read: <a href="{{ROOT}}guides/free-phone-bill-credits-explained/">Bill credits decoded</a></p>
+    </div>
+    <div class="card" id="trueCost">
+      <h3 class="h4">Carrier "free phone" offer</h3>
+      <div class="form-grid">
+        <label class="field"><span>Phone retail price ($)</span><input id="tcRetail" type="number" min="0" value="799"></label>
+        <label class="field"><span>Credit period (months)</span><select id="tcMonths"><option>24</option><option selected>36</option></select></label>
+        <label class="field"><span>Required plan ($/month)</span><input id="tcQual" type="number" min="0" value="85"></label>
+        <label class="field"><span>Upfront fees & tax ($)</span><input id="tcUpfront" type="number" min="0" value="80"></label>
+      </div>
+      <h3 class="h4">Alternative: buy it and pick a cheaper plan</h3>
+      <div class="form-grid">
+        <label class="field"><span>Unlocked phone price ($)</span><input id="tcAltPhone" type="number" min="0" value="799"></label>
+        <label class="field"><span>Cheaper plan ($/month)</span><input id="tcAltPlan" type="number" min="0" value="25"></label>
+        <label class="field"><span>Leave after (months)</span><input id="tcLeave" type="number" min="1" max="36" value="36"></label>
+      </div>
+      <div class="result-box" id="tcResult" aria-live="polite"></div>
+    </div>
+  </div>
+</section>
+
+<div class="container"><div class="ad-slot" data-slot="phonesMid"></div></div>
+
+<section class="section" id="deal-check">
+  <div class="container tool-layout">
+    <div>
+      <p class="kicker">Good-Deal Checker</p>
+      <h2>Buy now or wait?</h2>
+      <p class="muted">Enter the launch price, the offer and how long the phone has been on sale. The verdict compares the discount with typical discount levels for phones of that age. It is a rule-of-thumb guide, not a price guarantee.</p>
+      <p class="muted">Read: <a href="{{ROOT}}guides/best-time-to-buy-a-phone/">The best time to buy a phone</a></p>
+    </div>
+    <div class="card" id="dealCheck">
+      <div class="form-grid">
+        <label class="field"><span>Launch price</span><input id="dkMsrp" type="number" min="1" value="999"></label>
+        <label class="field"><span>Offer price</span><input id="dkPrice" type="number" min="0" value="799"></label>
+        <label class="field"><span>Months since launch</span><input id="dkAge" type="number" min="0" max="60" value="6"></label>
+        <label class="field"><span>Condition</span><select id="dkCond"><option value="new">New</option><option value="refurb">Refurbished</option><option value="used">Used</option></select></label>
+      </div>
+      <div class="result-box" id="dkResult" aria-live="polite"></div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container narrow">
+    <h2>FAQ</h2>
+    <details class="faq"><summary>How is the Deal Radar calculated?</summary><div><p>Every 6 hours we scan the titles of all live deals and count mentions of current phone models. A higher count means more retailers and carriers are discounting that model right now.</p></div></details>
+    <details class="faq"><summary>Should I buy last year's flagship?</summary><div><p>Often yes. Previous flagships tend to drop sharply in price after a new launch while still getting years of software updates.</p></div></details>
+    <details class="faq"><summary>Is refurbished safe?</summary><div><p>From reputable sellers with a warranty and returns, yes. Use our <a href="{{ROOT}}guides/refurbished-phone-checklist/">10-point checklist</a>.</p></div></details>
+  </div>
+</section>

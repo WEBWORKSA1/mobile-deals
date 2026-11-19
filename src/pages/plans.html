@@ -1,0 +1,66 @@
+<!--
+title: Plan Finder — Compare Cell Phone Plans by Price, Data, Network and 24-Month Cost
+description: Compare US cell phone plans from Mint, Visible, US Mobile, Tello, Google Fi, Metro, T-Mobile and AT&T. Filter by budget, data, lines, network and hotspot; sort by true 24-month cost.
+path: plans/
+nav: plans
+crumb: Plan Finder
+-->
+<section class="page-head">
+  <div class="container">
+    <p class="kicker">{{PLANS_COUNT}} plans · prices checked {{PLANS_CHECKED}}</p>
+    <h1>Plan Finder</h1>
+    <p class="lead">Filter by what you actually need, then sort by the number that matters: what you will pay over 24 months. Multi-line totals use each carrier's published family pricing where available.</p>
+  </div>
+</section>
+
+<section class="section pt0">
+  <div class="container tool-layout" id="planFinder">
+    <aside class="card filters">
+      <h2 class="h4">Filters</h2>
+      <label class="field"><span>Max price per line: <output id="pfBudgetOut">$100</output></span><input type="range" id="pfBudget" min="10" max="100" step="5" value="100"></label>
+      <label class="field"><span>Data you need</span><select id="pfData"><option value="0">Any amount</option><option value="5">5GB+</option><option value="10">10GB+</option><option value="15">15GB+</option><option value="20">20GB+</option><option value="999">Unlimited</option></select></label>
+      <label class="field"><span>Lines</span><select id="pfLines"><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option></select></label>
+      <label class="field"><span>Network</span><select id="pfNetwork"><option value="any">Any network</option><option>T-Mobile</option><option>Verizon</option><option>AT&amp;T</option><option>Multiple</option></select></label>
+      <label class="check"><input type="checkbox" id="pfHotspot"><span>Needs hotspot</span></label>
+      <label class="field"><span>Sort by</span><select id="pfSort"><option value="total">24-month total</option><option value="price">Monthly price</option><option value="cpg">Cost per GB</option></select></label>
+      <p class="micro">Prices are advertised rates (some need prepay or AutoPay). Taxes and fees vary. Always confirm on the carrier site.</p>
+    </aside>
+    <div>
+      <p class="muted" id="pfCount" aria-live="polite"></p>
+      <div class="plan-grid" id="pfResults">{{PLANS_CARDS}}</div>
+    </div>
+  </div>
+</section>
+
+<div class="container"><div class="ad-slot" data-slot="plansMid"></div></div>
+
+<section class="section section-alt" id="data-calculator">
+  <div class="container tool-layout">
+    <div>
+      <p class="kicker">Data Usage Calculator</p>
+      <h2>How much data do you really need?</h2>
+      <p class="muted">Move the sliders to match a typical day away from Wi-Fi. Rates are typical mobile-quality averages; HD video and video calls can use more.</p>
+    </div>
+    <div class="card" id="dataCalc">
+      <label class="field"><span>Video streaming: <output>1</output> h/day</span><input type="range" min="0" max="6" step="0.5" value="1" data-rate="0.7"></label>
+      <label class="field"><span>Social media scrolling: <output>1.5</output> h/day</span><input type="range" min="0" max="6" step="0.5" value="1.5" data-rate="0.5"></label>
+      <label class="field"><span>Music & podcasts: <output>1</output> h/day</span><input type="range" min="0" max="8" step="0.5" value="1" data-rate="0.07"></label>
+      <label class="field"><span>Video calls: <output>0</output> h/day</span><input type="range" min="0" max="4" step="0.5" value="0" data-rate="0.8"></label>
+      <label class="field"><span>Browsing, maps & messaging: <output>2</output> h/day</span><input type="range" min="0" max="10" step="0.5" value="2" data-rate="0.08"></label>
+      <div class="result-box"><span>Estimated monthly use</span><strong id="dcResult">—</strong><p id="dcRec" class="muted"></p></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container narrow">
+    <h2>How we compare plans</h2>
+    <p>Each plan lists the advertised monthly price per line, the network it runs on, the data allowance and the conditions attached (prepay terms, AutoPay or promotional periods). The 24-month total multiplies the monthly cost for your number of lines by 24 and uses published multi-line pricing where the carrier provides it. Cost per GB divides the monthly price by the data allowance, with unlimited plans treated as 50GB for comparison.</p>
+    <p>We verify prices against carrier websites and show the date of the last check. Some links are affiliate links; that never changes the order, which is determined only by your filters and sort choice. <a href="{{ROOT}}disclosure/">Read our disclosures</a>.</p>
+    <div class="callout"><strong>Not sure what you use?</strong> Let the <a href="{{ROOT}}save/">free Bill Audit</a> compare your current bill against every plan here.</div>
+    <h2 class="mt">FAQ</h2>
+    <details class="faq"><summary>Why do some cheap plans require paying upfront?</summary><div><p>Some prepaid carriers offer their lowest monthly rate only when you prepay several months or a full year. The effective monthly price is real, but you pay it in one go.</p></div></details>
+    <details class="faq"><summary>Do these prices include taxes?</summary><div><p>Many prepaid plans include taxes and fees; postpaid plans usually add them on top. Check the carrier's broadband label for the exact amount.</p></div></details>
+    <details class="faq"><summary>Can I keep my number?</summary><div><p>Yes. Every carrier listed supports number porting. Follow our <a href="{{ROOT}}guides/switching-carriers-checklist/">switching checklist</a>.</p></div></details>
+  </div>
+</section>
