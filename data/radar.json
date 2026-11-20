@@ -1,12 +1,6 @@
 {
- "updated": "2026-11-20T00:41:31.363676+00:00",
+ "updated": "2026-11-20T15:35:42.619718+00:00",
  "models": [
-  {
-   "model": "Pixel 11",
-   "count": 12,
-   "link": "https://9to5google.com/2026/11/19/black-friday-week-pixel-11-watch-5-android-auto-1000x/",
-   "date": "2026-11-19T16:30:32Z"
-  },
   {
    "model": "iPhone 18 Pro",
    "count": 11,
@@ -16,20 +10,26 @@
   {
    "model": "Galaxy S26 Ultra",
    "count": 10,
-   "link": "https://www.hotukdeals.com/deals/samsung-galaxy-s26-ultra-1tb-o2-600gb-data-24-mo-total-ps1226-or-ps1076-with-trade-in-of-any-smartphone-ps50-tcb-5039842",
-   "date": "2026-11-20T00:24:29Z"
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM25iUnFkbzlkelhieXBoaGNCVTB6UEhhUnR3clYwNWVjQXNvM0NyMnZKbk5NbWVLVklQaTdONk5mcGt1eTNPQlhJOFZHdGt1RnRudUxhN3hWU2pZSkRKYzJBSFNFMjBTbS0xQ2Z5azhXaUdHWTRPSGg0ZVg3akFOZmtLa0pJQzJUSUwxSGNxaGxnUUZ3ajZCQy1SRXN5WFJ3a0xURlFuYXZ4WUxXWUpQWEZzdlJER0JHd29ZRks3MVdEb2g4UGxUUkMxb2xhdXdoelo2bGNpQW9JR0lWVnNjVA?oc=5",
+   "date": "2026-11-20T12:45:53Z"
+  },
+  {
+   "model": "Pixel 11",
+   "count": 10,
+   "link": "https://www.dealnews.com/Google-Pixel-11-256-GB-for-AT-T-w-Pixel-Buds-2-a-0-mo-w-qualifying-plan-free-shipping/22415061.html?iref=rss-c142",
+   "date": "2026-11-20T13:41:11Z"
+  },
+  {
+   "model": "iPhone Air",
+   "count": 8,
+   "link": "https://www.mydealz.de/deals/amazon-spigen-iphone-air-hulle-ultra-hybrid-magfit-classic-black-2876496",
+   "date": "2026-11-20T14:46:21Z"
   },
   {
    "model": "Galaxy S26 FE",
-   "count": 6,
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnFmM0JYT0FfY04yQUNGS0JvUVNHc0xUSi1tSFZMSzZuNWx1X1FTNmo2QlFBR0lmVERWakxaTnFvX2pqUWZjdjJBZkZ3LTNnak9oUmw1UWJYZ1JmMVlYZ29abDFqdXMxX0pGY3l4cTB0WlVnNkhTSjFLN3NoaFZsZnhYblh4UXRBZ0ZIMUtaMHowZWVPakJwZXlLNktzaGpBeGsxeVB5QVR1VHRzU0NqdjhXdw?oc=5",
-   "date": "2026-11-19T17:40:12Z"
-  },
-  {
-   "model": "Pixel 10",
-   "count": 6,
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVZXajZjYVZ3QVFEU1YtRUpGQU5GVTdoVWVKVk5RSmRPY0FqMHQxYkt2UVh3UXdIaHNscXJDZVhYSTQ0VEJpZFhKSkhiaWNSMXZYWUZFNnpfams0am5Xcm04eTJ1QnFvTER3S1RYX3RBaVpNa2ZXS1RKaTVfX1J0bHJTeXduNXFrMFVITlJTcVNEZ1lad0ZmUHVZLW0yYzY1SlJ5OWp2dUJzSEhS?oc=5",
-   "date": "2026-11-19T19:18:00Z"
+   "count": 7,
+   "link": "https://www.dealnews.com/Samsung-Galaxy-S26-FE-128-GB-for-AT-T-0-mo-w-qualifying-plan-free-shipping/22414924.html?iref=rss-c142",
+   "date": "2026-11-20T12:27:09Z"
   },
   {
    "model": "iPhone 17",
@@ -38,64 +38,52 @@
    "date": "2026-11-19T19:00:31Z"
   },
   {
-   "model": "Pixel 10a",
+   "model": "Pixel 10",
    "count": 5,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVZXajZjYVZ3QVFEU1YtRUpGQU5GVTdoVWVKVk5RSmRPY0FqMHQxYkt2UVh3UXdIaHNscXJDZVhYSTQ0VEJpZFhKSkhiaWNSMXZYWUZFNnpfams0am5Xcm04eTJ1QnFvTER3S1RYX3RBaVpNa2ZXS1RKaTVfX1J0bHJTeXduNXFrMFVITlJTcVNEZ1lad0ZmUHVZLW0yYzY1SlJ5OWp2dUJzSEhS?oc=5",
+   "date": "2026-11-19T19:18:00Z"
+  },
+  {
+   "model": "Pixel 11 Pro XL",
+   "count": 5,
+   "link": "https://www.dealnews.com/Google-Pixel-11-Pro-XL-256-GB-for-AT-T-w-Pixel-Buds-2-a-0-mo-w-trade-in-free-shipping/22415008.html?iref=rss-c142",
+   "date": "2026-11-20T13:14:13Z"
+  },
+  {
+   "model": "Pixel 10a",
+   "count": 4,
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdjdQLXVRdUdKTGp5SGRMSUc4dE94am1WM3ZKS0Z3b0d2YVlJY2lwQVVMUW5NQXF2SVZISjlKWVNnbUZTUnBvVFVpTGtTdXgtNmFlaWxDLTltY1ptUDhMd05ETnotbkxkS05zRk9jOGwySkxXd2xmS1FEeE9lM0pPWg?oc=5",
    "date": "2026-11-19T10:16:19Z"
   },
   {
-   "model": "iPhone Air",
-   "count": 5,
-   "link": "https://www.ozbargain.com.au/node/983577",
-   "date": "2026-11-18T09:00:00Z"
-  },
-  {
    "model": "Galaxy Z Fold8",
-   "count": 4,
-   "link": "https://www.ozbargain.com.au/cat/mobile",
-   "date": "2026-11-18T07:00:00Z"
+   "count": 3,
+   "link": "https://www.dealnews.com/Samsung-Galaxy-Z-Fold8-256-GB-for-AT-T-w-Tab-A11-5-G-Galaxy-Watch9-0-mo-w-trade-in-free-shipping/22414896.html?iref=rss-c142",
+   "date": "2026-11-20T12:11:52Z"
   },
   {
-   "model": "Pixel 11 Pro XL",
-   "count": 4,
-   "link": "https://www.hotukdeals.com/deals/google-pixel-11-pro-xl-256gb-buds-2a-unlimited-everything-ps2999-ps39-upfront-with-watch-5-pixel-tag-ps93056-with-code-24m-5039063",
-   "date": "2026-11-19T14:56:09Z"
+   "model": "iPhone 18",
+   "count": 3,
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XMjdDdDd0OFZtdmZQdG9iSDlydHZ4Uy1ZX0d2UXpwV3Y0ODFZMWc1NktEbDA3bU5WQi1LV3FfQUs4M2NnVEpMY1RveXR2eFhLbTZwbWVQLUNtZjJyb3hIbWNLSVVFbWZ0MHdUUmR0SVpubU9uaFQw?oc=5",
+   "date": "2026-11-18T13:09:00Z"
+  },
+  {
+   "model": "iPhone 18 Pro Max",
+   "count": 3,
+   "link": "https://www.dealnews.com/Apple-iPhone-18-Pro-Max-for-AT-T-Up-to-1-200-off-w-trade-in-free-shipping/22415112.html?iref=rss-c142",
+   "date": "2026-11-20T14:10:14Z"
   },
   {
    "model": "Pixel 11 Pro",
-   "count": 3,
+   "count": 2,
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xaElDM2h3R245d1luTTYxbTNNU000MC1qeFVOUXFCeUhyM1JVRy1CdDlqdDhEdTlEYzU4VjAzeTdjc1dtN3d5d1QzOTREREF2MTF1a3pXMWdYaFFFcFhLRnFXcUdQZDdiQmc?oc=5",
    "date": "2026-11-18T18:58:03Z"
   },
   {
    "model": "iPhone 17 Pro Max",
-   "count": 3,
+   "count": 2,
    "link": "https://www.dealnews.com/Unlocked-Apple-iPhone-17-Pro-Max-256-GB-Smartphone-for-1-100-free-shipping/22411421.html?iref=rss-c142",
    "date": "2026-11-19T12:42:15Z"
-  },
-  {
-   "model": "Motorola Edge 70",
-   "count": 2,
-   "link": "https://www.ozbargain.com.au/node/982431",
-   "date": "2026-11-10T08:48:33Z"
-  },
-  {
-   "model": "Nothing Phone (3)",
-   "count": 2,
-   "link": "https://www.dealnews.com/products/Unlocked-Nothing-Phone-3-Smartphone/560279.html?iref=rss-c142",
-   "date": "2026-11-19T02:09:04Z"
-  },
-  {
-   "model": "iPhone 18",
-   "count": 2,
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3a0xudHVYdHJ4aXlzUWJDdHBxRUNlRVd3amRMN0NQLVg4d3U1WlF5MWxhV1RyR1QxbXVfZTlwRkw3ZWpnZF9CMVlROUttRWVVczJKNUdQV1laSF9YWjBhb3NhTQ?oc=5",
-   "date": "2026-11-18T08:51:00Z"
-  },
-  {
-   "model": "iPhone 18 Pro Max",
-   "count": 2,
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOenV5S2d4bl8ydWJiZ3FHbktEOHBKRmozQU1pd2VXblA2aklkUFhVSlhqTzZPMzhoaXFMbldGZEttLWNRNW1yNld1dzdHTE03V2haLWxQUzJ1NTB0cldKYTNucTdKQldYNWgxUHhrX0JKRVJRcUE5bWRGb3BfbFVuVXJlekc0QktWb2lXRFZXVFNDTjY4NHhaU2lfMHlQY0VTZy1sNE1ER0FsV0xOS1lENDFtaXd5WlRVZ0xMNThtckVtSlJyVVBNWlZDYldQYjZCRG9fUm4zcXpMZDYxSkE?oc=5",
-   "date": "2026-11-19T17:30:04Z"
   },
   {
    "model": "Galaxy A17",
@@ -104,10 +92,22 @@
    "date": "2026-11-20T00:20:47Z"
   },
   {
+   "model": "Galaxy A37",
+   "count": 1,
+   "link": "https://www.dealnews.com/Samsung-Galaxy-A37-5-G-128-GB-Smartphone-for-Cricket-Wireless-0-mo-w-Supreme-Unlimited-plan-free-2-day-shipping/22415255.html?iref=rss-c142",
+   "date": "2026-11-20T15:20:08Z"
+  },
+  {
    "model": "Galaxy A57",
    "count": 1,
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFp5SDdHYk9yUmJDRmItcWh3b0haUV8wTl8ycE1ycGtjWDhza3VPODVfZ3F5Yk95b2lua3ppMDd5NE1RaTR5eHdDZ1FmeUZSXzNfeDE5OHNNNXVacjlKUm5IVmpEQmFFN243dFlUdmJZTVQ0RXQzdl80WjlYVTVUQUFCY0VjM0tDbGZTUDRTekF5TTgtS3FNWDE0TkJidjZCWkllWmFUU3ZhYU9fMFRtV0hB?oc=5",
    "date": "2026-11-16T11:33:20Z"
+  },
+  {
+   "model": "Galaxy S26",
+   "count": 1,
+   "link": "https://www.dealnews.com/Samsung-Galaxy-S26-256-GB-Smartphone-for-AT-T-Galaxy-Buds3-0-mo-w-trade-in-free-shipping/22415002.html?iref=rss-c142",
+   "date": "2026-11-20T13:03:39Z"
   },
   {
    "model": "Motorola Razr Ultra",
@@ -116,16 +116,10 @@
    "date": "2026-11-19T02:04:43Z"
   },
   {
-   "model": "Pixel 10 Pro",
+   "model": "Nothing Phone (3)",
    "count": 1,
-   "link": "https://www.ozbargain.com.au/node/981275",
-   "date": "2026-11-02T01:35:17Z"
-  },
-  {
-   "model": "Pixel 9 Pro Fold",
-   "count": 1,
-   "link": "https://www.ozbargain.com.au/node/981275",
-   "date": "2026-11-02T01:35:17Z"
+   "link": "https://www.dealnews.com/products/Unlocked-Nothing-Phone-3-Smartphone/560279.html?iref=rss-c142",
+   "date": "2026-11-19T02:09:04Z"
   },
   {
    "model": "iPhone 15 Pro Max",

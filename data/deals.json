@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T00:41:21Z",
- "runs": 5,
+ "updated": "2026-11-20T15:35:31Z",
+ "runs": 6,
  "sources_ok": [
   "9to5Google Deals",
   "9to5Toys",
@@ -14,6 +14,413 @@
   "mydealz"
  ],
  "items": [
+  {
+   "id": "9dcd6835f861",
+   "title": "INKBIRD Wireless Meat Thermometer Probe with 4 Multi-Sensors 5.4GHz WiFi 5G",
+   "link": "https://www.hotukdeals.com/deals/inkbird-wireless-meat-thermometer-probe-with-4-multi-sensors-54ghz-wifi-5g-5040778",
+   "source": "HotUKDeals",
+   "region": "UK",
+   "cat": "phones",
+   "date": "2026-11-20T15:34:22Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "21f69a9f6b90",
+   "title": "Motorola Moto G Stylus 2025 128GB for Cricket Wireless: $0/mo. w/ qualifying plan + free 2-day shipping",
+   "link": "https://www.dealnews.com/Motorola-Moto-G-Stylus-2025-128-GB-for-Cricket-Wireless-0-mo-w-qualifying-plan-free-2-day-shipping/22415260.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "plans",
+   "date": "2026-11-20T15:27:55Z",
+   "price": "$0",
+   "heat": 0
+  },
+  {
+   "id": "f2e148702bd7",
+   "title": "Samsung Galaxy A37 5G 128GB Smartphone for Cricket Wireless: $0/mo w/ Supreme Unlimited plan + free 2-day shipping",
+   "link": "https://www.dealnews.com/Samsung-Galaxy-A37-5-G-128-GB-Smartphone-for-Cricket-Wireless-0-mo-w-Supreme-Unlimited-plan-free-2-day-shipping/22415255.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "plans",
+   "date": "2026-11-20T15:20:08Z",
+   "price": "$0",
+   "heat": 0
+  },
+  {
+   "id": "93375ab3eb2c",
+   "title": "MagentaTV (ohne DSL Vertrag), Tarif MegaStream für eff. 17,50€/Monat inkl. Disney+, Netflix, AppleTV, RTL+ Premium, Upgrade möglich",
+   "link": "https://www.mydealz.de/deals/magentatv-ohne-dsl-vertrag-tarif-megastream-fur-eff-1750eurmonat-inkl-disney-netflix-appletv-rtl-premium-upgrade-moglich-2877244",
+   "source": "mydealz",
+   "region": "EU",
+   "cat": "plans",
+   "date": "2026-11-20T15:18:32Z",
+   "price": "17,50€",
+   "heat": 115
+  },
+  {
+   "id": "9a4ce90dc989",
+   "title": "Open-Box Apple Watch SE 3 GPS 40mm for $170.10 + free shipping",
+   "link": "https://www.dealnews.com/products/Apple/Apple-Watch-SE-3-GPS-40-mm-Starlight-Aluminum-Case-with-Sport-Band/524433.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-20T15:03:24Z",
+   "price": "$170.10",
+   "heat": 0
+  },
+  {
+   "id": "509014409fea",
+   "title": "[Clients mobile Bouygues Telecom et B&YOU] Abonnement Disney+ standard avec publicités à 3.99€",
+   "link": "https://www.dealabs.com/bons-plans/clients-mobile-bouygues-telecom-et-byou-abonnement-disney-standard-avec-publicites-a-399eur-3463379",
+   "source": "Dealabs",
+   "region": "EU",
+   "cat": "phones",
+   "date": "2026-11-20T15:01:25Z",
+   "price": "3.99€",
+   "heat": 143
+  },
+  {
+   "id": "eda5440544af",
+   "title": "Prime: Samsung Galaxy Buds 3 Pro AI True Wireless Bluetooth Earbuds $100 + Free S&H",
+   "link": "https://slickdeals.net/f/20325300-prime-99-99-samsung-galaxy-buds-3-pro-ai-true-wireless-bluetooth-earbuds-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "source": "Slickdeals",
+   "region": "US",
+   "cat": "accessories",
+   "date": "2026-11-20T15:00:17Z",
+   "price": "$100",
+   "heat": 0
+  },
+  {
+   "id": "e24836b3d728",
+   "title": "Apple iPad Pro 11\" 2024, M4 10-Core GPU, 256GB, WiFi 6E, OLED, 120Hz [Zustand: Exzellent + 3 Jahre Garantie] Eff. 769€ - 6fach Payback",
+   "link": "https://www.mydealz.de/deals/apple-ipad-pro-11-2024-m4-10-core-gpu-256gb-speicher-wifi-6e-2420x1668-oled-120hz-silber-zustand-exzellent-3-jahre-garantie-2877126",
+   "source": "mydealz",
+   "region": "EU",
+   "cat": "wearables",
+   "date": "2026-11-20T14:55:16Z",
+   "price": "769€",
+   "heat": 137
+  },
+  {
+   "id": "b4721a808db5",
+   "title": "New deal or no new deal for Declan Rice? Mikel Arteta has to phone a friend",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2FURmx1TVBydHJPVHpQZ2hKRFVFYjlsaHJ2SjVQOFJKcDBNc2hPVS13aG9sWmZmaHEwVkpzV0FkNVhSdnZxV00zSVczMVpaRWVycDZWM3FNUkpEVkpwOGN4bm5KQ0tzcFd1d1lqd25UVWpzZmxzWlptbm5rWHp2U3B6MVNwRXlaUWFqeXdxSGRJbXBjQk9GUTRrcW5RNXR5UkF1VmVXQkliRzVkNklwNXNVaE1kRzJYYnhvRWc4cw?oc=5",
+   "source": "BreakingNews.ie",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-20T14:53:01Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "19ed37d7e6db",
+   "title": "(prime) Spigen iPhone Air Hülle Ultra Hybrid MagFit - Classic Black",
+   "link": "https://www.mydealz.de/deals/amazon-spigen-iphone-air-hulle-ultra-hybrid-magfit-classic-black-2876496",
+   "source": "mydealz",
+   "region": "EU",
+   "cat": "phones",
+   "date": "2026-11-20T14:46:21Z",
+   "price": "",
+   "heat": 120
+  },
+  {
+   "id": "3832a1ffbd02",
+   "title": "Score a Galaxy Watch down at $200 in Amazon’s Black Friday sale",
+   "link": "https://9to5toys.com/2026/11/20/galaxy-watch-8-amazon-black-friday-sale/",
+   "source": "9to5Toys",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-20T14:34:10Z",
+   "price": "$200",
+   "heat": 0
+  },
+  {
+   "id": "a2a07f7c5b49",
+   "title": "Samsung Galaxy Watch 8 40mm Smartwatch (2025) for $200 + free shipping",
+   "link": "https://www.dealnews.com/products/Samsung/Samsung-Galaxy-Watch-8-40-mm-Smartwatch-2025/496955.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-20T14:16:39Z",
+   "price": "$200",
+   "heat": 0
+  },
+  {
+   "id": "5e6671cb57d9",
+   "title": "Open-Box Samsung Galaxy Watch9 44mm Smartwatch for $234 + free shipping",
+   "link": "https://www.dealnews.com/products/Samsung/Samsung-Galaxy-Watch9-44-mm-Smartwatch/561339.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-20T14:12:14Z",
+   "price": "$234",
+   "heat": 0
+  },
+  {
+   "id": "ec6f6b282f90",
+   "title": "Apple iPhone 18 Pro Max for AT&T: Up to $1,200 off w/ trade-in + free shipping",
+   "link": "https://www.dealnews.com/Apple-iPhone-18-Pro-Max-for-AT-T-Up-to-1-200-off-w-trade-in-free-shipping/22415112.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-20T14:10:14Z",
+   "price": "$1,200",
+   "heat": 0
+  },
+  {
+   "id": "a7211d262484",
+   "title": "Motorola moto g 2026 128GB for AT&T: $0/mo w/ qualifying plan + free shipping",
+   "link": "https://www.dealnews.com/Motorola-moto-g-2026-128-GB-for-AT-T-0-mo-w-qualifying-plan-free-shipping/22415084.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "plans",
+   "date": "2026-11-20T13:56:09Z",
+   "price": "$0",
+   "heat": 0
+  },
+  {
+   "id": "703925e80398",
+   "title": "Unlocked Motorola Moto G Stylus 256GB Phone (2025) for $200 + free shipping",
+   "link": "https://www.dealnews.com/Unlocked-Motorola-Moto-G-Stylus-256-GB-Phone-2025-for-200-free-shipping/22415063.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-20T13:42:35Z",
+   "price": "$200",
+   "heat": 0
+  },
+  {
+   "id": "97868e8dc4dd",
+   "title": "Google Pixel 11 256GB for AT&T w/ Pixel Buds 2a: $0/mo w/ qualifying plan + free shipping",
+   "link": "https://www.dealnews.com/Google-Pixel-11-256-GB-for-AT-T-w-Pixel-Buds-2-a-0-mo-w-qualifying-plan-free-shipping/22415061.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "plans",
+   "date": "2026-11-20T13:41:11Z",
+   "price": "$0",
+   "heat": 0
+  },
+  {
+   "id": "43044319a176",
+   "title": "Motorola Phones Black Friday Deals at Amazon: Up to 50% off + free shipping w/ Prime",
+   "link": "https://www.dealnews.com/Motorola-Phones-Black-Friday-Deals-at-Amazon-Up-to-50-off-free-shipping-w-Prime/22415060.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-20T13:39:07Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "8ec293491cbe",
+   "title": "Google Pixel 11 Pro XL 256GB for AT&T w/ Pixel Buds 2a: $0/mo w/ trade-in + free shipping",
+   "link": "https://www.dealnews.com/Google-Pixel-11-Pro-XL-256-GB-for-AT-T-w-Pixel-Buds-2-a-0-mo-w-trade-in-free-shipping/22415008.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "accessories",
+   "date": "2026-11-20T13:14:13Z",
+   "price": "$0",
+   "heat": 0
+  },
+  {
+   "id": "251cd5081864",
+   "title": "Samsung Galaxy S26 256GB Smartphone for AT&T & Galaxy Buds3: $0/mo. w/ trade-in + free shipping",
+   "link": "https://www.dealnews.com/Samsung-Galaxy-S26-256-GB-Smartphone-for-AT-T-Galaxy-Buds3-0-mo-w-trade-in-free-shipping/22415002.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "plans",
+   "date": "2026-11-20T13:03:39Z",
+   "price": "$0",
+   "heat": 0
+  },
+  {
+   "id": "eec23b86ef62",
+   "title": "Garmin Tactix 8 51mm Premium Tactical GPS Smartwatch for $1,150 + free shipping",
+   "link": "https://www.dealnews.com/Garmin-Tactix-8-51-mm-Premium-Tactical-GPS-Smartwatch-for-1-150-free-shipping/22414974.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-20T12:51:56Z",
+   "price": "$1,150",
+   "heat": 0
+  },
+  {
+   "id": "592f85d53791",
+   "title": "Walmart's record-low Samsung Galaxy S26 Ultra deal looks great, but I'd avoid it for one key reason",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM25iUnFkbzlkelhieXBoaGNCVTB6UEhhUnR3clYwNWVjQXNvM0NyMnZKbk5NbWVLVklQaTdONk5mcGt1eTNPQlhJOFZHdGt1RnRudUxhN3hWU2pZSkRKYzJBSFNFMjBTbS0xQ2Z5azhXaUdHWTRPSGg0ZVg3akFOZmtLa0pJQzJUSUwxSGNxaGxnUUZ3ajZCQy1SRXN5WFJ3a0xURlFuYXZ4WUxXWUpQWEZzdlJER0JHd29ZRks3MVdEb2g4UGxUUkMxb2xhdXdoelo2bGNpQW9JR0lWVnNjVA?oc=5",
+   "source": "TechRadar",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-20T12:45:53Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "42293db6650b",
+   "title": "Samsung Galaxy S26 FE 128GB for AT&T: $0/mo. w/ qualifying plan + free shipping",
+   "link": "https://www.dealnews.com/Samsung-Galaxy-S26-FE-128-GB-for-AT-T-0-mo-w-qualifying-plan-free-shipping/22414924.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "plans",
+   "date": "2026-11-20T12:27:09Z",
+   "price": "$0",
+   "heat": 0
+  },
+  {
+   "id": "010ace083a22",
+   "title": "Garmin Instinct 3 AMOLED 45mm GPS Smartwatch for $250 + free shipping",
+   "link": "https://www.dealnews.com/products/Garmin/Garmin-Instinct-3-AMOLED-45-mm-GPS-Smartwatch/557823.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-20T12:24:15Z",
+   "price": "$250",
+   "heat": 0
+  },
+  {
+   "id": "659dae7eddf9",
+   "title": "Anker’s new MagGo 2 Pro Qi2.2 power bank with cooling fan hits lowest price for Black Friday Week sale (All colors)",
+   "link": "https://9to5toys.com/2026/11/20/anker-maggo-2-pro-power-bank-with-cooling-fan-lowest-price-for-black-friday/",
+   "source": "9to5Toys",
+   "region": "US",
+   "cat": "accessories",
+   "date": "2026-11-20T12:16:50Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "2c2119b01099",
+   "title": "OtterBox & more Phone Case Deals at Woot for Up to 94% off, deals from $3 + free shipping w/ Prime",
+   "link": "https://www.dealnews.com/Otter-Box-more-Phone-Case-Deals-at-Woot-for-Up-to-94-off-deals-from-3-free-shipping-w-Prime/22414897.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "accessories",
+   "date": "2026-11-20T12:12:29Z",
+   "price": "$3",
+   "heat": 0
+  },
+  {
+   "id": "26a2983e32fe",
+   "title": "Samsung Galaxy Z Fold8 256GB for AT&T w/ Tab A11+ 5G & Galaxy Watch9: $0/mo. w/ trade-in + free shipping",
+   "link": "https://www.dealnews.com/Samsung-Galaxy-Z-Fold8-256-GB-for-AT-T-w-Tab-A11-5-G-Galaxy-Watch9-0-mo-w-trade-in-free-shipping/22414896.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "plans",
+   "date": "2026-11-20T12:11:52Z",
+   "price": "$0",
+   "heat": 0
+  },
+  {
+   "id": "efecfa958e8a",
+   "title": "Open-Box Apple AirPods 5 w/ Active Noise Cancellation & Charging Case for $103 + free shipping",
+   "link": "https://www.dealnews.com/products/Apple/Apple-Air-Pods-5-w-Active-Noise-Cancellation-Charging-Case/561290.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "accessories",
+   "date": "2026-11-20T11:54:02Z",
+   "price": "$103",
+   "heat": 0
+  },
+  {
+   "id": "b3844bf660a7",
+   "title": "iPhone Air new unlocked is nearly $300 off for Black Friday, or Best Buy open-box up to a massive $799 off",
+   "link": "https://9to5toys.com/2026/11/20/iphone-air-new-unlocked-black-friday-deals/",
+   "source": "9to5Toys",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-20T11:26:46Z",
+   "price": "$300",
+   "heat": 0
+  },
+  {
+   "id": "7fd12bceae4c",
+   "title": "AT&T Black Friday Phone Deals: Up to $1,900 off + free shipping",
+   "link": "https://www.dealnews.com/AT-T-Black-Friday-Phone-Deals-Up-to-1-900-off-free-shipping/22414803.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-20T11:22:20Z",
+   "price": "$1,900",
+   "heat": 0
+  },
+  {
+   "id": "015d462485f1",
+   "title": "Apple iPhone Air 512GB Smartphone at T-Mobile: $0/mo. w/ trade-in + free shipping",
+   "link": "https://www.dealnews.com/Apple-iPhone-Air-512-GB-Smartphone-at-T-Mobile-0-mo-w-trade-in-free-shipping/22414774.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "plans",
+   "date": "2026-11-20T11:10:09Z",
+   "price": "$0",
+   "heat": 0
+  },
+  {
+   "id": "1caf553863b0",
+   "title": "M5 iPad Pro is nearly $300 off for Black Friday (Best price in months)",
+   "link": "https://9to5toys.com/2026/11/20/m5-ipad-pro-black-friday-best-price/",
+   "source": "9to5Toys",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-20T11:09:03Z",
+   "price": "$300",
+   "heat": 0
+  },
+  {
+   "id": "744d866af519",
+   "title": "Ultra Mobile Ultra-Early Access Savings for 50% off plans, from $6.50/mo. + free shipping",
+   "link": "https://www.dealnews.com/Ultra-Mobile-Ultra-Early-Access-Savings-for-50-off-plans-from-6-50-mo-free-shipping/22414668.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "plans",
+   "date": "2026-11-20T10:02:05Z",
+   "price": "$6.50",
+   "heat": 0
+  },
+  {
+   "id": "a54670aa9b8e",
+   "title": "AirPods Max 2 Black Friday deal just dropped even lower, now at $130 off",
+   "link": "https://9to5toys.com/2026/11/20/airpods-max-2-black-friday-deal-dropped-even-lower/",
+   "source": "9to5Toys",
+   "region": "US",
+   "cat": "accessories",
+   "date": "2026-11-20T09:52:02Z",
+   "price": "$130",
+   "heat": 0
+  },
+  {
+   "id": "0470c78f66b0",
+   "title": "ZAGG Glass Elite for Galaxy Tab S11 Ultra Is $48.99 at Best Buy",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xUTZxa1FTM1ZOdk0yZUV0cGhDMVF3WUVpUjJWZXdHODk0YnUwLVdZV2pSTHQ4MktjU1ZxVHBmZjAyS3g1YkwxYWM4YkZkZmg5U2YtVVp2MVVWUFByVDFPcW9yV1R4WXhGT0dOX1FfM2xoZ0RkNEY1WTFCTzZURDQ?oc=5",
+   "source": "SammyGuru",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-20T09:48:45Z",
+   "price": "$48.99",
+   "heat": 0
+  },
+  {
+   "id": "7e0b43732c06",
+   "title": "The Best Phones for 2026",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NQWtfTFNUa2NnVTRKNF9sWXVrNTY1V29mUzF4MVp3ckVxWGhMR21sbWlUeWJMN3hpWUtqRjh3SW45SHBhOTJxZ0pULTFKS2ZUMVBGUUM3VGo1cjEtY204Y2tVMmhKMHM?oc=5",
+   "source": "PCMag Australia",
+   "region": "AU",
+   "cat": "phones",
+   "date": "2026-11-20T01:00:18Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "95ffc3962a25",
+   "title": "iPhone Air 256GB Sky Blue/ Space Black $1139.99 Delivered @ Costco (Membership Required)",
+   "link": "https://www.ozbargain.com.au/node/984393",
+   "source": "OzBargain",
+   "region": "AU",
+   "cat": "phones",
+   "date": "2026-11-20T00:39:30Z",
+   "price": "$1139.99",
+   "heat": 0
+  },
   {
    "id": "ab808e0a3b38",
    "title": "Samsung Galaxy S26 Ultra 1TB - O2 600GB data 24 mo - Total £1226 or £1076 with trade-in of any smartphone. £50 TCB",
@@ -45,6 +452,17 @@
    "cat": "phones",
    "date": "2026-11-19T23:56:13Z",
    "price": "$200",
+   "heat": 0
+  },
+  {
+   "id": "380fc220797b",
+   "title": "Upgrade your phone with these 25 Black Friday deals — save up to AU$1,100 off iPhones, Samsung Galaxy, Google Pixel and more",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzVFNydHE2LWRFZHQ4dzFNU3h6VW5mT3VCbnhhbnM2RFA2WXdoNDZ0c1RzamlSWmsyeF9iSEZnZWNIMWszcnlNZXhaUDg5YTR3Yk5PaTNUR2FhM2NNNWJiMUFfd1QzVXh2TmM5THZZQ3hnWGpVVUdj?oc=5",
+   "source": "TechRadar",
+   "region": "CA",
+   "cat": "phones",
+   "date": "2026-11-19T23:36:55Z",
+   "price": "$1,100",
    "heat": 0
   },
   {
@@ -90,6 +508,17 @@
    "date": "2026-11-19T22:30:48Z",
    "price": "",
    "heat": 118
+  },
+  {
+   "id": "6462c7bd942e",
+   "title": "T-Mobile Is Offering $1,200 Off Discount on the Apple iPhone Duo Foldable Smartphone for Black Friday",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NbTY2UWZUcHl5b2RqMlJFUURBemJBU0VRWVRsN3dkTkcxNXg5YmU4alQ2bU5GbC1zRFdnM094UzNaYXd3YVZYSHI5RjBjV2t3czhZWnROS1hRd2Z1NmVFSG9YWk80SVZHZUlIclQtblV0bnlraDFIQVJJSEhWZw?oc=5",
+   "source": "IGN",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-19T21:20:00Z",
+   "price": "$1,200",
+   "heat": 0
   },
   {
    "id": "d46cc415fff3",
@@ -144,6 +573,17 @@
    "cat": "wearables",
    "date": "2026-11-19T20:15:40Z",
    "price": "$429",
+   "heat": 0
+  },
+  {
+   "id": "bfb472e8a5f6",
+   "title": "Amazon’s Black Friday Samsung Deals: Galaxy Phones, Tablets, Monitors and TVs",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xYTI3WHBzanI4OUl5RVdGTlhRQXVVNktFckp0OFRYeWR6YnNnd2hEcXBFcDlqOXk1ZElRUnRmU21LbDRSck1kSU1LdS1XS0txcXI3X0UzSERVcUtMYmpGNTJRTE9oRmc?oc=5",
+   "source": "SammyGuru",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-19T19:52:27Z",
+   "price": "",
    "heat": 0
   },
   {
@@ -367,6 +807,17 @@
    "heat": 0
   },
   {
+   "id": "834b35d02f6c",
+   "title": "Early Black Friday Apple iPhone Deals Are Calling, Pick Up Some Serious Savings Now",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMzF3ZUxfN2NuS3lUMnpKcmNMNjFVbFFXTTNZMUFEYzhDZ2dGb09LSl9IblRQT2l1dmpiWDZydC1lSkNiRkZPUUxYby1IMUFEVERUak9YazZvOUpNMzU1cG5ZLUU2UzFCak5Wd2xuSTRXcEpJREFXT3plV2JhWVk5ajllX0ZXTjJ2YWJiUFpfQl9vMmp1T0NkbG1MeGhFcnhmWXFPNm5GY21PLUs3YW0wYzlSazBTak9zcDZtQUZ1RmFZZw?oc=5",
+   "source": "PCMag UK",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-19T14:19:30Z",
+   "price": "",
+   "heat": 0
+  },
+  {
    "id": "2fe97a64d575",
    "title": "Anker 2026 Black Friday sale kicks off with up to 46% off all-new Nano chargers, Qi2.2 stands, power banks, and more from just $16",
    "link": "https://9to5toys.com/2026/11/19/anker-2026-black-friday-up-to-50-off/",
@@ -518,6 +969,17 @@
    "cat": "plans",
    "date": "2026-11-19T11:33:09Z",
    "price": "$0",
+   "heat": 0
+  },
+  {
+   "id": "ce7948a51814",
+   "title": "The best cheap cell phone plans 2026",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tZU1GSldFLTFOaDdIYkZ2X05aazBhT01iUkRIWVpPTDh1aDUtNHdUdEIzYVBwRndfRnhSdlpjYzJjTFVseUZRMHNoRFJ6bTNYOERrNll2NlpDQWtpa21xMnhqZmZVdFBBTWVJeWsyeVl0R1FJODhBUjYtMEV2UQ?oc=5",
+   "source": "Tom's Guide",
+   "region": "US",
+   "cat": "plans",
+   "date": "2026-11-19T11:22:29Z",
+   "price": "",
    "heat": 0
   },
   {
@@ -1137,6 +1599,17 @@
    "heat": 0
   },
   {
+   "id": "8c93cefdbc7b",
+   "title": "Early Black Friday Phone Deals Are Live. Save on iPhone 18, Samsung Galaxy 26, Pixel 11 and More",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XMjdDdDd0OFZtdmZQdG9iSDlydHZ4Uy1ZX0d2UXpwV3Y0ODFZMWc1NktEbDA3bU5WQi1LV3FfQUs4M2NnVEpMY1RveXR2eFhLbTZwbWVQLUNtZjJyb3hIbWNLSVVFbWZ0MHdUUmR0SVpubU9uaFQw?oc=5",
+   "source": "CNET",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-18T13:09:00Z",
+   "price": "",
+   "heat": 0
+  },
+  {
    "id": "ce6335bccd09",
    "title": "Official Apple iPhone 18 Pro/Max cases hit early Black Friday all-time lows from $29",
    "link": "https://9to5toys.com/2026/11/18/official-apple-iphone-18-pro-max-cases-black-friday-deals/",
@@ -1269,6 +1742,17 @@
    "heat": 0
   },
   {
+   "id": "d048e7195ac8",
+   "title": "Best iPhone Deals Right Now: Every Model and Carrier Deal Compared",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZSVRUZmthTXNEQnVqTzdoaTlyNE02MEdvM0FEWnRQaHhDR2FrdDhXaS1PWlpKSEFDTzV1UDRtRmpjMGdmLXoyOF9uU3hoZm1VSW5YYkxva1o?oc=5",
+   "source": "CNET",
+   "region": "UK",
+   "cat": "phones",
+   "date": "2026-11-18T09:03:00Z",
+   "price": "",
+   "heat": 0
+  },
+  {
    "id": "seed-oz-983577",
    "title": "iPhone Air 256GB $58.25/month + 130GB $39/month plan for 12 months @ Vodafone",
    "link": "https://www.ozbargain.com.au/node/983577",
@@ -1321,6 +1805,28 @@
    "cat": "plans",
    "date": "2026-11-18T08:00:00Z",
    "price": "$225",
+   "heat": 0
+  },
+  {
+   "id": "aaa73592c528",
+   "title": "The Best Android Phones We've Tested for 2026",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1VTE5R1pzMFJOT0E2Q3d3UDVvZ1FFVHdXcXJoSEhjcUxZYmZTanVSekx0RmVsNFlRWDZRU0IwN09SZl84akRSQmM4VDNrQkhZREZQcXRKZW5YQW9SNHVaTw?oc=5",
+   "source": "PCMag",
+   "region": "UK",
+   "cat": "phones",
+   "date": "2026-11-18T08:00:00Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "8398a267d3ae",
+   "title": "Add Any 365/184/28-Day Mobile Plan to an Existing Mobile or Data Plan for 50% off (Excludes 7-Day & As-You-Go Plans) @ amaysim",
+   "link": "https://www.ozbargain.com.au/node/983960",
+   "source": "OzBargain",
+   "region": "AU",
+   "cat": "plans",
+   "date": "2026-11-18T07:04:47Z",
+   "price": "",
    "heat": 0
   },
   {
@@ -1507,6 +2013,17 @@
    "region": "US",
    "cat": "phones",
    "date": "2026-11-17T19:50:00Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "42e27330b1f9",
+   "title": "Here’s How to Put a Top-Rated Google Pixel Watch on Your Wrist for Less",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11RnRHRmYtMHBBLWp5MTJPNFBPcFNBOUtnZDRzMlN3aTFKOXlXRHpMSXpvdnFFYVFITHU2cU9HNVM1bDlqUmhCb3JlOVdrS05Pc3BBZDdDUkM?oc=5",
+   "source": "CNET",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-17T19:29:00Z",
    "price": "",
    "heat": 0
   },
@@ -2135,336 +2652,6 @@
    "cat": "accessories",
    "date": "2026-11-13T16:40:07Z",
    "price": "$17,",
-   "heat": 0
-  },
-  {
-   "id": "69962b9b96a8",
-   "title": "Optus 350GB 365 Day Prepaid SIM $225 (Was $395) + $80 ShopBack Cashback @ Optus",
-   "link": "https://www.ozbargain.com.au/node/982923",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "plans",
-   "date": "2026-11-13T01:54:26Z",
-   "price": "$225",
-   "heat": 0
-  },
-  {
-   "id": "943c10f2b383",
-   "title": "Mint Mobile Black Friday Premium Wireless Deal for $15/mo. for up to 1 year",
-   "link": "https://www.dealnews.com/Mint-Mobile-Black-Friday-Premium-Wireless-Deal-for-15-mo-for-up-to-1-year/22384180.html?iref=rss-c142",
-   "source": "dealnews",
-   "region": "US",
-   "cat": "plans",
-   "date": "2026-11-12T11:07:12Z",
-   "price": "$15",
-   "heat": 0
-  },
-  {
-   "id": "ffd08fc2d658",
-   "title": "$20 Cashback on OnePass Mobile 365 Days 5G Plans: $225 350GB (Now $159) & $275 550GB (Now $189) @ TopCashback AU",
-   "link": "https://www.ozbargain.com.au/node/982774",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "plans",
-   "date": "2026-11-12T06:34:42Z",
-   "price": "$20",
-   "heat": 0
-  },
-  {
-   "id": "6e56669d3669",
-   "title": "Kogan Mobile 365 Days Prepaid SIMs: 240GB $149, 400GB $159 @ Kogan Mobile",
-   "link": "https://www.ozbargain.com.au/node/982740",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "plans",
-   "date": "2026-11-12T02:42:16Z",
-   "price": "$149,",
-   "heat": 0
-  },
-  {
-   "id": "4ae1976575dd",
-   "title": "Vodafone: 30% Cashback on $250 12-Month Prepaid Plus SIM for $169 @ TopCashback AU",
-   "link": "https://www.ozbargain.com.au/node/982701",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "plans",
-   "date": "2026-11-12T00:38:22Z",
-   "price": "$250",
-   "heat": 0
-  },
-  {
-   "id": "1fbd444bfd80",
-   "title": "Google Pixel 11 $999, 11 Pro $1349, 11 Pro Fold $1799, Pixel Watch 5 $549, Buds Pro 2 $279 Delivered @ Google Store",
-   "link": "https://www.ozbargain.com.au/node/982677",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "accessories",
-   "date": "2026-11-11T23:20:59Z",
-   "price": "$999,",
-   "heat": 0
-  },
-  {
-   "id": "d0cf2048bd3f",
-   "title": "Deals: Google Pixel Tag, Pixel Watch 5 $100 off, Googlebook from $680, Lenovo Yoga Mini $460 off, more",
-   "link": "https://9to5google.com/2026/11/11/deals-pixel-tag-pixel-watch-5-googlebook-yoga-mini/",
-   "source": "9to5Google Deals",
-   "region": "US",
-   "cat": "wearables",
-   "date": "2026-11-11T16:43:11Z",
-   "price": "$100",
-   "heat": 0
-  },
-  {
-   "id": "954563a3dd39",
-   "title": "Nothing Phone (3) (6.7\", 12GB/256GB Snapdragon 8S Gen4) US$432.65 (~A$632.34) w/ PayPal Delivered @ Nothing Online AliExpress",
-   "link": "https://www.ozbargain.com.au/node/982619",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "phones",
-   "date": "2026-11-11T09:55:26Z",
-   "price": "US$432.65",
-   "heat": 0
-  },
-  {
-   "id": "54c64bc03ab7",
-   "title": "Ultra Mobile Ultra-Early Access Savings for 50% off plans, from $6.50/mo.",
-   "link": "https://www.dealnews.com/Ultra-Mobile-Ultra-Early-Access-Savings-for-50-off-plans-from-6-50-mo/22379900.html?iref=rss-c142",
-   "source": "dealnews",
-   "region": "US",
-   "cat": "plans",
-   "date": "2026-11-11T09:19:49Z",
-   "price": "$6.50",
-   "heat": 0
-  },
-  {
-   "id": "b5cc363c526d",
-   "title": "OnePass Mobile 365 Days 5G Prepaid SIMs - 350GB $159, 550GB $189 Delivered (Free OnePass Included) @ OnePass Mobile",
-   "link": "https://www.ozbargain.com.au/node/982587",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "plans",
-   "date": "2026-11-11T06:50:03Z",
-   "price": "$159,",
-   "heat": 0
-  },
-  {
-   "id": "647ef77dfdb3",
-   "title": "Apple iPhone 17 Pro Max 256GB Deep Blue $1,789.99 Delivered @ Costco (Membership Required) / Price Beat $1700.49 @ Officeworks",
-   "link": "https://www.ozbargain.com.au/node/982584",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "phones",
-   "date": "2026-11-11T06:20:39Z",
-   "price": "$1,789.99",
-   "heat": 0
-  },
-  {
-   "id": "932a98d96c25",
-   "title": "Deals: Amazon early Black Friday sale, Dell Googlebook, Google Home Speaker, Galaxy Tab S12 Ultra up to $330 off, more",
-   "link": "https://9to5google.com/2026/11/10/deals-amazon-early-black-friday-googlebook-tab-s12/",
-   "source": "9to5Google Deals",
-   "region": "US",
-   "cat": "wearables",
-   "date": "2026-11-10T16:47:19Z",
-   "price": "$330",
-   "heat": 0
-  },
-  {
-   "id": "0dc99c59bb8f",
-   "title": "Mint Mobile 5G Home MINTernet & Unlimited Premium Wireless 12-Month Bundle for $45/mo + free expedited shipping",
-   "link": "https://www.dealnews.com/Mint-Mobile-5-G-Home-MINTernet-Unlimited-Premium-Wireless-12-Month-Bundle-for-45-mo-free-expedited-shipping/22375766.html?iref=rss-c142",
-   "source": "dealnews",
-   "region": "US",
-   "cat": "plans",
-   "date": "2026-11-10T13:46:09Z",
-   "price": "$45",
-   "heat": 0
-  },
-  {
-   "id": "8b69ff818836",
-   "title": "11% off Sitewide (e.g. Motorola Edge 70 8GB RAM/256GB Storage $531.33) @ Mobileciti",
-   "link": "https://www.ozbargain.com.au/node/982431",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "phones",
-   "date": "2026-11-10T08:48:33Z",
-   "price": "$531.33",
-   "heat": 0
-  },
-  {
-   "id": "e8397e105885",
-   "title": "Deals: Z Fold 8 $300 off + FREE Galaxy Buds On, Google Fitbit Edge from $126, LG B6 OLED $1,000 off, more",
-   "link": "https://9to5google.com/2026/11/09/deals-z-fold-8-with-free-galaxy-buds-google-fitbit-edge/",
-   "source": "9to5Google Deals",
-   "region": "US",
-   "cat": "accessories",
-   "date": "2026-11-09T16:42:57Z",
-   "price": "$300",
-   "heat": 0
-  },
-  {
-   "id": "8d9bffb9cc39",
-   "title": "Samsung Galaxy Z Fold8 256GB $1649, 512GB $1849 Delivered / Mobile Trade-in Available @ PhoneX",
-   "link": "https://www.ozbargain.com.au/node/982272",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "phones",
-   "date": "2026-11-09T07:58:29Z",
-   "price": "$1649,",
-   "heat": 0
-  },
-  {
-   "id": "a02581a3f3b1",
-   "title": "Google Pixel 11 Pro 256GB $1749 with Bonus Nintendo Switch 2 & $174.90 Gift Card + Delivery ($0 C&C/ in-Store) @ Harvey Norman",
-   "link": "https://www.ozbargain.com.au/node/982031",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "phones",
-   "date": "2026-11-07T05:07:11Z",
-   "price": "$1749",
-   "heat": 0
-  },
-  {
-   "id": "a1c40059a0b0",
-   "title": "Deals: Best Buy early Black Friday now live, Galaxy S26 Ultra $450 off, Galaxy SmartTag 3 arrives, more",
-   "link": "https://9to5google.com/2026/11/06/deals-best-buy-early-black-friday-galaxy-s26-smarttag-3/",
-   "source": "9to5Google Deals",
-   "region": "US",
-   "cat": "phones",
-   "date": "2026-11-06T16:48:13Z",
-   "price": "$450",
-   "heat": 0
-  },
-  {
-   "id": "79043fe2953e",
-   "title": "Google Pixel 10a 128GB + Pixel Buds 2a $649 Delivered (New Customer Must Add Plan from $30/28-Day) @ amaysim",
-   "link": "https://www.ozbargain.com.au/node/981897",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "plans",
-   "date": "2026-11-06T02:13:15Z",
-   "price": "$649",
-   "heat": 0
-  },
-  {
-   "id": "d5c7d3f66064",
-   "title": "Ultra Mobile by T-Mobile 4GB Plan for $6.50 per month + free shipping",
-   "link": "https://www.dealnews.com/Ultra-Mobile-by-T-Mobile-4-GB-Plan-for-6-50-per-month-free-shipping/22350724.html?iref=rss-c142",
-   "source": "dealnews",
-   "region": "US",
-   "cat": "plans",
-   "date": "2026-11-05T10:24:02Z",
-   "price": "$6.50",
-   "heat": 0
-  },
-  {
-   "id": "e5aa38e77079",
-   "title": "Deals: Pixel Watch 5 up to $200 off, Galaxy Z Fold 8 $300 off + $200 store credit, Moto Tag 2, Anker, more",
-   "link": "https://9to5google.com/2026/11/04/deals-pixel-watch-5-galaxy-z-fold-8-moto-tag-2-anker/",
-   "source": "9to5Google Deals",
-   "region": "US",
-   "cat": "wearables",
-   "date": "2026-11-04T16:43:56Z",
-   "price": "$200",
-   "heat": 0
-  },
-  {
-   "id": "20d12f0d41d6",
-   "title": "Mint Mobile Premium Wireless for $15/mo. for up to 1 year + free shipping",
-   "link": "https://www.dealnews.com/Mint-Mobile-Premium-Wireless-for-15-mo-for-up-to-1-year-free-shipping/22346298.html?iref=rss-c142",
-   "source": "dealnews",
-   "region": "US",
-   "cat": "plans",
-   "date": "2026-11-04T11:18:58Z",
-   "price": "$15",
-   "heat": 0
-  },
-  {
-   "id": "bc66adfab06c",
-   "title": "Free Lifetime Travel eSIM (Unlimited Access to Google Maps, WhatsApp, Uber and Grab) + 100MB Data 4 Times a Year @ Jetpac",
-   "link": "https://www.ozbargain.com.au/node/981530",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "plans",
-   "date": "2026-11-03T20:18:02Z",
-   "price": "",
-   "heat": 0
-  },
-  {
-   "id": "7efb1137c693",
-   "title": "Deals: Pixel 11 up to $580 off, Google Home Speaker all-time low, Dell XPS 13 $200 off, new Fire TV Stick 58% off, more",
-   "link": "https://9to5google.com/2026/11/03/deals-pixel-11-580-off-google-home-speaker-dell-xps-13/",
-   "source": "9to5Google Deals",
-   "region": "US",
-   "cat": "phones",
-   "date": "2026-11-03T16:49:55Z",
-   "price": "$580",
-   "heat": 0
-  },
-  {
-   "id": "1314830214f2",
-   "title": "Motorola Signature 256GB $899, Pixel 11 $999, Pro XL $1399 on $74/M Plan ($39 for 4M), $400 Store Credit with Trade-in @ Telstra",
-   "link": "https://www.ozbargain.com.au/node/981463",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "plans",
-   "date": "2026-11-03T06:46:39Z",
-   "price": "$899,",
-   "heat": 0
-  },
-  {
-   "id": "5c92415c636a",
-   "title": "iPhone Air 256GB $74.91/Month + 100GB/Month $39/Month Plan for 12 Months ($1,366.92 over 12 Months) Delivered @ Vodafone",
-   "link": "https://www.ozbargain.com.au/node/981426",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "plans",
-   "date": "2026-11-03T02:19:36Z",
-   "price": "$74.91",
-   "heat": 0
-  },
-  {
-   "id": "facc6361c4f9",
-   "title": "Google Pixel 10 from $499, Motorola Edge 70 256GB $449 (with $99 184-Day 150GB Plan) @ amaysim",
-   "link": "https://www.ozbargain.com.au/node/981374",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "plans",
-   "date": "2026-11-02T19:10:23Z",
-   "price": "$499,",
-   "heat": 0
-  },
-  {
-   "id": "9314aaa8fb3a",
-   "title": "Pixel 10 Pro Series from $599, Pixel 9 Pro Fold from $1149 (with $350 Plan); Samsung Watch7/8 from $249 with $13 SIM @ amaysim",
-   "link": "https://www.ozbargain.com.au/node/981275",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "plans",
-   "date": "2026-11-02T01:35:17Z",
-   "price": "$599,",
-   "heat": 0
-  },
-  {
-   "id": "46673dbe86bc",
-   "title": "40% off Asia eSIM (e.g. 300GB 30D $27, Japan Unlimited 7D $21, Bali, China) | 30% off Sitewide (Europe, USA, Global) @ Travelkon",
-   "link": "https://www.ozbargain.com.au/node/981246",
-   "source": "OzBargain",
-   "region": "AU",
-   "cat": "plans",
-   "date": "2026-11-01T23:02:17Z",
-   "price": "$27,",
-   "heat": 0
-  },
-  {
-   "id": "2ed04d847c98",
-   "title": "Deals: Week 1 early Black Friday Doorbusters, Pixel 11 series up to $350 off, Pixel Watch 5 $100 off, more (All-time lows)",
-   "link": "https://9to5google.com/2026/10/30/deals-black-friday-doorbusters-pixel-11-pixel-watch-5/",
-   "source": "9to5Google Deals",
-   "region": "US",
-   "cat": "wearables",
-   "date": "2026-10-30T15:27:39Z",
-   "price": "$350",
    "heat": 0
   }
  ]
