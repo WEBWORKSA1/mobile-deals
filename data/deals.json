@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:53:09Z",
- "runs": 4,
+ "updated": "2026-11-20T00:41:21Z",
+ "runs": 5,
  "sources_ok": [
   "9to5Google Deals",
   "9to5Toys",
@@ -14,6 +14,270 @@
   "mydealz"
  ],
  "items": [
+  {
+   "id": "ab808e0a3b38",
+   "title": "Samsung Galaxy S26 Ultra 1TB - O2 600GB data 24 mo - Total £1226 or £1076 with trade-in of any smartphone. £50 TCB",
+   "link": "https://www.hotukdeals.com/deals/samsung-galaxy-s26-ultra-1tb-o2-600gb-data-24-mo-total-ps1226-or-ps1076-with-trade-in-of-any-smartphone-ps50-tcb-5039842",
+   "source": "HotUKDeals",
+   "region": "UK",
+   "cat": "phones",
+   "date": "2026-11-20T00:24:29Z",
+   "price": "£1226",
+   "heat": 0
+  },
+  {
+   "id": "c6e331d32b88",
+   "title": "Samsung Galaxy A17 5G Falls Under $200 in Walmart's Black Friday Sale",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPekRabkZyZmZRYkUtOVpLZnRrTk1ZWHJxLUt5ZGxJQzdYMTRDcEpXMHl2Q3ZoNngtT0NndkpmUHladjJyTDF1Vk85Z1NfS1IzRnBJVDZiSnBjV09fNkhWV2wyMHhndmZieXdPbURqSlRRRTNybi1GUTZWclh3RVNmb1ZzX3N1MmgyQmhXUkJSWnVjbnVHWDlWZHhzR0dJSF9HcTlob2FqNC1ma1g5NWtIYkY4Yjh6LWM?oc=5",
+   "source": "Tech Advisor",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-20T00:20:47Z",
+   "price": "$200",
+   "heat": 0
+  },
+  {
+   "id": "0544d504a695",
+   "title": "256GB Motorola Moto G Stylus 5G Unlocked Smartphone (2025) $200 + Free S&H",
+   "link": "https://slickdeals.net/f/20341674-199-99-best-buy-motorola-moto-g-stylus-2025-256gb-unlocked-pantone-gibraltar-sea-or-leaf-green?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "source": "Slickdeals",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-19T23:56:13Z",
+   "price": "$200",
+   "heat": 0
+  },
+  {
+   "id": "ff9604959f1f",
+   "title": "EDEKA Smart Jahrespaket Premium- Prepaid - Jahrestarif – mit mehr Datenvol. 360 GB - Mit 25 € Cashback über Topcashback effektiv 5,83/Monat",
+   "link": "https://www.mydealz.de/deals/edeka-smart-jahrespaket-premium-prepaid-jahrestarif-mit-mehr-datenvol-360-gb-25-euro-uber-topcashback-moglich-effektiv-583monat-2876519",
+   "source": "mydealz",
+   "region": "EU",
+   "cat": "plans",
+   "date": "2026-11-19T23:29:00Z",
+   "price": "25 €",
+   "heat": 142
+  },
+  {
+   "id": "7068c21ca675",
+   "title": "Switch Ethernet Ugreen 6 ports - 5x 2.5G RJ45 + 1x SFP+ 10G (Vendeur tiers)",
+   "link": "https://www.dealabs.com/bons-plans/switch-ethernet-ugreen-6-ports-5x-25g-rj45-1x-sfp-10g-vendeur-tiers-3461333",
+   "source": "Dealabs",
+   "region": "EU",
+   "cat": "phones",
+   "date": "2026-11-19T22:59:23Z",
+   "price": "",
+   "heat": 134
+  },
+  {
+   "id": "45fe97a89b56",
+   "title": "Montre connectée Apple Watch Ultra 3 49mm Titanium (Bracelet En Silicone Bleu)",
+   "link": "https://www.dealabs.com/bons-plans/apple-watch-ultra-3-49mm-titanium-bracelet-en-silicone-bleu-3462305",
+   "source": "Dealabs",
+   "region": "EU",
+   "cat": "wearables",
+   "date": "2026-11-19T22:33:30Z",
+   "price": "",
+   "heat": 132
+  },
+  {
+   "id": "38e697761a10",
+   "title": "Chargeur USB C Ugreen Zapix 45W PSS Rapide iPhone GaN Prise Secteur (Frontaliers Belgique - vendeur tiers)",
+   "link": "https://www.dealabs.com/bons-plans/ugreen-zapix-chargeur-usb-c-45w-pss-rapide-iphone-gan-prise-secteur-3460959",
+   "source": "Dealabs",
+   "region": "EU",
+   "cat": "accessories",
+   "date": "2026-11-19T22:30:48Z",
+   "price": "",
+   "heat": 118
+  },
+  {
+   "id": "d46cc415fff3",
+   "title": "Google-Tied Prepaid Bond Deals Delayed Due to Lackluster Demand",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNHY0akhHeDNQS19EVDRCTXlYVWluQkhKTWlCbWk4NkdXR0dxdmQ3TC03ajhVRDJWdTExNV9fYjZJLV9pa0tEcEpBNjBYTXJScEVOT2xJYzRadDNTVE5jS2xSNjNwZkJ3SmxGSTJNdVFkdWVsVDA1aWpwN0VDV2ZFMGNSZHhaR2tUUVFvZ3FDaHNhYndfREpZVVhrci1IZmhzWDZ1dUwyanRBRTZkNmZFRTRzTWY?oc=5",
+   "source": "Bloomberg.com",
+   "region": "US",
+   "cat": "plans",
+   "date": "2026-11-19T21:15:31Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "2751bb9a546f",
+   "title": "Amazon US Black Friday deal: the Galaxy S26 Ultra and Z Fold8 Ultra are both $350 off - GSMArena.com news",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEJUbmZOMmtHTkpuOEpwUGZieTFEdE5UemNTNUJ0NHh0X0M4UnlOcW5wNGRieXV1UUt0djZ3cDVzWnRhQTBIeDlNLThaQWZ3N3NyOWZwZlBTM2hwU1BGaHhPTDFmN2pWRnN6SVhkRjh5OUV6WWRzWDVCRWF6VGMxaEpoMV9JU0M1V0trR2M3WmtmUzYzQmVGRnFwbkJoRUw5MUI4VjR2SFItUU5QR0hSMkMwX1MzUTlPV1pBY2pJelHSAbwBQVVfeXFMTlRfSjV2aDBmM0hFSmhHTm9ZcENQOVNhZXlPQU1TWmdIWkJ0bnhuR1diUk5YUFJYekQ1T2FidnZoZDNfdGpoY2JqUjI4SE5USGdYZExRdFE2Q0FPWktsUWx1dmZoMlJFdjY0cjE4UDA3cGdCRnJlQ2VnQTREaGRVdXc1TDR1czhmeHR4TUNnSGFYOFdxcVFmelR1MlBUZGpadktBWHpmRzBUYVNXUkNIQzctR3lCOE9adDVuTlY?oc=5",
+   "source": "GSMArena.com",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-19T20:43:02Z",
+   "price": "$350",
+   "heat": 0
+  },
+  {
+   "id": "331068fb06fb",
+   "title": "Refurb Unlocked Apple iPhone 15 Pro Max 256GB Smartphone for $537 + free shipping",
+   "link": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-15-Pro-Max-256-GB-Smartphone/482160.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-19T20:26:58Z",
+   "price": "$537",
+   "heat": 0
+  },
+  {
+   "id": "8c6bae96e48b",
+   "title": "Apple Watch SE 3 GPS + Cellular 40mm Smartwatch for $249 + free shipping",
+   "link": "https://www.dealnews.com/products/Apple/Apple-Watch-SE-3-GPS-Cellular-40-mm-Smartwatch/560804.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-19T20:20:48Z",
+   "price": "$249",
+   "heat": 0
+  },
+  {
+   "id": "5062e70bd37d",
+   "title": "Apple Watch Series 12 GPS + Cellular 42mm Smartwatch for $429 + free shipping",
+   "link": "https://www.dealnews.com/products/Apple/Apple-Watch-Series-12-GPS-Cellular-42-mm-Smartwatch/560796.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-19T20:15:40Z",
+   "price": "$429",
+   "heat": 0
+  },
+  {
+   "id": "98dd8226061a",
+   "title": "Apple Watch Series 12 GPS 42mm Smartwatch for $329 + free shipping",
+   "link": "https://www.dealnews.com/products/Apple/Apple-Watch-Series-12-GPS-42-mm-Smartwatch/560784.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-19T19:51:19Z",
+   "price": "$329",
+   "heat": 0
+  },
+  {
+   "id": "a2de3ed32bb6",
+   "title": "At $600, the Pixel 10 is this year’s no-brainer Black Friday smartphone deal",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVZXajZjYVZ3QVFEU1YtRUpGQU5GVTdoVWVKVk5RSmRPY0FqMHQxYkt2UVh3UXdIaHNscXJDZVhYSTQ0VEJpZFhKSkhiaWNSMXZYWUZFNnpfams0am5Xcm04eTJ1QnFvTER3S1RYX3RBaVpNa2ZXS1RKaTVfX1J0bHJTeXduNXFrMFVITlJTcVNEZ1lad0ZmUHVZLW0yYzY1SlJ5OWp2dUJzSEhS?oc=5",
+   "source": "9to5Google",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-19T19:18:00Z",
+   "price": "$600,",
+   "heat": 0
+  },
+  {
+   "id": "7165e233533b",
+   "title": "Looking For A New iPhone 17 This Holiday? Get It From Total Wireless And Pay NOTHING For Two Years!",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUl4cF92MENYajZaLTFGUlg5VjJUNGdmdlFJeUJDcGhUX095MUNBbmhWS2V0dm9DdHYxOG12SVloeVFDMjhNd0N2TjQ2VlVyM19LU09fdk04LVVjRVBxeW11OTRMT1dldFRnQVp6Wk84a1dvQS1HVS1KakUwcDloRDBWdElJbWN4QW85NGtzSlBDMUREOW4zYXhIQWdlMVM4VWdsNTVEQ1ZNSmVBQnp6SkRHeF9fbWt3QldPQlJRS1FTcFNaOGc2SVVuVmM?oc=5",
+   "source": "BroBible",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-19T19:00:31Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "0a1cd4bb5817",
+   "title": "I Sort of Think This Pixel Watch 5 Deal is Incredible",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2NwR0pEcG9YdzJfMG9xWEwyYlZGTXp2SVkxeUJwQm9aRElMbUpPNXE4NXRJYW1LbHJUUWxJX0NvaDIxZjd2eHNpQ0xiT25yMmtIcF9WLUZ2VjVvdTRQY3QxS3RsWXkwQkNqMnhFNk1ma19hRl9GTGRsZ0VxNk5hQnV3?oc=5",
+   "source": "Droid Life",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-19T18:59:16Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "39bd34d30cc7",
+   "title": "Save a total of $600 with Samsung's top Galaxy S26 Ultra Black Friday deal while you can!",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUzZNU2U1OWkyZi1vU1lJUE9hcHQtZnNESFk4Zmw3YWoyd1M2Mk9BOHV5T2VuYkY0enRJaGpXT2M2dk1LcVV6RDljcm9yaUlaNUJFdUJZTnJaR196UWJyOFBRbXNtRy1wLVpZWnFkU25QUVpfZzZIZ0ZwaGxpVzVsYTRDTVpuSGF6UjFsX09jTm1tLWd3WTNaNDRFMi01TVBSbXJNbEdVbHNHc3NuSThmWE50VE5fd2M?oc=5",
+   "source": "PhoneArena",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-19T18:23:48Z",
+   "price": "$600",
+   "heat": 0
+  },
+  {
+   "id": "665bcb95d9b5",
+   "title": "Galaxy S26 FE swipes a sweet 25% early Black Friday deal—don't miss it",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnFmM0JYT0FfY04yQUNGS0JvUVNHc0xUSi1tSFZMSzZuNWx1X1FTNmo2QlFBR0lmVERWakxaTnFvX2pqUWZjdjJBZkZ3LTNnak9oUmw1UWJYZ1JmMVlYZ29abDFqdXMxX0pGY3l4cTB0WlVnNkhTSjFLN3NoaFZsZnhYblh4UXRBZ0ZIMUtaMHowZWVPakJwZXlLNktzaGpBeGsxeVB5QVR1VHRzU0NqdjhXdw?oc=5",
+   "source": "Android Central",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-19T17:40:12Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "9f552efc5157",
+   "title": "I’m sharing my favorite iPhone Black Friday deals — free iPhone 18 Pro Max, iPhone Duo $1,200 off and more",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOenV5S2d4bl8ydWJiZ3FHbktEOHBKRmozQU1pd2VXblA2aklkUFhVSlhqTzZPMzhoaXFMbldGZEttLWNRNW1yNld1dzdHTE03V2haLWxQUzJ1NTB0cldKYTNucTdKQldYNWgxUHhrX0JKRVJRcUE5bWRGb3BfbFVuVXJlekc0QktWb2lXRFZXVFNDTjY4NHhaU2lfMHlQY0VTZy1sNE1ER0FsV0xOS1lENDFtaXd5WlRVZ0xMNThtckVtSlJyVVBNWlZDYldQYjZCRG9fUm4zcXpMZDYxSkE?oc=5",
+   "source": "Tom's Guide",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-19T17:30:04Z",
+   "price": "$1,200",
+   "heat": 0
+  },
+  {
+   "id": "c61c0100b071",
+   "title": "Save Up to 40% Off ESR's iPhone Case and Screen Protectors With These Black Friday Deals",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTG53QjYweVE1T05ybndYMzUyenJEUmJRMWUzcm1KbDI0eFhQelg2ZGJ0Nm1nRjFaVEtySWJDbG5Id3FXR3cxaERvT3htaWVkb0NTcFpMamdvWEF1WXdBOW8xVWdEbzF1RFp5SGpLU2hiaWpjQTE0OG42eERHZ0dEb01KalJ4SEFLNnpF?oc=5",
+   "source": "CNET",
+   "region": "US",
+   "cat": "accessories",
+   "date": "2026-11-19T17:27:03Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "7ae3a0077c3f",
+   "title": "Move Speed 35W 20,000mAh Portable Charger Power Bank w/ Built-In USB-C Cable for $25 + free shipping w/ Prime",
+   "link": "https://www.dealnews.com/Move-Speed-35-W-20-000-m-Ah-Portable-Charger-Power-Bank-w-Built-In-USB-C-Cable-for-25-free-shipping-w-Prime/22411931.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "accessories",
+   "date": "2026-11-19T17:08:12Z",
+   "price": "$25",
+   "heat": 0
+  },
+  {
+   "id": "380a2742a1b6",
+   "title": "Grade 5 titanium Apple Watch band drops to $53",
+   "link": "https://9to5toys.com/2026/11/19/finestone-grade-5-titanium-watch-strap/",
+   "source": "9to5Toys",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-19T16:52:34Z",
+   "price": "$53",
+   "heat": 0
+  },
+  {
+   "id": "cb5fb146e61b",
+   "title": "Deals – Black Friday Week now live: Pixel 11 $400 off, Watch 5, Android Auto adapter, Sony 1000X headphones up to $100 off, more",
+   "link": "https://9to5google.com/2026/11/19/black-friday-week-pixel-11-watch-5-android-auto-1000x/",
+   "source": "9to5Google Deals",
+   "region": "US",
+   "cat": "accessories",
+   "date": "2026-11-19T16:30:32Z",
+   "price": "$400",
+   "heat": 0
+  },
+  {
+   "id": "cf3c22adcc31",
+   "title": "Samsung Black Friday phone deals 2026",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SRG5PSEM5Smc3NVFaQ21iRDJ4S01XVXdnTEFhVVBqOHpsR0VTMHdNdVlDNlFiazlGQm9tZmcwaUNWeGpmNzVlRVhDZnAxZjZuQnhXOXpJU1hSNjI1ajFqaTZTMDFZNnhKV0s5eV91NjBoQQ?oc=5",
+   "source": "Uswitch",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-19T15:59:22Z",
+   "price": "",
+   "heat": 0
+  },
   {
    "id": "ebd9a633819a",
    "title": "[lokal, am 26.-28.11.] Apple iPhone 18 Pro 256GB black im Marktkauf Ibbenbüren",
@@ -122,6 +386,17 @@
    "cat": "wearables",
    "date": "2026-11-19T13:41:14Z",
    "price": "$270",
+   "heat": 0
+  },
+  {
+   "id": "c24793f68fd2",
+   "title": "iPhone 18 Pro could get a Black Friday price cut – here’s what we know",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLUtTY0NlSklidVdkanRXWXd5X0NrdnQ3YU1SOFZkRGgzQTd6cUlyRnBWRXlxelNzTDk2d29fbWsxdVcwNEtuZnFqOGJ4dWNCMWpybkctVTlMd1NWdGFMMmdIeC11V1dPYXdSLVRTRXJDZVF6eWMxVWZvazcwUldaWENydnRyWGJqSlhWckxtZXBfUzYxRW1GT3NtYm5VR3RNNkpvOTZJc0NPcVha?oc=5",
+   "source": "The Independent",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-19T13:12:00Z",
+   "price": "",
    "heat": 0
   },
   {
@@ -1170,6 +1445,17 @@
    "heat": 0
   },
   {
+   "id": "946b5a440733",
+   "title": "Verizon is giving out free tech with the iPhone 18 Pro, S26 Ultra, and Pixel 11 Pro XL",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSUpMMlQ2NzRUYVBhcnkyVWFhcThPZEZ4UGxFcmRGekE5TWlTY2xscjlLbmRIem1BSEpyZjVDVnV3RGNBckVNT21sWmJvQ015b0xBTEhiNVZoNktjSnpFSDIwS0ZlT3AwaEZTS0Q0WHBaRUJ3OTMyNnBmYjNGTHd3bHJIVEZnd3dzRWlfc093Y3ZCOVBUVlYta2NEbG9ncGNzbVdkN1BQZFA?oc=5",
+   "source": "Business Insider",
+   "region": "IN",
+   "cat": "phones",
+   "date": "2026-11-17T22:01:00Z",
+   "price": "",
+   "heat": 0
+  },
+  {
    "id": "07466fd4e8bb",
    "title": "Samsung Galaxy Tab S10 FE now down to its lowest price in Early Black Friday deal",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOFNjVGJCV1lXTnpFQWQ5RC1KRk5JUUxkOVdvbVZpN1pJWUNmY2RLNUlNQUsxdzY4OUg4NDBBelFaMEp1Mk9OdkM4OEdwTUZlbUlMWTc5TDRuQno1TmdnLWRtVXpicDhnWGVMQmZ5RFRDT2hXd1N0aWVDajQyRkdEZTNlZHJJMHNhSjhTdDljZEZkY1pCaDNtakE5QXdId1BmR240R3FZdy1LZzJxN2hDVQ?oc=5",
@@ -1227,6 +1513,17 @@
   {
    "id": "9802cc750bf5",
    "title": "T-Mobile Black Friday Deal: Free iPhone 18 Pro (No Trade-In)",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mNEdhQlRrX2pxU2VBNnFILUI3QlJuT0VuNUpjVXZfYTBwc05GRkc2U3h0ZXBYOWN2NU12Um56eWc2eVNYOVRVRE8zc0lheEgzVjEtdlc3TFJ5QVpUZnpFOWF6dTVZWWJXTmdqc2ZsZmdmc3dCWGVaRzRKWU05TUU?oc=5",
+   "source": "CableTV.com",
+   "region": "UK",
+   "cat": "phones",
+   "date": "2026-11-17T18:43:00Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "9802cc750bf5",
+   "title": "T-Mobile Is Giving Away Free iPhone 18 Pros for Black Friday — Even If You Don’t Have a Phone to Trade In",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mNEdhQlRrX2pxU2VBNnFILUI3QlJuT0VuNUpjVXZfYTBwc05GRkc2U3h0ZXBYOWN2NU12Um56eWc2eVNYOVRVRE8zc0lheEgzVjEtdlc3TFJ5QVpUZnpFOWF6dTVZWWJXTmdqc2ZsZmdmc3dCWGVaRzRKWU05TUU?oc=5",
    "source": "CableTV.com",
    "region": "UK",
@@ -1497,6 +1794,39 @@
    "cat": "wearables",
    "date": "2026-11-17T08:00:00Z",
    "price": "",
+   "heat": 0
+  },
+  {
+   "id": "3e6ddaa86e09",
+   "title": "Best Black Friday Samsung deals 2026: top sales on Samsung Galaxy phones, tablets and more",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jaHNSTml4NGVhRkJBNFo5Q2ZLdlVEclJ4ZDRCd2lFQzhxM2w5M1ZDRVhmVEJqcFNZdmJkRk1obWlsZjZESGRCSGVhR0dyRXN1ZlRvNWdZb2hUWk5pVkJPZ1czcEFyT3ZqUVdmY2dYeFFaVXZXY2tZ?oc=5",
+   "source": "Which?",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-17T08:00:00Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "11852dfff089",
+   "title": "Best Black Friday Apple deals 2026: top sales on Apple watches, MacBooks, AirPods and more",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05T0FKTVZpd05tYWVTR05jellHSnhuYk52V0lQeFNwVkdxaHNLRnNaZTRPU0toWjZyWi1MaUhEaFRoQ1psX004c1JNOFBKa2ktYmxybEY3aDZCeUJpQjlDUERKRW5XbW9kWVlGZXpVQk00Mktz?oc=5",
+   "source": "Which?",
+   "region": "UK",
+   "cat": "accessories",
+   "date": "2026-11-17T08:00:00Z",
+   "price": "",
+   "heat": 0
+  },
+  {
+   "id": "60b22cfda12e",
+   "title": "Google Parent Plans $3B Prepaid Energy Deals, $5.8B in 2026",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOF9VU01hQkFwRzRlRHpmVno1dmRveVBiRWNsZHJSazVMdHE3amtGdmRlRTU4XzhNWEdqLWw1TUJER3J2SEJpeHcwMTNmNmpNejJqMkZIQWdlRlN5Ym1XR1BPUXRFN3czWjFCd21kNTdrbDJ0MFlPWXplQXZsb2NVZEl6ekZ4MWVBaHNBUw?oc=5",
+   "source": "FourWeekMBA",
+   "region": "IN",
+   "cat": "plans",
+   "date": "2026-11-17T07:48:01Z",
+   "price": "$3",
    "heat": 0
   },
   {
@@ -1819,6 +2149,17 @@
    "heat": 0
   },
   {
+   "id": "943c10f2b383",
+   "title": "Mint Mobile Black Friday Premium Wireless Deal for $15/mo. for up to 1 year",
+   "link": "https://www.dealnews.com/Mint-Mobile-Black-Friday-Premium-Wireless-Deal-for-15-mo-for-up-to-1-year/22384180.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "plans",
+   "date": "2026-11-12T11:07:12Z",
+   "price": "$15",
+   "heat": 0
+  },
+  {
    "id": "ffd08fc2d658",
    "title": "$20 Cashback on OnePass Mobile 365 Days 5G Plans: $225 350GB (Now $159) & $275 550GB (Now $189) @ TopCashback AU",
    "link": "https://www.ozbargain.com.au/node/982774",
@@ -2124,17 +2465,6 @@
    "cat": "wearables",
    "date": "2026-10-30T15:27:39Z",
    "price": "$350",
-   "heat": 0
-  },
-  {
-   "id": "2ddb1339dbcb",
-   "title": "Deals: Galaxy S26 Ultra $473 off brand new, Nothing Ear (3a) $79, Lenovo’s new Android tablets $316 off, more",
-   "link": "https://9to5google.com/2026/10/29/deals-galaxy-s26-ultra-ear-3a-lenovo-android-tablets/",
-   "source": "9to5Google Deals",
-   "region": "US",
-   "cat": "wearables",
-   "date": "2026-10-29T15:57:55Z",
-   "price": "$473",
    "heat": 0
   }
  ]
