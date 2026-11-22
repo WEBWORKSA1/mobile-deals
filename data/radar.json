@@ -1,18 +1,6 @@
 {
- "updated": "2026-11-21T19:25:31.595936+00:00",
+ "updated": "2026-11-22T07:02:21.843294+00:00",
  "models": [
-  {
-   "model": "Pixel 11 Pro XL",
-   "count": 9,
-   "link": "https://slickdeals.net/f/20339946-899-google-pixel-11-pro-xl-unlocked-smartphone-gemini-256-gb-canyon-10-back-w-prime-visa-card-325-extra-for-your-trade-in-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "date": "2026-11-21T06:34:14Z"
-  },
-  {
-   "model": "Galaxy S26 Ultra",
-   "count": 8,
-   "link": "https://www.dealnews.com/Unlocked-Samsung-Galaxy-S26-Ultra-256-GB-Android-Smartphone-for-1-049-free-shipping/22415950.html?iref=rss-c142",
-   "date": "2026-11-21T00:29:40Z"
-  },
   {
    "model": "Galaxy S26 FE",
    "count": 7,
@@ -20,10 +8,16 @@
    "date": "2026-11-21T19:07:02Z"
   },
   {
-   "model": "Pixel 11 Pro",
-   "count": 6,
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmE0WHRHUHI3MFRiRlNDT1ZtVGpjaTVFTm5YOTNyN0JsWGRJVjFoX2lkZkx1RUg3WGpNbDMwYWdhR1VFbVNkdm5fMlVzRHQ5V3F1YWFCUWcwd0hpdDFiQ21BTWlWWGVWelEtckUybkJncXBMbGcyMVpsYUZCMjNLMg?oc=5",
-   "date": "2026-11-20T17:50:11Z"
+   "model": "Galaxy S26 Ultra",
+   "count": 7,
+   "link": "https://www.dealnews.com/Unlocked-Samsung-Galaxy-S26-Ultra-256-GB-Android-Smartphone-for-1-049-free-shipping/22415950.html?iref=rss-c142",
+   "date": "2026-11-21T00:29:40Z"
+  },
+  {
+   "model": "Pixel 11 Pro XL",
+   "count": 7,
+   "link": "https://slickdeals.net/f/20339946-899-google-pixel-11-pro-xl-unlocked-smartphone-gemini-256-gb-canyon-10-back-w-prime-visa-card-325-extra-for-your-trade-in-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "date": "2026-11-21T06:34:14Z"
   },
   {
    "model": "iPhone 18 Pro",
@@ -32,16 +26,16 @@
    "date": "2026-11-21T06:52:22Z"
   },
   {
-   "model": "Pixel 11",
+   "model": "Pixel 11 Pro",
    "count": 5,
-   "link": "https://www.dealnews.com/Google-Pixel-11-256-GB-for-AT-T-w-Pixel-Buds-2-a-0-mo-w-qualifying-plan-free-shipping/22415061.html?iref=rss-c142",
-   "date": "2026-11-20T13:41:11Z"
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmE0WHRHUHI3MFRiRlNDT1ZtVGpjaTVFTm5YOTNyN0JsWGRJVjFoX2lkZkx1RUg3WGpNbDMwYWdhR1VFbVNkdm5fMlVzRHQ5V3F1YWFCUWcwd0hpdDFiQ21BTWlWWGVWelEtckUybkJncXBMbGcyMVpsYUZCMjNLMg?oc=5",
+   "date": "2026-11-20T17:50:11Z"
   },
   {
-   "model": "Pixel 10",
+   "model": "Pixel 11",
    "count": 4,
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVZXajZjYVZ3QVFEU1YtRUpGQU5GVTdoVWVKVk5RSmRPY0FqMHQxYkt2UVh3UXdIaHNscXJDZVhYSTQ0VEJpZFhKSkhiaWNSMXZYWUZFNnpfams0am5Xcm04eTJ1QnFvTER3S1RYX3RBaVpNa2ZXS1RKaTVfX1J0bHJTeXduNXFrMFVITlJTcVNEZ1lad0ZmUHVZLW0yYzY1SlJ5OWp2dUJzSEhS?oc=5",
-   "date": "2026-11-19T19:18:00Z"
+   "link": "https://www.dealnews.com/Google-Pixel-11-256-GB-for-AT-T-w-Pixel-Buds-2-a-0-mo-w-qualifying-plan-free-shipping/22415061.html?iref=rss-c142",
+   "date": "2026-11-20T13:41:11Z"
   },
   {
    "model": "iPhone 17",
@@ -68,16 +62,22 @@
    "date": "2026-11-20T17:55:00Z"
   },
   {
-   "model": "iPhone 17 Pro Max",
+   "model": "Pixel 10",
    "count": 3,
-   "link": "https://www.dealnews.com/Unlocked-Apple-iPhone-17-Pro-Max-256-GB-Smartphone-for-1-100-free-shipping/22411421.html?iref=rss-c142",
-   "date": "2026-11-19T12:42:15Z"
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVZXajZjYVZ3QVFEU1YtRUpGQU5GVTdoVWVKVk5RSmRPY0FqMHQxYkt2UVh3UXdIaHNscXJDZVhYSTQ0VEJpZFhKSkhiaWNSMXZYWUZFNnpfams0am5Xcm04eTJ1QnFvTER3S1RYX3RBaVpNa2ZXS1RKaTVfX1J0bHJTeXduNXFrMFVITlJTcVNEZ1lad0ZmUHVZLW0yYzY1SlJ5OWp2dUJzSEhS?oc=5",
+   "date": "2026-11-19T19:18:00Z"
   },
   {
    "model": "Galaxy S25 Ultra",
    "count": 2,
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNmU0ZDBqNS1zNlhIRDZqR3hIcnoyM3BHY3JCcHp4VG1adDFydDl6TFBpX291R2ZZZVVVSExsSDRzdUtiTGRLODhseUt6Y2Q4RFhzVUNVaVhyNGY0ejM1bmhiQURkODduUjM0ZmRNNkxVc28yeGo3cTJuSm5na25nTHpaQWo2VmllNTVqd19TYjJHS0hrVFVIRUZYNXpUbHVEcC1CY3ktdW1NeEVVWUIwODhkcEVXcF9kR24ySGdKMnN5UzlqcEZ0OWd5dC1uU1VCT3laejVuSzVSVkZL0gHiAUFVX3lxTE5LaWlIcU9LNEhSbzQtR29WeXNBU0YwcFQxcmJKRm9pd29Gclk1eDFZNE90ZmtCWm1KQzVNbWlrTHh0S09CRmtMOXY1Z2plU3o4Z3drRU96bExFTkpOcER5WmpQVFhxRUZWNHR2TTlidEhZQkFhTy1ldGtuYWQwVUNYU0xETmtONkR4bW1UdXhIbWdZdzl5UDItRWZQUm9YVlItd254eGZqNGttdW84c0toYkZpOGt1dmlWMFpVQndIQmRYM3FubFNGUDJ5V2pOVVp5Rm9aVkNtQVhRUkZtUC0weGc?oc=5",
    "date": "2026-11-21T10:12:28Z"
+  },
+  {
+   "model": "iPhone 17 Pro Max",
+   "count": 2,
+   "link": "https://www.dealnews.com/Unlocked-Apple-iPhone-17-Pro-Max-256-GB-Smartphone-for-1-100-free-shipping/22411421.html?iref=rss-c142",
+   "date": "2026-11-19T12:42:15Z"
   },
   {
    "model": "iPhone 17e",
