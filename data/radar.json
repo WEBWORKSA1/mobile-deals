@@ -1,29 +1,23 @@
 {
- "updated": "2026-11-22T07:02:21.843294+00:00",
+ "updated": "2026-11-22T19:48:54.975103+00:00",
  "models": [
   {
-   "model": "Galaxy S26 FE",
-   "count": 7,
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMHRZaDZOU3MwV0h0T2VqWkRFZmU3bVFxN1o1aTRvSTdXOUVhSV9MSkZGZUtENEJSdU1JelRZVUN3aW9yclo0VTA0bFl3QS1yT0FEek9YZXZUb3lXazNSdlpucTZsWjVsRV80RHEzNTdPVllVYl9Nd1ZjbHFqdFYzMTJEVklDU19YM0V6RE9rRFVxUEl3UnJzRVFKRURKQ04zU3FYc3pqNThPWnFrbzk0VUNBcDlKdzQtNTdNWWpLMS04SlVpWVVoNVNkNU52bVNCekE?oc=5",
-   "date": "2026-11-21T19:07:02Z"
-  },
-  {
    "model": "Galaxy S26 Ultra",
-   "count": 7,
+   "count": 6,
    "link": "https://www.dealnews.com/Unlocked-Samsung-Galaxy-S26-Ultra-256-GB-Android-Smartphone-for-1-049-free-shipping/22415950.html?iref=rss-c142",
    "date": "2026-11-21T00:29:40Z"
   },
   {
-   "model": "Pixel 11 Pro XL",
-   "count": 7,
-   "link": "https://slickdeals.net/f/20339946-899-google-pixel-11-pro-xl-unlocked-smartphone-gemini-256-gb-canyon-10-back-w-prime-visa-card-325-extra-for-your-trade-in-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "date": "2026-11-21T06:34:14Z"
-  },
-  {
    "model": "iPhone 18 Pro",
    "count": 6,
-   "link": "https://www.hotukdeals.com/vouchers/5-off-iphone-18-pro-and-pro-max-wcode-5040943",
-   "date": "2026-11-21T06:52:22Z"
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT29RWV9NTUM4LURvb2NoeXEtam9KX2E3cFpBMXNJRjF6S3RuMDZ0MnNuLWQ4X0I2R09uTFROT1k3aE13VGRrTmxxTmZQTFVKSUVrdmdaUXRsV080WVdCMmVyLTRUZ3NoWkZ3S2UtTmxLb3N0M1R4VjIwYklfYVBWZXp2UTZpWlBkNnlEZkxmNDZZVnMwdC1rVU0ySnZSVlEtY2twV0dRN3BaMTR0akFaemtGTzQxdWwzREZOaDZrc2N1YUswdWlkNFg3U1UwNHpEbkdQR3ZScUZNb09HMnJMaGNINXhWZw?oc=5",
+   "date": "2026-11-22T14:09:00Z"
+  },
+  {
+   "model": "Galaxy S26 FE",
+   "count": 5,
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMHRZaDZOU3MwV0h0T2VqWkRFZmU3bVFxN1o1aTRvSTdXOUVhSV9MSkZGZUtENEJSdU1JelRZVUN3aW9yclo0VTA0bFl3QS1yT0FEek9YZXZUb3lXazNSdlpucTZsWjVsRV80RHEzNTdPVllVYl9Nd1ZjbHFqdFYzMTJEVklDU19YM0V6RE9rRFVxUEl3UnJzRVFKRURKQ04zU3FYc3pqNThPWnFrbzk0VUNBcDlKdzQtNTdNWWpLMS04SlVpWVVoNVNkNU52bVNCekE?oc=5",
+   "date": "2026-11-21T19:07:02Z"
   },
   {
    "model": "Pixel 11 Pro",
@@ -32,16 +26,16 @@
    "date": "2026-11-20T17:50:11Z"
   },
   {
-   "model": "Pixel 11",
-   "count": 4,
-   "link": "https://www.dealnews.com/Google-Pixel-11-256-GB-for-AT-T-w-Pixel-Buds-2-a-0-mo-w-qualifying-plan-free-shipping/22415061.html?iref=rss-c142",
-   "date": "2026-11-20T13:41:11Z"
+   "model": "Pixel 11 Pro XL",
+   "count": 5,
+   "link": "https://slickdeals.net/f/20339946-899-google-pixel-11-pro-xl-unlocked-smartphone-gemini-256-gb-canyon-10-back-w-prime-visa-card-325-extra-for-your-trade-in-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "date": "2026-11-21T06:34:14Z"
   },
   {
-   "model": "iPhone 17",
-   "count": 4,
-   "link": "https://www.hotukdeals.com/deals/iphone-17-sage-green-5042126",
-   "date": "2026-11-21T18:58:03Z"
+   "model": "iPhone Air",
+   "count": 5,
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT29RWV9NTUM4LURvb2NoeXEtam9KX2E3cFpBMXNJRjF6S3RuMDZ0MnNuLWQ4X0I2R09uTFROT1k3aE13VGRrTmxxTmZQTFVKSUVrdmdaUXRsV080WVdCMmVyLTRUZ3NoWkZ3S2UtTmxLb3N0M1R4VjIwYklfYVBWZXp2UTZpWlBkNnlEZkxmNDZZVnMwdC1rVU0ySnZSVlEtY2twV0dRN3BaMTR0akFaemtGTzQxdWwzREZOaDZrc2N1YUswdWlkNFg3U1UwNHpEbkdQR3ZScUZNb09HMnJMaGNINXhWZw?oc=5",
+   "date": "2026-11-22T14:09:00Z"
   },
   {
    "model": "iPhone 17 Pro",
@@ -50,22 +44,16 @@
    "date": "2026-11-20T23:31:15Z"
   },
   {
-   "model": "iPhone Air",
-   "count": 4,
-   "link": "https://www.mydealz.de/deals/amazon-spigen-iphone-air-hulle-ultra-hybrid-magfit-classic-black-2876496",
-   "date": "2026-11-20T14:46:21Z"
-  },
-  {
    "model": "Galaxy A37",
    "count": 3,
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa2pkNU9QUzM4bVliam9PS1NXQWlCMGVnNDl3NWhLbnhUdE56ZHE0VmxmQVJIbk5aV212amNZYmZEeWEyY01sUHFManZUMnpBSjY5Vkw5bTBfVUN6LURvTjUwcXowTGtBQ0xDUWRpXzktVTF5UThBb014MUliSjNZb1R0YVZUbmkzbVVQUFZGQWNnRWU1cWl1NlpUSEZ5bDNqNDloT0VIYXRTY01LQ2lxTk51TTFVcGJwdTdNY0JNUENWWThLcFdaWWVReHJPS2t4VkYzQ095WGlVd1c2RGc?oc=5",
    "date": "2026-11-20T17:55:00Z"
   },
   {
-   "model": "Pixel 10",
+   "model": "Pixel 11",
    "count": 3,
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVZXajZjYVZ3QVFEU1YtRUpGQU5GVTdoVWVKVk5RSmRPY0FqMHQxYkt2UVh3UXdIaHNscXJDZVhYSTQ0VEJpZFhKSkhiaWNSMXZYWUZFNnpfams0am5Xcm04eTJ1QnFvTER3S1RYX3RBaVpNa2ZXS1RKaTVfX1J0bHJTeXduNXFrMFVITlJTcVNEZ1lad0ZmUHVZLW0yYzY1SlJ5OWp2dUJzSEhS?oc=5",
-   "date": "2026-11-19T19:18:00Z"
+   "link": "https://forums.redflagdeals.com/viewtopic.php?t=2833397&p=41380291#p41380291",
+   "date": "2026-11-22T17:06:59Z"
   },
   {
    "model": "Galaxy S25 Ultra",
@@ -74,16 +62,28 @@
    "date": "2026-11-21T10:12:28Z"
   },
   {
+   "model": "Pixel 10",
+   "count": 2,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVZXajZjYVZ3QVFEU1YtRUpGQU5GVTdoVWVKVk5RSmRPY0FqMHQxYkt2UVh3UXdIaHNscXJDZVhYSTQ0VEJpZFhKSkhiaWNSMXZYWUZFNnpfams0am5Xcm04eTJ1QnFvTER3S1RYX3RBaVpNa2ZXS1RKaTVfX1J0bHJTeXduNXFrMFVITlJTcVNEZ1lad0ZmUHVZLW0yYzY1SlJ5OWp2dUJzSEhS?oc=5",
+   "date": "2026-11-19T19:18:00Z"
+  },
+  {
+   "model": "iPhone 17",
+   "count": 2,
+   "link": "https://www.hotukdeals.com/deals/iphone-17-sage-green-5042126",
+   "date": "2026-11-21T18:58:03Z"
+  },
+  {
    "model": "iPhone 17 Pro Max",
    "count": 2,
-   "link": "https://www.dealnews.com/Unlocked-Apple-iPhone-17-Pro-Max-256-GB-Smartphone-for-1-100-free-shipping/22411421.html?iref=rss-c142",
-   "date": "2026-11-19T12:42:15Z"
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSTU1TzBBSkl5NlA2Z1JPemxKSDQ4bVpUcEtaZklUUUVzdHNEalViOEo3dndLOHBLMWZOUnE5azV3WFVldkcxWTN1ZWhxWmJ0dFdPRW9DX092OHZrTmhJWHFWb0V5ekNHRWRNbUR1djg0RmJrY3BrUE9ESmFLbFlXaDEyVFl3c2ZUSmJ0bm1GSVFoTmctMnk2N3lPWDdmQVl1OGFQbzhvbE1yem4zRHQ1OFN4N2Y?oc=5",
+   "date": "2026-11-21T14:12:51Z"
   },
   {
    "model": "iPhone 17e",
    "count": 2,
-   "link": "https://www.ozbargain.com.au/node/984525",
-   "date": "2026-11-20T09:43:43Z"
+   "link": "https://slickdeals.net/f/20360067-cricket-wireless-iphone-17e-new-280-with-3-month-plan?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "date": "2026-11-22T17:20:20Z"
   },
   {
    "model": "iPhone 18 Pro Max",
@@ -96,6 +96,12 @@
    "count": 1,
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPekRabkZyZmZRYkUtOVpLZnRrTk1ZWHJxLUt5ZGxJQzdYMTRDcEpXMHl2Q3ZoNngtT0NndkpmUHladjJyTDF1Vk85Z1NfS1IzRnBJVDZiSnBjV09fNkhWV2wyMHhndmZieXdPbURqSlRRRTNybi1GUTZWclh3RVNmb1ZzX3N1MmgyQmhXUkJSWnVjbnVHWDlWZHhzR0dJSF9HcTlob2FqNC1ma1g5NWtIYkY4Yjh6LWM?oc=5",
    "date": "2026-11-20T00:20:47Z"
+  },
+  {
+   "model": "Galaxy A56",
+   "count": 1,
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcllFajhNdktlRUlxWTBWc3lqdnpnaGhqX19UMFE3c1pEeHJnSjM2cW5pVmQ0c2VHZGd5U21RS3A4MzgzaTRLTzdZazVBZmtEd0R3WVlBS2dFNjNXeVNjdzQxX2xwREJmU0JtWVRTcW1VV1RZS095WWxXcGhvTVhuc2x5aDVXOEFHZEI2YjZMazFJdEl5NWQ5LWFJSUs5UkFzSEhOSUVDaUg2RHN3TTJXRnhuVWVxM2VrSVdaMG9hQjFmYjNNUC1RcmF5VjJqcTTSAdYBQVVfeXFMUEVGUGQtTDJ1aGd3aF9nRldjMFdpRnQyMFRPVVpjbWc0VmotUWx1bzhsUlljT184OHpIQmZDMGYwT1hwLVVJdWJaODRaREcwX0VrRERIX1BiX2FzQk5HUHA2RmRQeG5RcFp4aG1UVlFYTVo1SWZUTjZHaGxIZ0Nvc0J4c3BsNGJkb1hDMDRJQ2NJMWV6bGNEdnIwTjNVTy03MEpEcHZpUGh2ZndUWXRvamFkeFJMRDd6eThGQ3BaRmE2Q0o2UC1ONE1TR29XS3dWTjVaYm41QQ?oc=5",
+   "date": "2026-11-20T13:31:00Z"
   },
   {
    "model": "Galaxy S25 FE",
@@ -134,16 +140,10 @@
    "date": "2026-11-21T17:31:04Z"
   },
   {
-   "model": "Motorola Razr Ultra",
+   "model": "POCO F9",
    "count": 1,
-   "link": "https://slickdeals.net/f/20303484-700-best-buy-motorola-razr-ultra-2025-512gb-unlocked-pantone-scarab?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "date": "2026-11-19T02:04:43Z"
-  },
-  {
-   "model": "Nothing Phone (3)",
-   "count": 1,
-   "link": "https://www.dealnews.com/products/Unlocked-Nothing-Phone-3-Smartphone/560279.html?iref=rss-c142",
-   "date": "2026-11-19T02:09:04Z"
+   "link": "https://www.mydealz.de/deals/xiaomi-store-app-poco-f9-ultra-12-gb-256-gb-dark-cherry-fur-67041-eur-bzw-ab-59242-eur-mit-max-7799-mi-punkten-2878538",
+   "date": "2026-11-22T18:48:39Z"
   }
  ]
 }
