@@ -1,11 +1,10 @@
 {
- "updated": "2026-11-22T19:48:44Z",
- "runs": 11,
+ "updated": "2026-11-23T07:50:46Z",
+ "runs": 12,
  "sources_ok": [
   "9to5Google Deals",
   "9to5Toys",
   "Dealabs",
-  "Google News",
   "HotUKDeals",
   "OzBargain",
   "RedFlagDeals",
@@ -14,6 +13,182 @@
   "mydealz"
  ],
  "items": [
+  {
+   "id": "140718d881a3",
+   "title": "Anker MagGo 3-in-1 Faltbare Ladestation (Qi2, 15 W) für iPhone 12–14 Pro Max ( Refurbished - Zertifiziert )",
+   "link": "https://www.mydealz.de/deals/anker-maggo-3-in-1-faltbare-ladestation-qi2-15-w-fur-iphone-12-14-pro-max-refurbished-zertifiziert-2857539",
+   "source": "mydealz",
+   "region": "EU",
+   "cat": "phones",
+   "date": "2026-11-23T07:42:46Z",
+   "price": "",
+   "heat": 327
+  },
+  {
+   "id": "47769c00d89b",
+   "title": "Apple’s iPhone Duo-ready Apple Pencil (USB-C) hits Black Friday low at just $49 (Nearly 40% off)",
+   "link": "https://9to5toys.com/2026/11/22/apple-iphone-duo-apple-pencil-usb-c-black-friday-deal/",
+   "source": "9to5Toys",
+   "region": "US",
+   "cat": "phones",
+   "date": "2026-11-23T07:41:03Z",
+   "price": "$49",
+   "heat": 0
+  },
+  {
+   "id": "755b7cd6695f",
+   "title": "CHECK24: 24€ Cashback auf Handyverträge mit/ohne Handy",
+   "link": "https://www.mydealz.de/deals/check24-24eur-cashback-auf-handyvertrage-mithandy-2879126",
+   "source": "mydealz",
+   "region": "EU",
+   "cat": "phones",
+   "date": "2026-11-23T07:26:57Z",
+   "price": "24€",
+   "heat": 157
+  },
+  {
+   "id": "522da786e165",
+   "title": "Apple Watch Series 12 just hit Black Friday all-time low at $100 off (All-time low)",
+   "link": "https://9to5toys.com/2026/11/22/apple-watch-series-12-black-friday-all-time-low/",
+   "source": "9to5Toys",
+   "region": "US",
+   "cat": "wearables",
+   "date": "2026-11-23T07:25:26Z",
+   "price": "$100",
+   "heat": 0
+  },
+  {
+   "id": "3a966a130154",
+   "title": "Apple AirPods 4 Wireless Earbuds for $89 + free shipping",
+   "link": "https://www.dealnews.com/Apple-Air-Pods-4-Wireless-Earbuds-for-89-free-shipping/22424140.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "accessories",
+   "date": "2026-11-23T07:19:35Z",
+   "price": "$89",
+   "heat": 0
+  },
+  {
+   "id": "659338004432",
+   "title": "Apple AirPods Pro 3 Wireless Earbuds $149 + Free S&H",
+   "link": "https://slickdeals.net/f/20374728-apple-airpods-pro-3-wireless-earbuds-149-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "source": "Slickdeals",
+   "region": "US",
+   "cat": "accessories",
+   "date": "2026-11-23T07:13:37Z",
+   "price": "$149",
+   "heat": 0
+  },
+  {
+   "id": "29ae8f74d11c",
+   "title": "Google Pixel 10 Pro XL 256GB Sim Free Mobile in Obsidian (Discount at Checkout)",
+   "link": "https://www.hotukdeals.com/deals/google-pixel-10-pro-xl-256gb-sim-free-mobile-in-obsidian-5043507",
+   "source": "HotUKDeals",
+   "region": "UK",
+   "cat": "plans",
+   "date": "2026-11-23T07:12:53Z",
+   "price": "",
+   "heat": 139
+  },
+  {
+   "id": "28ffdd265153",
+   "title": "Apple AirPods Pro 3 (2025) for $149 + free shipping",
+   "link": "https://www.dealnews.com/products/Apple/Apple-Air-Pods-Pro-3-2025/493669.html?iref=rss-c142",
+   "source": "dealnews",
+   "region": "US",
+   "cat": "accessories",
+   "date": "2026-11-23T07:11:03Z",
+   "price": "$149",
+   "heat": 0
+  },
+  {
+   "id": "a9a23cabd7da",
+   "title": "Whoa! Apple’s AirPods Pro 3 just hit a wild $149 all-time low for Black Friday (100 off!)",
+   "link": "https://9to5toys.com/2026/11/22/apple-airpods-pro-3-all-time-low-black-friday/",
+   "source": "9to5Toys",
+   "region": "US",
+   "cat": "accessories",
+   "date": "2026-11-23T07:10:48Z",
+   "price": "$149",
+   "heat": 0
+  },
+  {
+   "id": "b36663c41f23",
+   "title": "Xiaomi Smart Band 10 Pro Ceramic Edition Pearl White (NFC) 1,74 AMOLED-Display, 21 Tage Akku, Android/iOS, 5ATM",
+   "link": "https://www.mydealz.de/deals/xiaomi-smart-band-10-pro-ceramic-edition-pearl-white-nfc-174-amoled-display-21-tage-akku-androidios-5atm-2870271",
+   "source": "mydealz",
+   "region": "EU",
+   "cat": "phones",
+   "date": "2026-11-23T07:07:56Z",
+   "price": "",
+   "heat": 471
+  },
+  {
+   "id": "aa78b6ba57e5",
+   "title": "UGREEN MagFlow Air Ultra Slim Powerbank mit Magsafe | 10000mAh, Qi2 25W, PD45W, Integriertes Kabel | + gratis 1m 60 W USB‑C Schnellladekabel",
+   "link": "https://www.mydealz.de/deals/ugreen-magflow-air-ultra-slim-powerbank-mit-magsafe-10000mah-qi2-25w-pd45w-integriertes-kabel-gratis-1m-60-w-usbc-schnellladekabel-2854120",
+   "source": "mydealz",
+   "region": "EU",
+   "cat": "accessories",
+   "date": "2026-11-23T06:51:03Z",
+   "price": "",
+   "heat": 448
+  },
+  {
+   "id": "3c35bb8d5602",
+   "title": "Apple iPhone 18 Pro Max Funktionsgewebe Case mit MagSafe – Schwarz und Chambrayblau",
+   "link": "https://www.mydealz.de/deals/apple-iphone-18-pro-max-funktionsgewebe-case-mit-magsafe-schwarz-und-chambrayblau-2878910",
+   "source": "mydealz",
+   "region": "EU",
+   "cat": "accessories",
+   "date": "2026-11-23T06:44:55Z",
+   "price": "",
+   "heat": 135
+  },
+  {
+   "id": "b3b46fcad6f0",
+   "title": "Écouteurs sans fil Apple AirPods 5 - Réduction Active du Bruit, Boîtier USB C, MKFW4ZM/A (via 15€ fidélité & 24,83€ en bon d'achat)",
+   "link": "https://www.dealabs.com/bons-plans/ecouteurs-sans-fil-apple-airpods-5-reduction-active-du-bruit-boitier-usb-c-mkfw4zma-via-15eur-fidelite-2483-eur-en-bon-dachat-3465733",
+   "source": "Dealabs",
+   "region": "EU",
+   "cat": "accessories",
+   "date": "2026-11-23T06:30:34Z",
+   "price": "15€",
+   "heat": 212
+  },
+  {
+   "id": "c3a67f0a532b",
+   "title": "Apple AirPods 5, MKFW4ZM/A - discount at checkout",
+   "link": "https://www.hotukdeals.com/deals/apple-airpods-5-mkfw4zma-discount-at-checkout-5043451",
+   "source": "HotUKDeals",
+   "region": "UK",
+   "cat": "accessories",
+   "date": "2026-11-23T06:16:20Z",
+   "price": "",
+   "heat": 199
+  },
+  {
+   "id": "accecffdc673",
+   "title": "Apple iPad A16, 11 Inch, WiFi, 128GB in Silver, MD3Y4KN/A (discount at checkout)",
+   "link": "https://www.hotukdeals.com/deals/apple-ipad-a16-11-inch-wifi-128gb-in-silver-md3y4kna-5043411",
+   "source": "HotUKDeals",
+   "region": "UK",
+   "cat": "wearables",
+   "date": "2026-11-23T06:14:14Z",
+   "price": "",
+   "heat": 180
+  },
+  {
+   "id": "5409fc885214",
+   "title": "[Amazon.ca] [Black Friday] Anker soundcore V20i Open-Ear Earbuds, 36H Playtime, Bluetooth 5.4",
+   "link": "https://forums.redflagdeals.com/viewtopic.php?t=2833434&p=41381212#p41381212",
+   "source": "RedFlagDeals",
+   "region": "CA",
+   "cat": "accessories",
+   "date": "2026-11-23T02:50:25Z",
+   "price": "",
+   "heat": 0
+  },
   {
    "id": "055effa1c359",
    "title": "Original Apple Sport Loop Armbänder Nylon oder Silikon Apple Watch | diverse Farben und Größen verfügbar | ab 11,99€",
@@ -1918,6 +2093,17 @@
    "heat": 0
   },
   {
+   "id": "9e0418c401de",
+   "title": "Apple iPhone 17e 256GB $999 + Delivery ($0 C&C/In-Store) @ The Good Guys",
+   "link": "https://www.ozbargain.com.au/node/984525",
+   "source": "OzBargain",
+   "region": "AU",
+   "cat": "phones",
+   "date": "2026-11-20T09:43:43Z",
+   "price": "$999",
+   "heat": 0
+  },
+  {
    "id": "702c270d7c8b",
    "title": "Starlink Mobile: 14 MHz Deal, No Phone Plan Yet [2026]",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTkd0SWZhRU91R2FteHRLLW5GSTY3RnJiejJFTzZ1MFpkaW0xcHJIVHlWOEMyT1FCbmN1WjVCZGJ0WVR2ck80aTVWUVpDbWNHYVNhMXJQWFk0aW93UG82WVJqY09JcW5YNU5FeS1weV8xVHdGN2M0WGpMX2x1ZDFpdm9uQlpnbWVmOG5YVQ?oc=5",
@@ -2466,193 +2652,6 @@
    "date": "2026-11-19T14:41:28Z",
    "price": "£126",
    "heat": 141
-  },
-  {
-   "id": "3d65042e90d1",
-   "title": "[Best Buy, Costco] Apple Watch Series 12 - $70 Off",
-   "link": "https://forums.redflagdeals.com/viewtopic.php?t=2832849&p=41372790#p41372790",
-   "source": "RedFlagDeals",
-   "region": "CA",
-   "cat": "wearables",
-   "date": "2026-11-19T14:38:37Z",
-   "price": "$70",
-   "heat": 0
-  },
-  {
-   "id": "815d3690c612",
-   "title": "The best Black Friday phone deals available at T-Mobile right now",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOOTVCVVdJaHRDTW9oWGhRRGwwaXJqdHVYR2NoeFhuV3F2X19keHVmNnNtT0JkZjRNc2lqendZbHNiRTU0VmFyaWoyR0l3ZktHdm1wZFFZdGk0VElNdUl2a1prRGdfVFpPSkgyYnl1UWhNTlFPcWhwSzRvMWlTVEVCYTBqLVU4VTN2Si1HWGl3X0k5WEdlZUFRRDFXNmJQRVljRVJ5YTZPNU5BQ3VibWZOQk1jRWdHcTJvSFRjQkQ2OU80RGpUMVJVNUZCLWpzTDJEUzNGM2o0Vll0bTNibklKd1BtODFKVmEyNHJIWTZiazdIa1FyQzJ5bzNyRVh1V3hZR1ZrYWVnRXpoQkE?oc=5",
-   "source": "Tom's Guide",
-   "region": "US",
-   "cat": "phones",
-   "date": "2026-11-19T14:29:19Z",
-   "price": "",
-   "heat": 0
-  },
-  {
-   "id": "834b35d02f6c",
-   "title": "Early Black Friday Apple iPhone Deals Are Calling, Pick Up Some Serious Savings Now",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMzF3ZUxfN2NuS3lUMnpKcmNMNjFVbFFXTTNZMUFEYzhDZ2dGb09LSl9IblRQT2l1dmpiWDZydC1lSkNiRkZPUUxYby1IMUFEVERUak9YazZvOUpNMzU1cG5ZLUU2UzFCak5Wd2xuSTRXcEpJREFXT3plV2JhWVk5ajllX0ZXTjJ2YWJiUFpfQl9vMmp1T0NkbG1MeGhFcnhmWXFPNm5GY21PLUs3YW0wYzlSazBTak9zcDZtQUZ1RmFZZw?oc=5",
-   "source": "PCMag UK",
-   "region": "US",
-   "cat": "phones",
-   "date": "2026-11-19T14:19:30Z",
-   "price": "",
-   "heat": 0
-  },
-  {
-   "id": "dc5c5331cd52",
-   "title": "Black Friday deals on gifts and accessories for iPhone, iPad, AirPods by ESR",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVg5ZXU0WVl3UGYwa083d2QyR1RQZzJfZ1F3TlBQSVF3bE9MaXJiaEI3bkFUb2xxSU9HbGo4TGtOamJNakVOb1RTcFpZRVdWUkdtMm1WZmZ5UjFKZ19FWWVnNHUwY0tMY004M05OelZpT3p5LTZ4ZDZjd3JmYkxqRWFWUE9fejNFRl9ma2xTR013NmFPOUpQWkhvczJCSDQ4YTZMVTUwTWpOeUtxLVJGV1VNQzRFdw?oc=5",
-   "source": "PhoneArena",
-   "region": "AU",
-   "cat": "accessories",
-   "date": "2026-11-19T14:14:49Z",
-   "price": "",
-   "heat": 0
-  },
-  {
-   "id": "2fe97a64d575",
-   "title": "Anker 2026 Black Friday sale kicks off with up to 46% off all-new Nano chargers, Qi2.2 stands, power banks, and more from just $16",
-   "link": "https://9to5toys.com/2026/11/19/anker-2026-black-friday-up-to-50-off/",
-   "source": "9to5Toys",
-   "region": "US",
-   "cat": "phones",
-   "date": "2026-11-19T13:50:00Z",
-   "price": "$16",
-   "heat": 0
-  },
-  {
-   "id": "0cd789fc0204",
-   "title": "Open-Box Apple Watch Series 11 GPS 46mm Smartwatch for $270 + free shipping",
-   "link": "https://www.dealnews.com/products/Apple/Apple-Watch-Series-11-GPS-46-mm-Smartwatch/497074.html?iref=rss-c142",
-   "source": "dealnews",
-   "region": "US",
-   "cat": "wearables",
-   "date": "2026-11-19T13:41:14Z",
-   "price": "$270",
-   "heat": 0
-  },
-  {
-   "id": "c24793f68fd2",
-   "title": "iPhone 18 Pro could get a Black Friday price cut – here’s what we know",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLUtTY0NlSklidVdkanRXWXd5X0NrdnQ3YU1SOFZkRGgzQTd6cUlyRnBWRXlxelNzTDk2d29fbWsxdVcwNEtuZnFqOGJ4dWNCMWpybkctVTlMd1NWdGFMMmdIeC11V1dPYXdSLVRTRXJDZVF6eWMxVWZvazcwUldaWENydnRyWGJqSlhWckxtZXBfUzYxRW1GT3NtYm5VR3RNNkpvOTZJc0NPcVha?oc=5",
-   "source": "The Independent",
-   "region": "US",
-   "cat": "phones",
-   "date": "2026-11-19T13:12:00Z",
-   "price": "",
-   "heat": 0
-  },
-  {
-   "id": "e2c3b46d2bb6",
-   "title": "All Apple Watch Series 12 models hit Black Friday all-time lows at $70 off",
-   "link": "https://9to5toys.com/2026/11/19/apple-watch-series-12-black-friday-best-price/",
-   "source": "9to5Toys",
-   "region": "US",
-   "cat": "wearables",
-   "date": "2026-11-19T13:08:41Z",
-   "price": "$70",
-   "heat": 0
-  },
-  {
-   "id": "26103468afcd",
-   "title": "Pixel 10 deal: Save $200 on Google's first base phone with telephoto",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR2JrbU1nNjNnVVExdzZWQXRTVDMtSTluaEhFUnBIZW1LRy02VnN2cXY2QnV0SEFsOUs5UVY5SzRzV0hwcG1Zb2lhb3lMY21DQzFES3JEYlN4TTdYX1lUaFhoZDIzdXBPZ0NtMWNpRTM0QWhhNHBuYVlFSWhmdkd0Wg?oc=5",
-   "source": "Android Authority",
-   "region": "US",
-   "cat": "phones",
-   "date": "2026-11-19T12:59:00Z",
-   "price": "$200",
-   "heat": 0
-  },
-  {
-   "id": "31ec312ad96b",
-   "title": "Best Buy Black Friday Android Phone Deals: Up to 46% off + free shipping",
-   "link": "https://www.dealnews.com/Best-Buy-Black-Friday-Android-Phone-Deals-Up-to-46-off-free-shipping/22411448.html?iref=rss-c142",
-   "source": "dealnews",
-   "region": "US",
-   "cat": "phones",
-   "date": "2026-11-19T12:53:09Z",
-   "price": "",
-   "heat": 0
-  },
-  {
-   "id": "f5582f8908af",
-   "title": "Convert your old Apple Watch into a working handheld device with at the $47 Amazon low",
-   "link": "https://9to5toys.com/2026/11/19/techpod-repod-c1-apple-watch-case/",
-   "source": "9to5Toys",
-   "region": "US",
-   "cat": "wearables",
-   "date": "2026-11-19T12:46:26Z",
-   "price": "$47",
-   "heat": 0
-  },
-  {
-   "id": "a7ad11b8dce4",
-   "title": "Unlocked Apple iPhone 17 Pro Max 256GB Smartphone for $1,100 + free shipping",
-   "link": "https://www.dealnews.com/Unlocked-Apple-iPhone-17-Pro-Max-256-GB-Smartphone-for-1-100-free-shipping/22411421.html?iref=rss-c142",
-   "source": "dealnews",
-   "region": "US",
-   "cat": "phones",
-   "date": "2026-11-19T12:42:15Z",
-   "price": "$1,100",
-   "heat": 0
-  },
-  {
-   "id": "cf3b3392ecfa",
-   "title": "Unlocked Apple iPhone 17 Pro 256GB Smartphone for $1,000 + free shipping",
-   "link": "https://www.dealnews.com/Unlocked-Apple-iPhone-17-Pro-256-GB-Smartphone-for-1-000-free-shipping/22411419.html?iref=rss-c142",
-   "source": "dealnews",
-   "region": "US",
-   "cat": "phones",
-   "date": "2026-11-19T12:39:56Z",
-   "price": "$1,000",
-   "heat": 0
-  },
-  {
-   "id": "4bcca5e524da",
-   "title": "Refurb Scratch & Dent iPhones & Apple Watches at Woot for iPhones from $108, Watches from $115 + free shipping w/ Prime",
-   "link": "https://www.dealnews.com/Refurb-Scratch-Dent-iPhones-Apple-Watches-at-Woot-for-iPhones-from-108-Watches-from-115-free-shipping-w-Prime/22411357.html?iref=rss-c142",
-   "source": "dealnews",
-   "region": "US",
-   "cat": "phones",
-   "date": "2026-11-19T12:13:16Z",
-   "price": "$108,",
-   "heat": 0
-  },
-  {
-   "id": "1d08f953e805",
-   "title": "Apple announces Black Friday deals on iPhone, iPad, Mac, and more",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXNkM243RTNuRG52Tkt2NjBiU3FLVV9ET3VYUWdfV1AzNlZySWJmWUxmUEVoMk5McThTU0hXQnN3M1lrVGtFSXpQc3poSXNFVXNHbUZCMnJveUQyczBqTFBER0dLa2lVOW5BVmJ5eU1sb0IxRnJRcmRZMkNES0RlOGF1VnFVNHRHS1F0TzlSV2pldUliSEgwM0Jn?oc=5",
-   "source": "9to5Mac",
-   "region": "US",
-   "cat": "wearables",
-   "date": "2026-11-19T12:05:00Z",
-   "price": "",
-   "heat": 0
-  },
-  {
-   "id": "22da55cd5ab1",
-   "title": "Amazon US Black Friday deals: here are the best smartphone offers - GSMArena.com news",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTRUTXNfNXprUUduSHR2NFNubDZJSlZrRTYwdEloSW5kVkVtMU91VU5BTGRRVl81dzVra3d5QkRTYWtneDczaVBNSmZwN1poZmYtWjJVVjRCTlMxLVkzczI0Z2s3S2FlR0s1OV8xOFVGQ0tkMXNRNnYxbTE3OVdWbjdaWG9yNnBYT21DUXBvVF9Rd0RYQi10Y1JOaHA5WjAtVWt0MDlXMNIBowFBVV95cUxORmJzdHpKZF9IbXZCdmFtc3FBVzN0bkZuSHdyZXpPVzBWOUhzckRqVEctajJaX3luYmFDbGxya3FkUmdOWEpmWTVKdmlSck9KXzNTbmVUMm0xRURTOGUtYTJOY0FIRkQzZ0d0d2ZpUU9xNEFJSElLR3JaTXVVYVFvNko1WW9Mb3h5UU1ZX0d0OHVlc19lbWIxZ1A5SGs1VHJsNkV3?oc=5",
-   "source": "GSMArena.com",
-   "region": "CA",
-   "cat": "phones",
-   "date": "2026-11-19T12:03:02Z",
-   "price": "",
-   "heat": 0
-  },
-  {
-   "id": "7156033c5975",
-   "title": "Black Friday Week AirPods deals now live! AirPods Pro 3 $70 off, 2026 Max 2 now $120 off",
-   "link": "https://9to5toys.com/2026/11/19/black-friday-airpods-deals-now-live-airpods-pro-max-2/",
-   "source": "9to5Toys",
-   "region": "US",
-   "cat": "accessories",
-   "date": "2026-11-19T11:57:51Z",
-   "price": "$70",
-   "heat": 0
   }
  ]
 }

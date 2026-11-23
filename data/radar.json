@@ -1,17 +1,11 @@
 {
- "updated": "2026-11-22T19:48:54.975103+00:00",
+ "updated": "2026-11-23T07:51:32.092516+00:00",
  "models": [
   {
    "model": "Galaxy S26 Ultra",
    "count": 6,
    "link": "https://www.dealnews.com/Unlocked-Samsung-Galaxy-S26-Ultra-256-GB-Android-Smartphone-for-1-049-free-shipping/22415950.html?iref=rss-c142",
    "date": "2026-11-21T00:29:40Z"
-  },
-  {
-   "model": "iPhone 18 Pro",
-   "count": 6,
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT29RWV9NTUM4LURvb2NoeXEtam9KX2E3cFpBMXNJRjF6S3RuMDZ0MnNuLWQ4X0I2R09uTFROT1k3aE13VGRrTmxxTmZQTFVKSUVrdmdaUXRsV080WVdCMmVyLTRUZ3NoWkZ3S2UtTmxLb3N0M1R4VjIwYklfYVBWZXp2UTZpWlBkNnlEZkxmNDZZVnMwdC1rVU0ySnZSVlEtY2twV0dRN3BaMTR0akFaemtGTzQxdWwzREZOaDZrc2N1YUswdWlkNFg3U1UwNHpEbkdQR3ZScUZNb09HMnJMaGNINXhWZw?oc=5",
-   "date": "2026-11-22T14:09:00Z"
   },
   {
    "model": "Galaxy S26 FE",
@@ -32,16 +26,16 @@
    "date": "2026-11-21T06:34:14Z"
   },
   {
-   "model": "iPhone Air",
+   "model": "iPhone 18 Pro",
    "count": 5,
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT29RWV9NTUM4LURvb2NoeXEtam9KX2E3cFpBMXNJRjF6S3RuMDZ0MnNuLWQ4X0I2R09uTFROT1k3aE13VGRrTmxxTmZQTFVKSUVrdmdaUXRsV080WVdCMmVyLTRUZ3NoWkZ3S2UtTmxLb3N0M1R4VjIwYklfYVBWZXp2UTZpWlBkNnlEZkxmNDZZVnMwdC1rVU0ySnZSVlEtY2twV0dRN3BaMTR0akFaemtGTzQxdWwzREZOaDZrc2N1YUswdWlkNFg3U1UwNHpEbkdQR3ZScUZNb09HMnJMaGNINXhWZw?oc=5",
    "date": "2026-11-22T14:09:00Z"
   },
   {
-   "model": "iPhone 17 Pro",
-   "count": 4,
-   "link": "https://www.mydealz.de/deals/iphone-17-pro-2877615",
-   "date": "2026-11-20T23:31:15Z"
+   "model": "iPhone Air",
+   "count": 5,
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT29RWV9NTUM4LURvb2NoeXEtam9KX2E3cFpBMXNJRjF6S3RuMDZ0MnNuLWQ4X0I2R09uTFROT1k3aE13VGRrTmxxTmZQTFVKSUVrdmdaUXRsV080WVdCMmVyLTRUZ3NoWkZ3S2UtTmxLb3N0M1R4VjIwYklfYVBWZXp2UTZpWlBkNnlEZkxmNDZZVnMwdC1rVU0ySnZSVlEtY2twV0dRN3BaMTR0akFaemtGTzQxdWwzREZOaDZrc2N1YUswdWlkNFg3U1UwNHpEbkdQR3ZScUZNb09HMnJMaGNINXhWZw?oc=5",
+   "date": "2026-11-22T14:09:00Z"
   },
   {
    "model": "Galaxy A37",
@@ -56,40 +50,40 @@
    "date": "2026-11-22T17:06:59Z"
   },
   {
+   "model": "iPhone 17 Pro",
+   "count": 3,
+   "link": "https://www.mydealz.de/deals/iphone-17-pro-2877615",
+   "date": "2026-11-20T23:31:15Z"
+  },
+  {
+   "model": "iPhone 17e",
+   "count": 3,
+   "link": "https://slickdeals.net/f/20360067-cricket-wireless-iphone-17e-new-280-with-3-month-plan?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "date": "2026-11-22T17:20:20Z"
+  },
+  {
+   "model": "iPhone 18 Pro Max",
+   "count": 3,
+   "link": "https://www.mydealz.de/deals/apple-iphone-18-pro-max-funktionsgewebe-case-mit-magsafe-schwarz-und-chambrayblau-2878910",
+   "date": "2026-11-23T06:44:55Z"
+  },
+  {
    "model": "Galaxy S25 Ultra",
    "count": 2,
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNmU0ZDBqNS1zNlhIRDZqR3hIcnoyM3BHY3JCcHp4VG1adDFydDl6TFBpX291R2ZZZVVVSExsSDRzdUtiTGRLODhseUt6Y2Q4RFhzVUNVaVhyNGY0ejM1bmhiQURkODduUjM0ZmRNNkxVc28yeGo3cTJuSm5na25nTHpaQWo2VmllNTVqd19TYjJHS0hrVFVIRUZYNXpUbHVEcC1CY3ktdW1NeEVVWUIwODhkcEVXcF9kR24ySGdKMnN5UzlqcEZ0OWd5dC1uU1VCT3laejVuSzVSVkZL0gHiAUFVX3lxTE5LaWlIcU9LNEhSbzQtR29WeXNBU0YwcFQxcmJKRm9pd29Gclk1eDFZNE90ZmtCWm1KQzVNbWlrTHh0S09CRmtMOXY1Z2plU3o4Z3drRU96bExFTkpOcER5WmpQVFhxRUZWNHR2TTlidEhZQkFhTy1ldGtuYWQwVUNYU0xETmtONkR4bW1UdXhIbWdZdzl5UDItRWZQUm9YVlItd254eGZqNGttdW84c0toYkZpOGt1dmlWMFpVQndIQmRYM3FubFNGUDJ5V2pOVVp5Rm9aVkNtQVhRUkZtUC0weGc?oc=5",
    "date": "2026-11-21T10:12:28Z"
   },
   {
-   "model": "Pixel 10",
+   "model": "iPhone 12",
    "count": 2,
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVZXajZjYVZ3QVFEU1YtRUpGQU5GVTdoVWVKVk5RSmRPY0FqMHQxYkt2UVh3UXdIaHNscXJDZVhYSTQ0VEJpZFhKSkhiaWNSMXZYWUZFNnpfams0am5Xcm04eTJ1QnFvTER3S1RYX3RBaVpNa2ZXS1RKaTVfX1J0bHJTeXduNXFrMFVITlJTcVNEZ1lad0ZmUHVZLW0yYzY1SlJ5OWp2dUJzSEhS?oc=5",
-   "date": "2026-11-19T19:18:00Z"
+   "link": "https://www.mydealz.de/deals/anker-maggo-3-in-1-faltbare-ladestation-qi2-15-w-fur-iphone-12-14-pro-max-refurbished-zertifiziert-2857539",
+   "date": "2026-11-23T07:42:46Z"
   },
   {
    "model": "iPhone 17",
    "count": 2,
    "link": "https://www.hotukdeals.com/deals/iphone-17-sage-green-5042126",
    "date": "2026-11-21T18:58:03Z"
-  },
-  {
-   "model": "iPhone 17 Pro Max",
-   "count": 2,
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSTU1TzBBSkl5NlA2Z1JPemxKSDQ4bVpUcEtaZklUUUVzdHNEalViOEo3dndLOHBLMWZOUnE5azV3WFVldkcxWTN1ZWhxWmJ0dFdPRW9DX092OHZrTmhJWHFWb0V5ekNHRWRNbUR1djg0RmJrY3BrUE9ESmFLbFlXaDEyVFl3c2ZUSmJ0bm1GSVFoTmctMnk2N3lPWDdmQVl1OGFQbzhvbE1yem4zRHQ1OFN4N2Y?oc=5",
-   "date": "2026-11-21T14:12:51Z"
-  },
-  {
-   "model": "iPhone 17e",
-   "count": 2,
-   "link": "https://slickdeals.net/f/20360067-cricket-wireless-iphone-17e-new-280-with-3-month-plan?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "date": "2026-11-22T17:20:20Z"
-  },
-  {
-   "model": "iPhone 18 Pro Max",
-   "count": 2,
-   "link": "https://www.dealnews.com/Apple-iPhone-18-Pro-Max-for-AT-T-Up-to-1-200-off-w-trade-in-free-shipping/22415112.html?iref=rss-c142",
-   "date": "2026-11-20T14:10:14Z"
   },
   {
    "model": "Galaxy A17",
@@ -144,6 +138,12 @@
    "count": 1,
    "link": "https://www.mydealz.de/deals/xiaomi-store-app-poco-f9-ultra-12-gb-256-gb-dark-cherry-fur-67041-eur-bzw-ab-59242-eur-mit-max-7799-mi-punkten-2878538",
    "date": "2026-11-22T18:48:39Z"
+  },
+  {
+   "model": "POCO M8",
+   "count": 1,
+   "link": "https://www.hotukdeals.com/deals/xiaomi-poco-m8-smartphone-8256gb-sliver-677-120hz-fiow-amoled-display-735mm-sleek-3d-5041484",
+   "date": "2026-11-21T07:18:46Z"
   }
  ]
 }
