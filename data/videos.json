@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:50:46Z",
+ "updated": "2026-11-24T00:00:00Z",
  "channels_ok": [
   "UCBJycsmduvYEL83R_U4JriQ",
   "UCMiJRAwDNSNzuYeN2uWa0pA",
@@ -51,13 +51,6 @@
    "rel": true
   },
   {
-   "id": "gyUqMHDSn2I",
-   "title": "Apple iPhone Duo Unboxing and First Impressions",
-   "channel": "Unbox Therapy",
-   "date": "2026-10-24T16:30:22Z",
-   "rel": true
-  },
-  {
    "id": "5laDGy4INB0",
    "title": "iPhone Duo Durability: Destroyed",
    "channel": "JerryRigEverything",
@@ -86,13 +79,6 @@
    "rel": true
   },
   {
-   "id": "QVv3mQzlrN0",
-   "title": "Apple Homeview Impressions: Not Convinced!",
-   "channel": "Marques Brownlee",
-   "date": "2026-10-13T22:42:38Z",
-   "rel": true
-  },
-  {
    "id": "eHYaESEzFHc",
    "title": "iPhone 18 Pro Max Review - Apple's Hyping The Wrong Thing",
    "channel": "Dave2D",
@@ -112,6 +98,20 @@
    "channel": "Dave2D",
    "date": "2026-08-12T14:11:45Z",
    "rel": true
+  },
+  {
+   "id": "cc5C8hRblBY",
+   "title": "I'm Starting Over",
+   "channel": "Marques Brownlee",
+   "date": "2026-11-23T21:10:51Z",
+   "rel": false
+  },
+  {
+   "id": "wr6Qmp1jDkE",
+   "title": "We grew something special this year...",
+   "channel": "JerryRigEverything",
+   "date": "2026-11-23T19:36:05Z",
+   "rel": false
   },
   {
    "id": "WN14ucoXt1U",
