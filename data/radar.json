@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T21:48:58.537164+00:00",
+ "updated": "2026-11-26T08:33:12.696346+00:00",
  "models": [
   {
    "model": "iPhone 18 Pro",
-   "count": 16,
+   "count": 13,
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3a0xudHVYdHJ4aXlzUWJDdHBxRUNlRVd3amRMN0NQLVg4d3U1WlF5MWxhV1RyR1QxbXVfZTlwRkw3ZWpnZF9CMVlROUttRWVVczJKNUdQV1laSF9YWjBhb3NhTQ?oc=5",
    "date": "2026-11-25T19:08:00Z"
   },
@@ -15,15 +15,21 @@
   },
   {
    "model": "Pixel 11 Pro",
-   "count": 10,
+   "count": 8,
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2dONHhwbVcyV3VZQ1Q3bUdjSlFsdjhBRy1Jak0xcTNMRE92bjE2bFJoalRkbjNuR1Zxcm4yOW5tZm1sdjdVODlGZWZUWm1nSVRFbGxKQUxUZDF1bmYwTGpBMG55S3dwcnRrSHVZM3hWMmVOTUl5a1JLZlRZOTZGbEZRM3JjRTk0WmdBR01R?oc=5",
    "date": "2026-11-25T17:47:27Z"
   },
   {
    "model": "Galaxy S26 Ultra",
-   "count": 7,
+   "count": 5,
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdkFwYl96SW5iUWlodnBCV1Q1MVVKTXluWlJyS0FlaW1aZDU1N0p3TUM0QlFvcE92Q0hlR1Jwck1zMzh3c2xoRFowbmVKQTF5MVJlMFotTWxYa1RMVndwdUtDbFdpVXhQVVo0eDlYbERud2taMXdETF9MYVBkQUpIWEN1eGcwWklFOFBRZWNabWJPWHVkQXRVWUlRdUl6TFg5bGkxdnFlbzJXOEVmRFVzYUMxcXdFdW4tWUpHTnA1VFluNS1FRHlXOTA0QzlHWm9oUjhkQno5TE4xTE5RNU1n?oc=5",
    "date": "2026-11-25T14:19:18Z"
+  },
+  {
+   "model": "iPhone Air",
+   "count": 5,
+   "link": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-Air-256-GB-Smartphone/510105.html?iref=rss-c142",
+   "date": "2026-11-26T08:06:35Z"
   },
   {
    "model": "Galaxy A17",
@@ -44,16 +50,22 @@
    "date": "2026-11-24T14:53:45Z"
   },
   {
-   "model": "Pixel 11 Pro XL",
+   "model": "Galaxy S25",
    "count": 3,
-   "link": "https://www.mydealz.de/deals/original-telekom-google-pixel-11-pro-xl-im-magenta-allnetsms-flat-90gb-5g-fur-3995eurmonat-22995eur-240eur-telekom-cashback-2880995",
-   "date": "2026-11-24T21:38:54Z"
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNmF6eDZtOE9WVEo1WVJiTm85cnBMOW1mRGRObmkzS19xdWpCYzhlNHhkQmo3VmgzaC1zNTcwWWZacThwNUdGdHluUUZNbFlxU1VTMjdvWWhsUlZ6SEFob1BmRkI2WGlfdTB6c25ka0d2eGpkMU8tRXhBcU10R0xLUUs2d0pUcnZoazNCMDRwTjlDaUVyekdPZ0dZekt5bVluU3dtT0VmYUxCTzQzUm1DV0ljN2x4ZmVhUVdIeG9JU0R0cVZpZjUxcUVBUWh6QVVTY045Vll0Ul91d9IB4AFBVV95cUxON3U2QnZXMTYzU3lCbE5RU29QMTExNVRPYWo3ZjVRVTZ0OHJMdmdjN1QtOTVmVU1MTGdNaDhLNjhsSXVqYURKN3ZERTdIU1lLSVZzU2w2dGsyT3Y1NGwxbGU0YXlvY3JHZTlUeW9aSFRTVkJQWVhjSzc4YTYydVZyTUhOUWdZNTdIY1I4S2ZqdzhoaVB3a0F3My1yQmdkREZKdF9td1lvNzJ6cmJpemhTY1U3emt2aEM5VmY2OVJlRU1xZUNNRndjYXRUUEZwWUZOd21ZYjhGemJ6d3NESFlkYQ?oc=5",
+   "date": "2026-11-25T11:05:00Z"
   },
   {
-   "model": "iPhone 17",
+   "model": "Galaxy S25 Ultra",
    "count": 3,
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaFR1aUxlSFo3UzZJbWVoM24yUHhZdU5GblNpREUyZHZ5Vk9sanNHX2JqcDl3TS13VXFTb1pUWVNmbWVGMkZIWW1lSG1wR0ZGQnJkdWV5dkJ2cHk0d3A1aUJHQU5QbTRhbFdXRVBtRDQ4cEhaZUtlZnlEcnBDcVhGRXhtaG81V1JsSUVtVHE5aGxVSUNrMHA2UWxfdWNwOXpjRk4yc2ZFTjh5Q2JBVzY1Q3JiTjdKME9NanluYmljb0dteEdTcmVLalB2VVU5bGJKdmfSAdIBQVVfeXFMTmhUdWlMZUhaN1M2SW1laDNuMlB4WXVORm5TaURFMmR2eVZPbGpzR19ianA5d00td1VxU29aVFlTZm1lRjJGSFltZUhtcEdGRkJyZHVleXZCdnB5NHdwNWlCR0FOUG00YWxXV0VQbUQ0OHBIWmVLZWZ5RHJwQ3FYRkV4bWhvNVdSbElFbVRxOWhsVUlDazBwNlFsX3VjcDl6Y0ZOMnNmRU44eUNiQVc2NUNyYk43SjBPTWp5bmJpY29HbXhHU3JlS2pQdlVVOWxiSnZn?oc=5",
-   "date": "2026-11-24T13:33:21Z"
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JQWl1clBsa2JxSnRLWDVCZUJ5LWxjZTdZMEc0QU1GYVBUdVpwcFpNM21wSDlBS1p4eXp6ZXU5WVRFR3luV0JBenlvWWVEUi1PRzJiNDFDVlZqRTYwanlQb2pERWdTV1piUzhuQ1hCSQ?oc=5",
+   "date": "2026-11-25T18:29:32Z"
+  },
+  {
+   "model": "Pixel 10a",
+   "count": 3,
+   "link": "https://www.mydealz.de/deals/google-pixel-10a-128-gb-oder-256-gb-dual-sim-2882050",
+   "date": "2026-11-26T07:31:14Z"
   },
   {
    "model": "iPhone 17 Pro",
@@ -62,28 +74,16 @@
    "date": "2026-11-25T14:19:18Z"
   },
   {
-   "model": "iPhone Air",
+   "model": "iPhone 17 Pro Max",
    "count": 3,
-   "link": "https://www.ozbargain.com.au/node/985456",
-   "date": "2026-11-25T06:52:54Z"
+   "link": "https://www.hotukdeals.com/deals/apple-iphone-17-pro-max-256-gb-smartphone-used-good-vgc-ps829-excellent-ps879-512gb-good-ps869-vgc-ps899-1tb-ps919-ps969-vgc-5047535",
+   "date": "2026-11-26T07:54:00Z"
   },
   {
    "model": "Galaxy A27",
    "count": 2,
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS1NaUXp6RWcxcFlRZVZUMTZwa0JGM3FrN2ZfbFRQd1pLMHBoWGhuSml2SzhQZ3o5YUZ1Y1FnZlZGeUpLVmRDeWlVV1NGN2otWlB6aU5DbFZwNDBWTlUySERTY3RjNC05dWFCdk5VdEttMjhPMTRhTHdSX2FnLXIwdVVrcjlILU5xcnQ0?oc=5",
    "date": "2026-11-25T07:53:56Z"
-  },
-  {
-   "model": "Galaxy S25",
-   "count": 2,
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTl8zSnFhMERaOVpxUkhxQUhxbDZ6ZUtJU194UW1XeUNKX2tCTzdNdXNaWVBsUlRVS0UtVFcwMjB4eVp3bXdtOVpXLTJZenJxWlpvaHhqYW9vLTgwWnhTWnRMdV9jYUJyelRJYXFpdjNvQnFYVmdhTlltdTAxbTI5dWhGY3c2TVVVMmtseXRlWnhPYlpXekRJV1VGdVBsS1ZhVC1rSlBWczdydU9zd0VBR0pPNDRPWEpIYXZNY0h1YjBjZlRETHBHNQ?oc=5",
-   "date": "2026-11-25T07:55:09Z"
-  },
-  {
-   "model": "Galaxy S25 Ultra",
-   "count": 2,
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JQWl1clBsa2JxSnRLWDVCZUJ5LWxjZTdZMEc0QU1GYVBUdVpwcFpNM21wSDlBS1p4eXp6ZXU5WVRFR3luV0JBenlvWWVEUi1PRzJiNDFDVlZqRTYwanlQb2pERWdTV1piUzhuQ1hCSQ?oc=5",
-   "date": "2026-11-25T18:29:32Z"
   },
   {
    "model": "Galaxy S26",
@@ -94,20 +94,20 @@
   {
    "model": "Galaxy S26+",
    "count": 2,
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05eXJyUTU0QkhVanlrQUJFMXZubGxPdk00S1JXZGxHSWU1SkNqeEdjMlpXQXV6UFI0cDE0ejNKZFFMSHhXOTZxQjJKSWpTV1V4ZmhhM05SWUE1cXFVQUdTeGxSaE80bU05eDVSRUs5VXRwRk9tWEVsMjYxZW8zcmM?oc=5",
-   "date": "2026-11-25T04:46:00Z"
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WR09fekFkYThiM1UwMDlaWXB6NFNPRVYxbDNLOFc0NmFKUFhPODgtaDM2TVRDVmh3QUROTzZBUEhRZ0s1SFlXaGd2SE9JN1FYWXdUdnJCWG56SFRLb2d5SDllRmQ1X3FLUC1ET2M2OWlWdGZGa2dtNHpyTlI?oc=5",
+   "date": "2026-11-25T23:24:50Z"
   },
   {
-   "model": "Pixel 10a",
+   "model": "Galaxy Z Fold7",
    "count": 2,
-   "link": "https://www.dealabs.com/bons-plans/google-pixel-10a-128go-noir-volcanique-3465911",
-   "date": "2026-11-24T20:56:50Z"
+   "link": "https://slickdeals.net/f/20397768-refurbished-very-good-unlocked-samsung-galaxy-z-fold7-512gb-smartphone-4-colors-796-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "date": "2026-11-26T05:53:27Z"
   },
   {
-   "model": "iPhone 15 Pro",
+   "model": "Pixel 11 Pro XL",
    "count": 2,
-   "link": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-15-Pro-256-GB-Phone/468789.html?iref=rss-c142",
-   "date": "2026-11-24T21:01:26Z"
+   "link": "https://www.mydealz.de/deals/original-telekom-google-pixel-11-pro-xl-im-magenta-allnetsms-flat-90gb-5g-fur-3995eurmonat-22995eur-240eur-telekom-cashback-2880995",
+   "date": "2026-11-24T21:38:54Z"
   },
   {
    "model": "iPhone 16 Pro Max",
@@ -122,10 +122,10 @@
    "date": "2026-11-25T06:42:13Z"
   },
   {
-   "model": "iPhone 17 Pro Max",
+   "model": "iPhone 17",
    "count": 2,
-   "link": "https://forums.redflagdeals.com/viewtopic.php?t=2833976&p=41389371#p41389371",
-   "date": "2026-11-25T21:03:21Z"
+   "link": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-17-256-GB-Smartphone/563903.html?iref=rss-c142",
+   "date": "2026-11-25T21:34:46Z"
   },
   {
    "model": "Galaxy A37",
@@ -140,10 +140,10 @@
    "date": "2026-11-24T09:34:11Z"
   },
   {
-   "model": "Galaxy S23+",
+   "model": "Galaxy S25 Edge",
    "count": 1,
-   "link": "https://www.dealnews.com/products/Samsung/Unlocked-Samsung-Galaxy-S23-256-GB-Smartphone/417747.html?iref=rss-c142",
-   "date": "2026-11-23T16:41:57Z"
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMzdRaldMX2NETmt5dUpHVzNic3NhUS1Rck5IQlFqV0pSNFFGVnM0bWFHYUlCY1h0Nm5PNUxKcVBqYWlwd3RCV0pDRElZRE51eHpSSVNMekgwdThXek0zZlA1TVdlVGtkNnZCOWd4WUJfS3M1UWc?oc=5",
+   "date": "2026-11-25T21:19:49Z"
   }
  ]
 }
