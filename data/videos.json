@@ -1,10 +1,9 @@
 {
- "updated": "2026-11-27T08:46:00Z",
+ "updated": "2026-11-27T21:26:00Z",
  "channels_ok": [
   "UCBJycsmduvYEL83R_U4JriQ",
   "UCMiJRAwDNSNzuYeN2uWa0pA",
   "UCWFKCr40YwOZQx8FHU_ZqqQ",
-  "UCsTcErHg8oDvUnTzoqsYeNw",
   "UCVYamHliCI9rw1tHR1xbkfw"
  ],
  "items": [
@@ -27,13 +26,6 @@
    "title": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
    "channel": "Marques Brownlee",
    "date": "2026-11-03T14:01:31Z",
-   "rel": true
-  },
-  {
-   "id": "Qw6UAdGL14s",
-   "title": "This Thing Runs On Android?",
-   "channel": "Unbox Therapy",
-   "date": "2026-11-02T18:33:27Z",
    "rel": true
   },
   {
@@ -65,13 +57,6 @@
    "rel": true
   },
   {
-   "id": "ESABTN4VtrA",
-   "title": "iPhone Duo Review: First Generation Fun!",
-   "channel": "Marques Brownlee",
-   "date": "2026-10-21T12:00:52Z",
-   "rel": true
-  },
-  {
    "id": "Xrxy_W78SKk",
    "title": "iPhone Duo is Messier Than You Think",
    "channel": "Mrwhosetheboss",
@@ -100,6 +85,13 @@
    "rel": true
   },
   {
+   "id": "ZvqYNSnsIDY",
+   "title": "Welcome to MKBHQ! The Ultimate Video Studio Tour",
+   "channel": "Marques Brownlee",
+   "date": "2026-11-27T18:06:02Z",
+   "rel": false
+  },
+  {
    "id": "-Cd_JmKG1SM",
    "title": "I've Been Keeping This A Secret",
    "channel": "Marques Brownlee",
@@ -121,13 +113,6 @@
    "rel": false
   },
   {
-   "id": "WN14ucoXt1U",
-   "title": "Unboxing the YESOUL T5 Treadmill...",
-   "channel": "Unbox Therapy",
-   "date": "2026-11-21T16:08:41Z",
-   "rel": false
-  },
-  {
    "id": "NrF4mkTmuTU",
    "title": "Why GTA is a Bigger Deal Than You Think",
    "channel": "Mrwhosetheboss",
@@ -139,13 +124,6 @@
    "title": "Can You Trust MKBHD?",
    "channel": "Marques Brownlee",
    "date": "2026-11-17T18:39:57Z",
-   "rel": false
-  },
-  {
-   "id": "Wwq6lvZ5PPA",
-   "title": "In Search of the Ultimate Pocket Camera... XTRA MUSE 2 PRO",
-   "channel": "Unbox Therapy",
-   "date": "2026-11-17T16:06:16Z",
    "rel": false
   },
   {
